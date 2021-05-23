@@ -2,45 +2,79 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T095651">
-		<found priority="all">4550000</found>
+	<response date="20210401T231148">
+		<found priority="all">100</found>
+		<addresults>
+			<relatedQuestions>
+				<question>
+					<title>Маникюр Минск Малиновка</title>
+				</question>
+				<question>
+					<title>Маникюр минск мир</title>
+				</question>
+				<question>
+					<title>Маникюр Минск акции</title>
+				</question>
+				<question>
+					<title>Маникюр Минск СЛИВКИ</title>
+				</question>
+				<question>
+					<title>Маникюр Минск Каменная горка</title>
+				</question>
+				<question>
+					<title>Маникюр минск уручье</title>
+				</question>
+				<question>
+					<title>Маникюр Минск Фрунзенский район</title>
+				</question>
+				<question>
+					<title>Маникюр минск Инстаграм</title>
+				</question>
+				<question>
+					<title>Маникюр минск Советский район</title>
+				</question>
+				<question>
+					<title>Маникюр минск Заводской район</title>
+				</question>
+				<question>
+					<title>Мужской маникюр минск</title>
+				</question>
+				<question>
+					<title>Маникюр Минск Центральный район</title>
+				</question>
+			</relatedQuestions>
+		</addresults>
 		<localresultsplace>
 			<item>
 				<title>Ноготки</title>
 				<place_id>5178655245273773252</place_id>
-				<url>http://salonnogotki.by/</url>
+				<url/>
 				<rating>4,4</rating>
 			</item>
 			<item>
 				<title>Школа и студия маникюра Non Stop Nails</title>
 				<place_id>6463362941268046626</place_id>
-				<url>https://non-stop-nails.by/</url>
+				<url/>
 				<rating>4,8</rating>
 			</item>
-			<item>
-				<title>Маникюр в Минске - NitaNails.by</title>
-				<place_id>8087400855485829508</place_id>
-				<url>http://nitanails.by/</url>
-				<rating>5,0</rating>
-			</item>
 		</localresultsplace>
-		<bottomads>
+		<topads>
 			<query>
-				<url>https://www.bellanika.by/маникюр_минск</url>
-				<title>Маникюр в Минске - Цены от 24 BYN</title>
-				<snippet>Маникюр в Минске - Цены от 24 BYN</snippet>
+				<url>http://frezanails.by/</url>
+				<title>Маникюр в Минске - Студия Freza, м.Восток - Недорого - frezanails.by</title>
+				<snippet/>
 			</query>
 			<query>
-				<url>http://www.точкакрасоты.бел/</url>
-				<title>«Точка красоты» (BeautyTochka) - Салон красоты в Минске</title>
-				<snippet>«Точка красоты» (BeautyTochka) - Салон красоты в Минске</snippet>
+				<url>https://www.instagram.com/fine.line_studio/</url>
+				<title>Минск, Захарова 59 - Маникюр и педикюр - Стрижка и окрашивание волос - instagram.com</title>
+				<snippet/>
 			</query>
 			<query>
-				<url>https://www.sirius-salon.by/</url>
-				<title>Сделать маникюр в Минске - Метро &quot;Петровщина&quot;</title>
-				<snippet>Сделать маникюр в Минске - Метро &quot;Петровщина&quot;</snippet>
+				<url>https://www.googleadservices.com/pagead/aclk?sa=L&amp;amp;ai=DChcSEwiHxPzYld7vAhVEo7IKHX0sDzUYABAQGgJscg&amp;amp;ohost=www.google.com&amp;amp;cid=CAASE-RoZj6R6Z0ikBsdKi6f3kaYeZ0&amp;amp;sig=AOD64_2JUALHeJU8BoJsuvr2xqXI0zUxPw&amp;amp;ved=2ahUKEwiWhfbYld7vAhWBtYsKHTv6DbwQkPAFegQIBRAB&amp;amp;adurl=</url>
+				<title>Салон красоты IVORY Студия наращивания ресниц - Минск 4,7 (93) Салон красоты · Закрыто</title>
+				<snippet/>
 			</query>
-		</bottomads>
+		</topads>
 		<results>
 			<grouping>
 				<page first="1" last="9">0</page>
@@ -48,123 +82,168 @@
 					<doccount>1</doccount>
 					<doc>
 						<url>https://www.relax.by/cat/health/manicure/</url>
-						<title><![CDATA[ Маникюр и педикюр в Минске – цены, отзывы. Где сделать ... ]]></title>
+						<title><![CDATA[Маникюр и педикюр в Минске – цены, отзывы. Где сделать французский маникюр, аппаратный педикюр в Минске: нейл-бары - Relax.by]]></title>
 						<passages>
-							<passage><![CDATA[ Где лучше сделать <hlword> маникюр </hlword> и педикюр в <hlword> Минске </hlword> , подскажет Relax.by. Мужской и женский <hlword> маникюр </hlword> в <hlword> Минске </hlword> : цены, адреса на карте, телефоны ... ]]></passage>
+							<passage><![CDATA[ Где лучше сделать маникюр и педикюр в Минске, подскажет Relax.by. Мужской и женский маникюр в Минске: цены, адреса на карте, телефоны маникюрных салонов, нейл-баров, карта проезда. ]]></passage>
 						</passages>
-						<extendedpassage>От 5,00 BYN до 64,00 BYN</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:25RdkcY8RP0J:https://www.relax.by/cat/health/manicure/+&amp;cd=10&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="2">
 					<doccount>1</doccount>
 					<doc>
-						<url>http://salonnogotki.by/uslugi/manikyur-v-minske.html</url>
-						<title><![CDATA[ Сделать маникюр в студии Ноготки в Минске, цена на услуги ]]></title>
+						<url>https://www.103.by/cat/krasota/manikur/</url>
+						<title><![CDATA[Маникюр в Минске: цены, отзывы, где сделать маникюр недорого - 103.BY]]></title>
 						<passages>
-							<passage><![CDATA[ Компания «Ноготки» предлагает сделать <hlword> маникюр </hlword> в шикарном салоне на Немиге в <hlword> Минске </hlword> , узнайте у нас стоимость услуги. Лучшие специалисты в ... ]]></passage>
+							<passage><![CDATA[ Хотите сделать маникюр в Минске? Полный перечень всех маникюрных салонов города с телефонами и отзывыми вы найдете на справочном портале 103.by. ]]></passage>
 						</passages>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:VNKZGhABMZsJ:salonnogotki.by/uslugi/manikyur-v-minske.html+&amp;cd=11&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="3">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://www.slivki.by/salony-krasoty/manikyur</url>
-						<title><![CDATA[ Маникюр в Минске со скидкой, услуги маникюра ногтей на ... ]]></title>
+						<title><![CDATA[Маникюр в Минске со скидкой, услуги маникюра ногтей на акции от 3 руб – лучшие цены и купоны - Slivki.by]]></title>
 						<passages>
-							<passage><![CDATA[ ЖМИ! Сделать <hlword> маникюр </hlword> в <hlword> Минске </hlword> недорого со скидкой ⭐️60%⭐️! Все виды услуг <hlword> маникюра </hlword> ногтей в салонах красоты города. Купоны от 200 ... ]]></passage>
+							<passage><![CDATA[ ЖМИ! Сделать маникюр в Минске недорого со скидкой ⭐️60%⭐️! Все виды услуг маникюра ногтей в салонах красоты города. Купоны от 200 компаний! ▻ Лучшая стоимость! ➨ Адреса. ➨ Телефоны. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:cY_fN9JmF3IJ:https://www.slivki.by/salony-krasoty/manikyur+&amp;cd=12&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+						<extendedpassage>Маникюр/педикюр...</extendedpassage>
+						<oneline_sitelinks>
+							<sitelink>
+								<url>https://www.slivki.by/pokryrie-gel-lak-obrabotka-minsk-skidka-tvoyaparikmaherskaya</url>
+								<title>Маникюр/педикюр...</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://www.slivki.by/manikyur-pedikyur-minsk-skidka-pavlin</url>
+								<title>Аппаратный маникюр или...</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://www.slivki.by/salony-krasoty/manikyur/muzhskoy-manikyur</url>
+								<title>Мужской маникюр</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://www.slivki.by/salony-krasoty/manikyur/spa-manikyur</url>
+								<title>SPA-маникюр</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://www.slivki.by/manikyur-minsk-skidka-kemezhuk</url>
+								<title>Комбинированный маникюр...</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://www.slivki.by/manikyur-pokrytie-minsk-skidka-mila</url>
+								<title>Маникюр + долговременное...</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://www.slivki.by/manikyur-pedikyur-pokrytie-minsk-skidka-colombe</url>
+								<title>Маникюр женский/мужской...</title>
+								<snippet/>
+							</sitelink>
+						</oneline_sitelinks>
 					</doc>
 				</group>
 				<group id="4">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.103.by/cat/krasota/manikur/</url>
-						<title><![CDATA[ Маникюр в Минске: цены, отзывы, где сделать маникюр ... ]]></title>
+						<url>http://salonnogotki.by/uslugi/manikyur-v-minske.html</url>
+						<title><![CDATA[Сделать маникюр в студии Ноготки в Минске, цена на услуги - Маникюрня Ноготки]]></title>
 						<passages>
-							<passage><![CDATA[ Хотите сделать <hlword> маникюр </hlword> в <hlword> Минске </hlword> ? Полный перечень всех маникюрных салонов города с телефонами и отзывыми вы найдете на справочном портале ... ]]></passage>
+							<passage><![CDATA[ Компания «Ноготки» предлагает сделать маникюр в шикарном салоне на Немиге в Минске, узнайте у нас стоимость услуги. Лучшие специалисты в городе. ]]></passage>
 						</passages>
-						<extendedpassage>От 6,30 BYN до 50,00 BYN</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:ilqQSt28z2MJ:https://www.103.by/cat/krasota/manikur/+&amp;cd=13&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="5">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://vk.com/manicure_free</url>
-						<title><![CDATA[ Услуги Маникюр Минск Бесплатно/Дешево | ВКонтакте ]]></title>
+						<url>https://handshaker.by/catalog/manikyur-pedikyur</url>
+						<title><![CDATA[Маникюр в Минске - 298 предложений, отзывы и цены - Handshaker]]></title>
 						<passages>
-							<passage><![CDATA[ Наше представительство в Инстаграм https://instagram.com/modeli.vminske Это сообщество создано для тех, кто ищет моделей/клиентов для ногтевого  ... ]]></passage>
+							<passage><![CDATA[ Хотите сделать маникюр в Минске? Все лучшие мастера маникюра, салоны и нэйлбары Минска. Маникюр на дому. Наращивание ногтей в Минске. Услуги маникюра, покрытие ногтей лаком, гелем, гель- лаком ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:mSrYajqxFfIJ:https://vk.com/manicure_free+&amp;cd=14&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+						<extendedpassage>Оценка
+                              
+                              
+                              
+                              
+                                
+                                  
+                                    4,8
+                                  
+                                  
+                                    
+                                    
+                                  
+                                  
+                                    (68)  Цена
+                              
+                              
+                              
+                              
+                                От 2,00 Br до 97,00 Br</extendedpassage>
 					</doc>
 				</group>
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://handshaker.by/catalog/manikyur-pedikyur</url>
-						<title><![CDATA[ Маникюр в Минске - 297 предложений, отзывы и цены ]]></title>
+						<url>https://redsale.by/krasota/manikur</url>
+						<title><![CDATA[Маникюр в Минске – 318 мастеров, 935 отзывов, цены – RedSale.by]]></title>
 						<passages>
-							<passage><![CDATA[ Хотите сделать <hlword> маникюр </hlword> в <hlword> Минске </hlword> ? Все лучшие мастера <hlword> маникюра </hlword> , салоны и нэйлбары <hlword> Минска </hlword> . <hlword> Маникюр </hlword> на дому. Наращивание ногтей в <hlword> Минске </hlword> . ]]></passage>
+							<passage><![CDATA[ Маникюр Минск – цены от 0.3 руб./усл. ⚡ Услуги лучших мастеров: стоимость, отзывы и рейтинг профессионалов. ✔️Недорогие услуги с выездом на дом ✔️Онлайн-запись ✔️Примеры работ. ]]></passage>
 						</passages>
-						<stars>4,8</stars>
-						<extendedpassage>Рейтинг: 4,8
+						<extendedpassage>Оценка
+                              
+                              
+                              
+                              
                                 
-                                 · ‎
-                                
-                                  68 отзывов
-                                
-                                 · ‎
-                                
-                                  От 2,00 BYN до 97,00 BYN</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:Kq5rFS-Ex2sJ:https://handshaker.by/catalog/manikyur-pedikyur+&amp;cd=15&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+                                  
+                                    4,8
+                                  
+                                  
+                                    
+                                    
+                                  
+                                  
+                                    (935)  Цена
+                              
+                              
+                              
+                              
+                                от 0.3 до 45 б.р.</extendedpassage>
 					</doc>
 				</group>
 				<group id="7">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://ermilov.by/novosti/top-5-mest-gde-mozhno-sdelat-horoshiy-manikyur-v-minske</url>
-						<title><![CDATA[ Топ - 5 мест, где можно сделать хороший маникюр в Минске. ]]></title>
+						<url>https://m.vk.com/manicure_free</url>
+						<title><![CDATA[Услуги Маникюр Минск Бесплатно/Дешево | ВКонтакте]]></title>
 						<passages>
-							<passage><![CDATA[ Ermilov.by собрал ТОП салонов, где <hlword> маникюр </hlword> в <hlword> Минске </hlword> делают на высшем уровне. ]]></passage>
+							<passage><![CDATA[ Наше представительство в Инстаграм https://instagram.com/modeli.vminske Это сообщество создано для тех, кто ищет моделей/клиентов для ногтевого сервиса: маникюр, педикюр, наращивание ногтей, ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:srsZDMhByYIJ:https://ermilov.by/novosti/top-5-mest-gde-mozhno-sdelat-horoshiy-manikyur-v-minske+&amp;cd=16&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="8">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://zoon.by/minsk/beauty/type/manikyur/</url>
-						<title><![CDATA[ Где сделать маникюр в Минске с адресами, отзывами и ... ]]></title>
+						<title><![CDATA[Где сделать маникюр в Минске с адресами, отзывами и фото - Zoon.by]]></title>
 						<passages>
-							<passage><![CDATA[ Где сделать <hlword> маникюр </hlword> : ⭐️ 527 салонов красоты и СПА в <hlword> Минске </hlword> . Где сделать <hlword> маникюр </hlword> в <hlword> Минске </hlword> с адресами, ☎️ телефонами, ценами, ✉️ отзывами ... ]]></passage>
+							<passage><![CDATA[ Где сделать маникюр: ⭐️ 529 салонов красоты и СПА в Минске. Где сделать маникюр в Минске с адресами, ☎️ телефонами, ценами, ✉️ отзывами посетителей и фото. Удобный поиск по режиму работы, ... ]]></passage>
 						</passages>
-						<stars>4,2</stars>
-						<extendedpassage>Рейтинг: 4,2
-                                
-                                 · ‎
-                                
-                                  2 402 голоса</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:og3WoapK6i0J:https://zoon.by/minsk/beauty/type/manikyur/+&amp;cd=17&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="9">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://safina.by/services/nogtevoy-servis</url>
-						<title><![CDATA[ Сделать маникюр в Минске по доступным ценам в студии ... ]]></title>
+						<title><![CDATA[Сделать маникюр в Минске по доступным ценам в студии Сафина]]></title>
 						<passages>
-							<passage><![CDATA[ Хотите сделать <hlword> маникюр Минск </hlword> по выгодным ценам? Для вас аппаратный, классический, комби маникюр, долговременное покрытие и наращивание ... ]]></passage>
+							<passage><![CDATA[ Хотите сделать маникюр Минск по выгодным ценам? Для вас аппаратный, классический, комби маникюр, долговременное покрытие и наращивание ногтей. ]]></passage>
 						</passages>
-						<stars>5</stars>
-						<extendedpassage>Рейтинг: 5
-                                
-                                 · ‎
-                                
-                                  4 голоса</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:pFcR-2Qp_04J:https://safina.by/services/nogtevoy-servis+&amp;cd=18&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 			</grouping>

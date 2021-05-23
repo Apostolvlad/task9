@@ -2,24 +2,27 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T100619">
+	<response date="20210401T222556">
 		<found priority="all">100</found>
 		<addresults>
 			<relatedQuestions>
 				<question>
-					<title>Дрессировка собак Минск уручье</title>
+					<title>Дрессировка собак с выездом на дом</title>
+				</question>
+				<question>
+					<title>Дрессировка охотничьих собак Минск</title>
 				</question>
 				<question>
 					<title>Кинолог Минск отзывы</title>
-				</question>
-				<question>
-					<title>Дрессировка собак самостоятельно</title>
 				</question>
 				<question>
 					<title>Дрессировка собак цена</title>
 				</question>
 				<question>
 					<title>Кинолог Минск обучение</title>
+				</question>
+				<question>
+					<title>Дрессировка собак самостоятельно</title>
 				</question>
 				<question>
 					<title>Кинолог Минск Фрунзенский район</title>
@@ -39,9 +42,6 @@
 				<question>
 					<title>Услуги кинолога цена</title>
 				</question>
-				<question>
-					<title>Курсы дрессировки собак</title>
-				</question>
 			</relatedQuestions>
 		</addresults>
 		<localresultsplace>
@@ -57,34 +57,18 @@
 				<url/>
 				<rating>4,4</rating>
 			</item>
-			<item>
-				<title>Дрессировка собак в Минске и Минской области. Кинолог</title>
-				<place_id>14178655537583683862</place_id>
-				<url/>
-				<rating>4,7</rating>
-			</item>
 		</localresultsplace>
-		<bottomads>
+		<topads>
 			<query>
 				<url>https://www.instagram.com/denis__sidorovich/</url>
-				<title>лучшая цена в городе от 20р - Кинолог Минск</title>
+				<title>лучшая цена в городе от 20р - дрессировка собак Минск - Кинолог Минск - instagram.com</title>
 				<snippet/>
 			</query>
-		</bottomads>
+		</topads>
 		<results>
 			<grouping>
-				<page first="1" last="9">0</page>
+				<page first="1" last="10">0</page>
 				<group id="1">
-					<doccount>1</doccount>
-					<doc>
-						<url>https://m.vk.com/dressvminske</url>
-						<title><![CDATA[Дрессировка собак. Кинолог. | ВКонтакте]]></title>
-						<passages>
-							<passage><![CDATA[ Дрессировка собак в Минске. Защита.Послушание. Коррекция поведения. Наш телефон для Ваших вопросов: +375296953927 Приглашаем Вас к нам на занятия: - по общему курсу #дрессировки; - по ... ]]></passage>
-						</passages>
-					</doc>
-				</group>
-				<group id="2">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://zooqi.by/services/dressirovka</url>
@@ -94,7 +78,7 @@
 						</passages>
 					</doc>
 				</group>
-				<group id="3">
+				<group id="2">
 					<doccount>1</doccount>
 					<doc>
 						<url>http://www.bosko.by/</url>
@@ -102,15 +86,71 @@
 						<passages>
 							<passage><![CDATA[ БОСКО предлагает услуги по первоначальной дрессировке щенков, а также взрослых собак. Опытные кинологи проконсультируют по вопросам кормления, выращивания, социализации и коррекции ... ]]></passage>
 						</passages>
+						<extendedpassage>БОСКО Секции по...</extendedpassage>
+						<oneline_sitelinks>
+							<sitelink>
+								<url>http://www.bosko.by/sekcii.php</url>
+								<title>БОСКО Секции по...</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>http://www.bosko.by/canine.php</url>
+								<title>Курсы кинологов</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>http://www.bosko.by/instructors.php</url>
+								<title>Наши инструктора</title>
+								<snippet/>
+							</sitelink>
+						</oneline_sitelinks>
 					</doc>
 				</group>
-				<group id="4">
+				<group id="3">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://dressirovka-sobak.by/</url>
 						<title><![CDATA[Дрессировка собак с выездом на дом. | Кинолог с выездом на дом | Минск]]></title>
 						<passages>
 							<passage><![CDATA[ Дрессировка собак. Воспитание и дисциплина. Возможно обучение с выездом к вам. Оплата по результату. ]]></passage>
+						</passages>
+						<extendedpassage>Дрессировка собак с...</extendedpassage>
+						<oneline_sitelinks>
+							<sitelink>
+								<url>https://dressirovka-sobak.by/news</url>
+								<title>Дрессировка собак с...</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://dressirovka-sobak.by/catalog</url>
+								<title>Услуги</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://dressirovka-sobak.by/partnership</url>
+								<title>Стоимость</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://dressirovka-sobak.by/wherebuy</url>
+								<title>Вопросы и ответы</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://dressirovka-sobak.by/contact</url>
+								<title>Как связаться с дресировщиком</title>
+								<snippet/>
+							</sitelink>
+						</oneline_sitelinks>
+					</doc>
+				</group>
+				<group id="4">
+					<doccount>1</doccount>
+					<doc>
+						<url>https://m.vk.com/dog_school_by</url>
+						<title><![CDATA[Школа Послушных Собак. Дрессировка в Минске | ВКонтакте]]></title>
+						<passages>
+							<passage><![CDATA[ Дрессировка собак всех пород в Минске! Групповые и индивидуальные занятия с профессиональными кинологами. Мы предлагаем: Индивидуальные занятия с выездом по Минску Щенячья группа с 3 ... ]]></passage>
 						</passages>
 					</doc>
 				</group>
@@ -127,6 +167,16 @@
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
+						<url>https://minsk.kabanchik.by/amp/category/obuchenie-i-dressirovka-sobak</url>
+						<title><![CDATA[ᐈ Обучение и Дрессировка Собак Минск — Цены 2021, Стоимость - Kabanchik.by]]></title>
+						<passages>
+							<passage><![CDATA[ Обучение и дрессировка собак в г. Минск. Качественная стрижка по доступным ценам. Только проверенные кинологи с отзывами и портфолио. Заказывайте услугу прямо сейчас! ]]></passage>
+						</passages>
+					</doc>
+				</group>
+				<group id="7">
+					<doccount>1</doccount>
+					<doc>
 						<url>http://www.proffidog.by/</url>
 						<title><![CDATA[Дрессировка собак в Минске, кинолог в Минске. Осторожно работают профессионалы]]></title>
 						<passages>
@@ -134,23 +184,13 @@
 						</passages>
 					</doc>
 				</group>
-				<group id="7">
+				<group id="8">
 					<doccount>1</doccount>
 					<doc>
 						<url>http://m.irr.by/animalsandplants/service/training_/</url>
 						<title><![CDATA[Дрессировка в Минске на сайте "Из рук в руки"]]></title>
 						<passages>
 							<passage><![CDATA[ АРТАДОГ Профессиональная дрессировка собак Минск. 30 руб. Минск. 11 марта 2021 ... ]]></passage>
-						</passages>
-					</doc>
-				</group>
-				<group id="8">
-					<doccount>1</doccount>
-					<doc>
-						<url>https://www.instagram.com/skilfuldog/?hl=ru</url>
-						<title><![CDATA[ДРЕССИРОВКА СОБАК В МИНСКЕ (@skilfuldog) • Instagram photos and videos]]></title>
-						<passages>
-							<passage><![CDATA[ 2166 Followers, 1162 Following, 558 Posts - See Instagram photos and videos from ДРЕССИРОВКА СОБАК В МИНСКЕ (@skilfuldog) ]]></passage>
 						</passages>
 					</doc>
 				</group>
@@ -161,6 +201,16 @@
 						<title><![CDATA[Услуги кинолога в Минске с выездом на дом]]></title>
 						<passages>
 							<passage><![CDATA[ Дрессировка, выгул, хендлинг, корректировка поведения собак от профессионального кинолога Егора Иванова в Минске с выездом на дом. ]]></passage>
+						</passages>
+					</doc>
+				</group>
+				<group id="10">
+					<doccount>1</doccount>
+					<doc>
+						<url>http://druzhok.by/index.php/uslugi/dressirovka-sobak-v-minske</url>
+						<title><![CDATA[Дрессировка собак в Минске. Узнать стоимость услуг - druzhok.by]]></title>
+						<passages>
+							<passage><![CDATA[ Дрессировка собак в Минске. Курс дрессировки взрослых собак и щенков по доступной цене. Узнайте стоимость услуг наших профессионалов прямо сейчас. ]]></passage>
 						</passages>
 					</doc>
 				</group>

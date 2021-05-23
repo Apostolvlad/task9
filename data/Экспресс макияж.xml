@@ -2,7 +2,7 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T100533">
+	<response date="20210401T210216">
 		<found priority="all">100</found>
 		<addresults>
 			<relatedQuestions>
@@ -12,28 +12,17 @@
 				<question>
 					<title>Дневной макияж</title>
 				</question>
+				<question>
+					<title>Брови галерея минск</title>
+				</question>
+				<question>
+					<title>Макияж на дому</title>
+				</question>
 			</relatedQuestions>
 		</addresults>
-		<topads>
-			<query>
-				<url>https://www.instagram.com/mariikasychevich/</url>
-				<title>Макияж Минск, Визажист - С выездом. Пишите в директ - Профессиональная косметика - instagram.com</title>
-				<snippet/>
-			</query>
-		</topads>
 		<bottomads>
 			<query>
-				<url>https://makeup-martynova.by/makeup</url>
-				<title>Макияж по доступным ценам - Сертифицированный мастер</title>
-				<snippet/>
-			</query>
-			<query>
-				<url>https://makeup-profi.by/uslugi-i-tseny/</url>
-				<title>Макияж на Дом в Минске - Более 100 Довольных Клиентов</title>
-				<snippet/>
-			</query>
-			<query>
-				<url>https://www.googleadservices.com/pagead/aclk?sa=L&amp;amp;ai=DChcSEwi0-tSc4tfvAhUSdhgKHUDiCKIYABACGgJsZQ&amp;amp;ae=2&amp;amp;ohost=www.google.com&amp;amp;cid=CAASE-Ro8KoAVRXHRP0BtC3EoQqn15M&amp;amp;sig=AOD64_2YtZl9v4rsY1jTiKy6hU7JVcC7uQ&amp;amp;adurl=&amp;amp;q=</url>
+				<url>https://www.googleadservices.com/pagead/aclk?sa=L&amp;amp;ai=DChcSEwjyjf_e-N3vAhUDl7IKHRzZAx8YABAAGgJscg&amp;amp;ae=2&amp;amp;ohost=www.google.com&amp;amp;cid=CAASE-RoT2BCD3dsuHZgpmrDgXu_X_E&amp;amp;sig=AOD64_1i4oxYgIJKeDcVBSgsSlBvtk8dNw&amp;amp;adurl=&amp;amp;q=</url>
 				<title>Профессиональный макияж - В студии Бьютифай в Минске</title>
 				<snippet/>
 			</query>
@@ -65,7 +54,7 @@
 					<doccount>1</doccount>
 					<doc>
 						<url>https://redsale.by/krasota/makiyazh/ekspress</url>
-						<title><![CDATA[Экспресс макияж в Минске – 114 мастеров, 872 отзыва, цены – RedSale.by]]></title>
+						<title><![CDATA[Экспресс макияж в Минске – 114 мастеров, 880 отзывов, цены – RedSale.by]]></title>
 						<passages>
 							<passage><![CDATA[ Экспресс макияж Минск – цены от 10.0 руб./усл. ⚡ Услуги лучших мастеров: стоимость, отзывы и рейтинг профессионалов. ✔️Недорогие услуги с выездом на дом ✔️Онлайн-запись ✔️Примеры работ. ]]></passage>
 						</passages>
@@ -83,7 +72,7 @@
                                     
                                   
                                   
-                                    (872)  Цена
+                                    (880)  Цена
                               
                               
                               
@@ -94,16 +83,6 @@
 				<group id="4">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.103.by/cat/beauty/ekspress-makijazh/</url>
-						<title><![CDATA[Экспресс-макияж в Минске – адреса и телефоны, карта проезда. - 103.BY]]></title>
-						<passages>
-							<passage><![CDATA[ Экспресс-макияж в Минске – адреса, телефоны и график работы на 103.by! Схему проезда смотрите на карте. ]]></passage>
-						</passages>
-					</doc>
-				</group>
-				<group id="5">
-					<doccount>1</doccount>
-					<doc>
 						<url>https://browbar12.by/goods/make-up/</url>
 						<title><![CDATA[Макияж в Минске, сделать макияж недорого, цена на макияж на browbar12.by]]></title>
 						<passages>
@@ -111,13 +90,23 @@
 						</passages>
 					</doc>
 				</group>
-				<group id="6">
+				<group id="5">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://pricheskino.by/services/ekspress-makiyazh/</url>
 						<title><![CDATA[Экспресс макияж в Минске]]></title>
 						<passages>
 							<passage><![CDATA[ Экспресс макияж в Минске. Подробная информация об услуге. Цены, отзывы, преимущества и недостатки. Возможность записи онлайн. Бесплатная консультация по телефону. Звоните! ]]></passage>
+						</passages>
+					</doc>
+				</group>
+				<group id="6">
+					<doccount>1</doccount>
+					<doc>
+						<url>https://www.103.by/cat/beauty/ekspress-makijazh/</url>
+						<title><![CDATA[Экспресс-макияж в Минске – адреса и телефоны, карта проезда. - 103.BY]]></title>
+						<passages>
+							<passage><![CDATA[ Экспресс-макияж в Минске – адреса, телефоны и график работы на 103.by! Схему проезда смотрите на карте. ]]></passage>
 						</passages>
 					</doc>
 				</group>
@@ -134,10 +123,10 @@
 				<group id="8">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.instagram.com/ann_kluchenovich/</url>
-						<title><![CDATA[ВИЗАЖИСТ МИНСК МАКИЯЖ (@ann_kluchenovich) • Instagram photos and videos]]></title>
+						<url>https://zvezda.by/services/makeup/</url>
+						<title><![CDATA[Студия макияжа в сети магазинов Звезда - Zvezda.by]]></title>
 						<passages>
-							<passage><![CDATA[ Аня и мой экспресс макияж со стрелкой! @ann_swi Добавили выразительности глазкам, не. Photo by ВИЗАЖИСТ МИНСК МАКИЯЖ in Minsk, Belarus. May be a closeup of one. Photo by ВИЗАЖИСТ МИНСК ... ]]></passage>
+							<passage><![CDATA[ В студии макияжа «Звезда» вы сможете быстро привести себя в порядок, преобразиться перед большим событием или получить индивидуальный урок красоты от профессионального визажиста. Комфортная ... ]]></passage>
 						</passages>
 					</doc>
 				</group>
@@ -154,10 +143,10 @@
 				<group id="10">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://zvezda.by/services/makeup/</url>
-						<title><![CDATA[Студия макияжа в сети магазинов Звезда - Zvezda.by]]></title>
+						<url>https://www.instagram.com/ann_kluchenovich/</url>
+						<title><![CDATA[ВИЗАЖИСТ МИНСК МАКИЯЖ (@ann_kluchenovich) • Instagram photos and videos]]></title>
 						<passages>
-							<passage><![CDATA[ В студии макияжа «Звезда» вы сможете быстро привести себя в порядок, преобразиться перед большим событием или получить индивидуальный урок красоты от профессионального визажиста. Комфортная ... ]]></passage>
+							<passage><![CDATA[ Аня и мой экспресс макияж со стрелкой! @ann_swi Добавили выразительности глазкам, не. Photo by ВИЗАЖИСТ МИНСК МАКИЯЖ in Minsk, Belarus. May be a closeup of one. Photo by ВИЗАЖИСТ МИНСК ... ]]></passage>
 						</passages>
 					</doc>
 				</group>

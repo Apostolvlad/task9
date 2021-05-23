@@ -2,7 +2,7 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T100556">
+	<response date="20210401T222520">
 		<found priority="all">100</found>
 		<addresults>
 			<relatedQuestions>
@@ -30,18 +30,6 @@
 				<question>
 					<title>Остеопат Юлия Минск</title>
 				</question>
-				<question>
-					<title>Остеопат цена</title>
-				</question>
-				<question>
-					<title>Остеопат на дом Минск</title>
-				</question>
-				<question>
-					<title>Остеопат Сергей Минск</title>
-				</question>
-				<question>
-					<title>Остеопат Брест</title>
-				</question>
 			</relatedQuestions>
 		</addresults>
 		<localresultsplace>
@@ -57,17 +45,11 @@
 				<url/>
 				<rating/>
 			</item>
-			<item>
-				<title>Остеопатия в Минске</title>
-				<place_id>1491016809638318345</place_id>
-				<url/>
-				<rating>5,0</rating>
-			</item>
 		</localresultsplace>
 		<bottomads>
 			<query>
 				<url>https://2doc.by/doctors/osteopat/detskij-osteopat</url>
-				<title>Лучшие остеопаты Минска - Онлайн запись к врачу</title>
+				<title>Лучшие остеопаты Минска - Онлайн запись к врачу - Все врачи Минска с рейтингом</title>
 				<snippet/>
 			</query>
 		</bottomads>
@@ -87,24 +69,14 @@
 				<group id="2">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://zoon.by/minsk/p-doctor-osteopat/</url>
-						<title><![CDATA[Лучшие остеопаты Минска с отзывами и фото - Zoon.by]]></title>
+						<url>https://www.103.by/list/osteopatia/minsk/</url>
+						<title><![CDATA[Остеопатия в Минске, консультация врача-остеопата. Клиники, центры остеопатии в Минске: цены, отзывы - 103.BY]]></title>
 						<passages>
-							<passage><![CDATA[ Остеопаты в Минске – ✓ 6 врачей, 7 отзывов, цены за прием и рейтинги на Zoon.by. Остеопаты Минска: полезная информация о врачах – стаж, достижения и места приема в одном месте. ]]></passage>
+							<passage><![CDATA[ Хотите получить консультацию врача-остеопата в Минске? Все клиники и медицинские центры в каталоге портала 103.by. ]]></passage>
 						</passages>
 					</doc>
 				</group>
 				<group id="3">
-					<doccount>1</doccount>
-					<doc>
-						<url>https://m.vk.com/osteopatia.v.minske</url>
-						<title><![CDATA[Остеопатия в Минске | ВКонтакте]]></title>
-						<passages>
-							<passage><![CDATA[ Остеопатия в Минске. Остеопатия в Минске от врача. Опыт более 20 лет. Записаться на сеанс: +375(29) 533-08-33. ]]></passage>
-						</passages>
-					</doc>
-				</group>
-				<group id="4">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://vrachi.by/minsk/osteopaty/</url>
@@ -114,37 +86,62 @@
 						</passages>
 					</doc>
 				</group>
+				<group id="4">
+					<doccount>1</doccount>
+					<doc>
+						<url>https://zoon.by/minsk/p-doctor-osteopat/</url>
+						<title><![CDATA[Лучшие остеопаты Минска с отзывами и фото - Zoon.by]]></title>
+						<passages>
+							<passage><![CDATA[ Остеопаты в Минске – ✓ 6 врачей, 8 отзывов, цены за прием и рейтинги на Zoon.by. Остеопаты Минска: полезная информация о врачах – стаж, достижения и места приема в одном месте. ]]></passage>
+						</passages>
+					</doc>
+				</group>
 				<group id="5">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://2doc.by/amp/doctors/osteopat</url>
-						<title><![CDATA[Остеопат в Минске: онлайн запись на прием, консультация, отзывы и цены - 2doc.by]]></title>
+						<url>https://redsale.by/krasota/massazh/osteopat</url>
+						<title><![CDATA[Остеопат в Минске – 15 массажистов, 257 отзывов, цены – RedSale.by]]></title>
 						<passages>
-							<passage><![CDATA[ 2doc – записаться онлайн на прием к 【остеопату в Минске】. Лучший платный врач остеопат, ⭐ отзывы и рейтинг врачей в медицинских центрах. Запись по ☎ — +375 29 659 12 91. ]]></passage>
+							<passage><![CDATA[ Остеопат Минск – цены от 40.0 руб./сеанс. ⚡ Услуги массажистов: стоимость, отзывы, рейтинг профессионалов. Где недорого заказать массаж с выездом на дом – Redsale.by. ]]></passage>
 						</passages>
+						<extendedpassage>Оценка
+                              
+                              
+                              
+                              
+                                
+                                  
+                                    4,8
+                                  
+                                  
+                                    
+                                    
+                                  
+                                  
+                                    (257)  Цена
+                              
+                              
+                              
+                              
+                                от 40 до 140 б.р.</extendedpassage>
 					</doc>
 				</group>
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.103.by/list/osteopatia/minsk/</url>
-						<title><![CDATA[Остеопатия в Минске, консультация врача-остеопата. Клиники, центры остеопатии в Минске: цены, отзывы - 103.BY]]></title>
+						<url>https://2doc.by/amp/doctors/osteopat</url>
+						<title><![CDATA[Остеопат в Минске: онлайн запись на прием, консультация, отзывы и цены - 2doc.by]]></title>
 						<passages>
-							<passage><![CDATA[ Хотите получить консультацию врача-остеопата в Минске? Все клиники и медицинские центры в каталоге портала 103.by. ]]></passage>
+							<passage><![CDATA[ 2doc – записаться онлайн на прием к 【остеопату в Минске】. Лучший платный врач остеопат, ⭐ отзывы и рейтинг врачей в медицинских центрах. Запись по ☎ — +375 44 783 36 54. ]]></passage>
 						</passages>
+						<faqsnippet>
+							<question>Как выбрать Остеопата на 2doc.by?</question>
+							<question>Как записаться на прием к Остеопату?</question>
+							<question>Сколько у вас отзывов об остеопатах?</question>
+						</faqsnippet>
 					</doc>
 				</group>
 				<group id="7">
-					<doccount>1</doccount>
-					<doc>
-						<url>https://redsale.by/krasota/massazh/osteopat</url>
-						<title><![CDATA[Остеопат в Минске – 15 массажистов, 255 отзывов, цены – RedSale.by]]></title>
-						<passages>
-							<passage><![CDATA[ Остеопат Минск – цены от 40.0 руб./сеанс. ⚡ Услуги массажистов: стоимость, отзывы, рейтинг профессионалов. Где недорого заказать массаж с выездом на дом – Redsale.by. ]]></passage>
-						</passages>
-					</doc>
-				</group>
-				<group id="8">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://forum.onliner.by/viewtopic.php?t=2787134</url>
@@ -152,26 +149,89 @@
 						<passages>
 							<passage><![CDATA[ Всем доброго времени суток. Не подскажет ли кто, люди добрые, есть ли у нас в Минске специалисты в области остеопатии? Благодарю заранее. archie.by Junior MemberАвтор темы ... ]]></passage>
 						</passages>
+						<extendedpassage>очень жаль :( как бы там ни было, спасибо за ответ
+                                            
+                                              
+                                            
+                                              Развернуть</extendedpassage>
+						<oneline_sitelinks>
+							<sitelink>
+								<url>https://forum.onliner.by/viewtopic.php?t=2787134#p30407917</url>
+								<title>очень жаль :( как бы там ни было, спасибо за ответ
+                                            
+                                              
+                                            
+                                              Развернуть</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://forum.onliner.by/viewtopic.php?t=2787134#p30408386</url>
+								<title>archie.by,вот к чему привёл обычный поиск в инете. Судя ...
+                                            
+                                              
+                                            
+                                              Развернуть</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://forum.onliner.by/viewtopic.php?t=2787134#p43649024</url>
+								<title>ап темке. есть ли в Минске хорошие специалисты. Прочита ...
+                                            
+                                              
+                                            
+                                              Развернуть</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://forum.onliner.by/viewtopic.php?t=2787134#p44151084</url>
+								<title>Сан. &quot;Белорусочка&quot; в Ждановичах.Очень хороший специали ...
+                                            
+                                              
+                                            
+                                              Развернуть</title>
+								<snippet/>
+							</sitelink>
+							<sitelink>
+								<url>https://forum.onliner.by/viewtopic.php?t=2787134#p44381052</url>
+								<title>современнные &quot;специалисты&quot; как правило и не читали ...
+                                            
+                                              
+                                            
+                                              Развернуть</title>
+								<snippet/>
+							</sitelink>
+						</oneline_sitelinks>
+					</doc>
+				</group>
+				<group id="8">
+					<doccount>1</doccount>
+					<doc>
+						<url>https://m.vk.com/osteopatia.v.minske</url>
+						<title><![CDATA[Остеопатия в Минске | ВКонтакте]]></title>
+						<passages>
+							<passage><![CDATA[ Остеопатия в Минске. Остеопатия в Минске от врача. Опыт более 20 лет. Записаться на сеанс: +375(29) 533-08-33. ]]></passage>
+						</passages>
 					</doc>
 				</group>
 				<group id="9">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.stranamam.ru/post/8964106/</url>
-						<title><![CDATA[Остеопат. Минск - Мамы-белорусочки - Страна Мам]]></title>
+						<url>https://osteopat.by/ru/</url>
+						<title><![CDATA[Остеопат - услуги остеопата Минск]]></title>
 						<passages>
-							<passage><![CDATA[ Дорогие страномамочки, посоветуйте хорошего остеопата в Минске. тем, кто скажет:гугл в помощь!, отвечу:гуглила! Но мнения полярно противоположные. ]]></passage>
+							<passage><![CDATA[ Остеопатия — направление мануальной медицины, в основе которого лежит метод диагностики и лечения организма руками врача. По сравнению с мануальной терапией, которую в простонародье ... ]]></passage>
 						</passages>
 					</doc>
 				</group>
 				<group id="10">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.instagram.com/osteopatbaryshev/</url>
-						<title><![CDATA[Остеопат Барышев Минск Москва (@osteopatbaryshev) • Instagram photos and videos]]></title>
+						<url>https://detiinfo.by/delimsya-opytom/osteopatiya-dialog-s-telom/</url>
+						<title><![CDATA[Детский остеопат Татьяна Утехина об остеопатии - Detiinfo.by]]></title>
 						<passages>
-							<passage><![CDATA[ 20.1k Followers, 331 Following, 203 Posts - See Instagram photos and videos from Остеопат Барышев Минск Москва (@osteopatbaryshev) ]]></passage>
+							<passage><![CDATA[ етская остеопатия вызывает все больший интерес у родителей, и порождает все больше мифов вокруг себя. Мы попросили минского психолога-остеопата Татьяну Утехину рассказать нам об ... ]]></passage>
 						</passages>
+						<pubDate>30 июл. 2019 г. —</pubDate>
 					</doc>
 				</group>
 			</grouping>

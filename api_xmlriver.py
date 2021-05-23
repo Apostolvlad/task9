@@ -26,7 +26,7 @@ def process_node(node, result, oneline_sitelinks_name = 'title'): #прилож�
                 result.update({'oneline_sitelinks':result2})
             elif child.nodeName == 'extendedpassage':
                 result.update({'extended_passage':True})
-            elif child.nodeName in ['url', 'title', 'snippet', 'cachelink']:
+            elif child.nodeName in ['url', 'title', 'snippet', 'cachelink'] and len(child.childNodes):
                 value = child.childNodes[0].nodeValue
                 if value.find('\n\t') != -1: continue
                 result.update({child.nodeName:value})
@@ -34,20 +34,25 @@ def process_node(node, result, oneline_sitelinks_name = 'title'): #прилож�
 
 def process_group(doc, base, oneline_sitelinks_name = 'title'):
     grouping = doc.getElementsByTagName('group')
+    zero_position = doc.getElementsByTagName('zeroposition')
     base_group = list()
     base.update({"items":base_group})
     for group in grouping:
         result = {'position':group.getAttribute('id'), 'extended_passage':False}
         process_node(group.getElementsByTagName('doc')[0], result, oneline_sitelinks_name = oneline_sitelinks_name)
         base_group.append(result)
+    if zero_position and len(zero_position):
+        print(zero_position[0].getElementsByTagName('url')[0].childNodes[0].nodeValue) #.getAttribute('url').nodeValue
+        return zero_position[0].getElementsByTagName('url')[0].childNodes[0].nodeValue
+    return ''
 
 def process2(path):
     base = dict()
     with open(path, encoding='UTF-8') as f: contents = f.read()
     doc = xml.dom.minidom.parseString(contents)
     doc.normalize()
-    process_group(doc, base, oneline_sitelinks_name = 'url')
-    return base
+    url = process_group(doc, base, oneline_sitelinks_name = 'url')
+    return base, url
 
 def process(path):
     with open(f'{path}\\result.xml', encoding='UTF-8') as f: contents = f.read()
@@ -65,29 +70,29 @@ def process(path):
 
 
     topads = doc.getElementsByTagName('topads')
-    if topads:
+    if topads and len(topads):
         base.update({"top_ads":len(topads[0].getElementsByTagName('query'))})
 
     bottom_ads = doc.getElementsByTagName('bottomads')
-    if bottom_ads:
+    if bottom_ads and len(bottom_ads):
         base.update({"bottom_ads":len(bottom_ads[0].getElementsByTagName('query'))})
     
     if doc.getElementsByTagName('knowledge_graph'):
         base.update({"knowledge_graph":True})
     zero_position = doc.getElementsByTagName('zeroposition')
-    if zero_position:
+    if zero_position and len(zero_position):
         result = dict()
         base.update({"zero_position":result})
         process_node(zero_position[0], result)
     
     related_guestions = doc.getElementsByTagName('question')
-    if related_guestions:
+    if related_guestions and len(related_guestions):
         result = dict()
         base.update({"related_guestions":result})
         process_node(related_guestions[0], result)
     
     related_searches = doc.getElementsByTagName('relatedSearches') # query
-    if related_searches:
+    if related_searches and len(related_searches):
         result = dict()
         base.update({"related_searches":result})
         process_node(related_searches[0], result)

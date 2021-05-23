@@ -2,43 +2,63 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T094518">
-		<found priority="all">18100</found>
-		<localresultsplace>
-			<item>
-				<title>✅ УБОРКА КВАРТИР МИНСК ✅</title>
-				<place_id>7425528270023935897</place_id>
-				<url>http://revizorro.by/</url>
-				<rating>4,8</rating>
-			</item>
-			<item>
-				<title>Уборка квартир в Минске - Problesk.by</title>
-				<place_id>3040876740600668286</place_id>
-				<url>https://www.problesk.by/</url>
-				<rating>4,8</rating>
-			</item>
-			<item>
-				<title>Генеральная уборка - клининговая компания</title>
-				<place_id>2076252225786146482</place_id>
-				<url>https://gen-uborka.by/</url>
-				<rating>5,0</rating>
-			</item>
-		</localresultsplace>
+	<response date="20210401T204337">
+		<found priority="all">100</found>
+		<addresults>
+			<relatedQuestions>
+				<question>
+					<title>Уборка квартир Минск частные объявления</title>
+				</question>
+				<question>
+					<title>Ищу женщину для уборки квартиры</title>
+				</question>
+				<question>
+					<title>Уборка квартир Минск без посредников</title>
+				</question>
+				<question>
+					<title>Подработка в Минске уборка офисов</title>
+				</question>
+				<question>
+					<title>Уберу квартиру Минск</title>
+				</question>
+				<question>
+					<title>Уборка квартир частные объявления</title>
+				</question>
+				<question>
+					<title>Домработница Минск</title>
+				</question>
+				<question>
+					<title>Уборка с ежедневной оплатой</title>
+				</question>
+				<question>
+					<title>Уборка 1 раз в неделю</title>
+				</question>
+				<question>
+					<title>Подработка уборка квартир</title>
+				</question>
+				<question>
+					<title>Нужна женщина для уборки квартиры</title>
+				</question>
+				<question>
+					<title>Клинер Минск</title>
+				</question>
+			</relatedQuestions>
+		</addresults>
 		<bottomads>
 			<query>
-				<url>https://www.bosvik.by/</url>
-				<title>Разовая Уборка - Дарим 15 руб. на уборку.</title>
-				<snippet>Разовая Уборка - Дарим 15 руб. на уборку.</snippet>
+				<url>http:///aclk?sa=L&amp;amp;ai=DChcSEwixj8bJ9N3vAhU3R5EFHbtDCGEYABABGgJscg&amp;amp;ae=2&amp;amp;sig=AOD64_0ckMORBT0bNEa-mxfyRz6E9jVGPQ&amp;amp;adurl=&amp;amp;q=</url>
+				<title>Уборка квартир в Минске - Недорого. Оплата по факту.</title>
+				<snippet/>
 			</query>
 			<query>
-				<url>https://www.cleaning-pro.by/помещения/уборка</url>
-				<title>Уборка Помещений в Минске - Компания «Cleaning-Pro»</title>
-				<snippet>Уборка Помещений в Минске - Компания «Cleaning-Pro»</snippet>
+				<url>https://profi-bel.by/domashnii_personal/domrabotnica/</url>
+				<title>Услуги домработниц - В Минске - Обращайся к профи</title>
+				<snippet/>
 			</query>
 			<query>
-				<url>https://www.biurocleaninga.by/</url>
-				<title>Уборка помещений - В Минске и в области</title>
-				<snippet>Уборка помещений - В Минске и в области</snippet>
+				<url>https://www.google.com/aclk?sa=L&amp;amp;ai=DChcSEwixj8bJ9N3vAhU3R5EFHbtDCGEYABACGgJscg&amp;amp;ae=1&amp;amp;sig=AOD64_2tHkovVjvxpS7v4aoKX0-hsPS84A&amp;amp;q=&amp;amp;ved=2ahUKEwjw7L7J9N3vAhWgAxAIHTC3BjYQ3ooFegQICBAB&amp;amp;adurl=intent://details?id=com.profibackoffice.reactnative&amp;inline=true&amp;enifd=AMO2QMZtRtzhZajNBjLqWUFScrj97q2cs0vQodyjqev9j-U9X5hmn3-Jzb2TseqVc7Jskc_jbXObT1y42M0o5-GqHkd7HiNWB5SYuURK1Qlxc_rMMwK-zv7pWohpBQh1fqQMx1i8Qw&amp;gclid=EAIaIQobChMIsY_GyfTd7wIVN0eRBR27QwhhEAMYAyAAEgJG7_D_BwE&amp;gref=EikQAhohChsKEwixj8bJ9N3vAhU3R5EFHbtDCGEQAxgDIAASAkbv8P8HARiRm43PAiIIGAUgATABOAc#Intent;scheme=market;package=com.android.vending;end;</url>
+				<title>Установить | PROFI для профи - Подработка для уборщиц 6+</title>
+				<snippet/>
 			</query>
 		</bottomads>
 		<results>
@@ -47,127 +67,121 @@
 				<group id="1">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://by.jooble.org/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8-%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F+%D1%83%D0%B1%D0%BE%D1%80%D0%BA%D0%B0+%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA</url>
-						<title><![CDATA[ Срочно работа: Разовая уборка квартиры в Минске - Март ... ]]></title>
+						<url>https://by.jooble.org/вакансии-разовая уборка квартиры/Минск</url>
+						<title><![CDATA[Срочно работа: Разовая уборка квартиры в Минске - Апрель 2021 - 2730+ вакансий - Jooble.by]]></title>
 						<passages>
-							<passage><![CDATA[ Ищете работу ➨ <hlword> Разовая уборка </hlword> квартиры <hlword> Минск </hlword> ? ✓Самая большая база актуальных вакансий по запросу <hlword> Разовая уборка </hlword> квартиры <hlword> в Минске </hlword>  ... ]]></passage>
+							<passage><![CDATA[ Ищете работу ➨ Разовая уборка квартиры Минск? ✓Самая большая база актуальных вакансий по запросу Разовая уборка квартиры в Минске ✓Конкурентная зарплата ✓Проверенные работодатели ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:gR4sMNIFY0MJ:https://by.jooble.org/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8-%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F+%D1%83%D0%B1%D0%BE%D1%80%D0%BA%D0%B0+%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA+&amp;cd=1&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="2">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://by.jooble.org/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8-%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D1%83%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B</url>
-						<title><![CDATA[ Срочно работа: Разовая уборка квартиры - Март 2021 ... ]]></title>
+						<url>https://by.jooble.org/вакансии-разовая-уборка-квартиры</url>
+						<title><![CDATA[Срочно работа: Разовая уборка квартиры - Апрель 2021 - 6250+ вакансий - Jooble.by]]></title>
 						<passages>
-							<passage><![CDATA[ ✓Самая большая база новых вакансий по запросу <hlword> Разовая уборка </hlword> ... отдыха ) - <hlword> уборка </hlword> жилого дома после ремонтных работ. ЧУП "Зауберклиник". <hlword> Минск </hlword> . ]]></passage>
+							<passage/>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:fFTpmGE_aCQJ:https://by.jooble.org/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8-%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D1%83%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B+&amp;cd=2&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="3">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://redsale.by/cleaning/uborka-kvartir/tag/razovaya</url>
-						<title><![CDATA[ Разовая уборка в Минске. Заказать клининг и уборку на ... ]]></title>
+						<url>https://belmeta.com/вакансии/Уборка-квартир</url>
+						<title><![CDATA[Работа Уборка квартир, 60+ вакансий - Belmeta.com]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Разовая уборка Минск </hlword> . ⚡ Низкие цена на профессиональный клининг. Уборка загрязнений по фиксированным ценам с выездом к клиенту. ]]></passage>
+							<passage><![CDATA[ заказы на уборку квартир и получать самую высокую ставку в Минске среди подобных вакансий. У нас ... квартир и частных домов Уборка офисов Уборка торговых, детских и развлекательных центров Уборка ... ]]></passage>
 						</passages>
-						<stars>4,7</stars>
-						<extendedpassage>Рейтинг: 4,7
-                                
-                                 · ‎
-                                
-                                  106 отзывов
-                                
-                                 · ‎
-                                
-                                  Диапазон цен: от 1 до 50 б.р.</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:NWc3WT_inZ4J:https://redsale.by/cleaning/uborka-kvartir/tag/razovaya+&amp;cd=3&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="4">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://belmeta.com/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8/%D0%A3%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80</url>
-						<title><![CDATA[ Работа Уборка квартир, 60+ вакансий - Belmeta.com ]]></title>
+						<url>https://redsale.by/cleaning/uborka-kvartir/tag/razovaya</url>
+						<title><![CDATA[Разовая уборка в Минске. Заказать клининг и уборку на дом – Redsale.by]]></title>
 						<passages>
-							<passage><![CDATA[ заказы на <hlword> уборку </hlword> квартир и получать самую высокую ставку <hlword> в Минске </hlword> среди подобных вакансий. У нас ... квартир и частных домов <hlword> Уборка </hlword> офисов ... ]]></passage>
+							<passage><![CDATA[ Разовая уборка Минск. ⚡ Низкие цена на профессиональный клининг. Уборка загрязнений по фиксированным ценам с выездом к клиенту. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:Prh8DOoWfyYJ:https://belmeta.com/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8/%D0%A3%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80+&amp;cd=4&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+						<extendedpassage>Оценка
+                              
+                              
+                              
+                              
+                                
+                                  
+                                    4,7
+                                  
+                                  
+                                    
+                                    
+                                  
+                                  
+                                    (108)  Цена
+                              
+                              
+                              
+                              
+                                от 1 до 50 б.р.</extendedpassage>
 					</doc>
 				</group>
 				<group id="5">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://minsk.kabanchik.by/tag/razovaya-uborka-kvartiri</url>
-						<title><![CDATA[ ᐈ Разовая Уборка Квартиры Минск — Цены 2021 ... ]]></title>
+						<url>https://minsk.kabanchik.by/amp/tag/razovaya-uborka-kvartiri</url>
+						<title><![CDATA[ᐈ Разовая Уборка Квартиры Минск — Цены 2021 - Kabanchik.by]]></title>
 						<passages>
-							<passage><![CDATA[ Kabanchik.by ᐈ <hlword> Разовая уборка </hlword> квартиры в г. <hlword> Минск </hlword> , цены на <hlword> уборку </hlword> квартир. Доступные цены и большой выбор исполнителей! Закажите <hlword> уборку </hlword> прямо ... ]]></passage>
+							<passage><![CDATA[ Kabanchik.by ᐈ Разовая уборка квартиры в г. Минск, цены на уборку квартир. Доступные цены и большой выбор исполнителей! Закажите уборку прямо сейчас! ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:W0aXKjBm5bcJ:https://minsk.kabanchik.by/tag/razovaya-uborka-kvartiri+&amp;cd=5&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://sch.by/razovaya-uborka/</url>
-						<title><![CDATA[ Разовая уборка помещений в Минске | Цены на уборку ]]></title>
+						<url>http://www.nashanyanya.by/domrabotnica/rabota_bez_posrednikov/Minsk_vakansii.asp</url>
+						<title><![CDATA[Работа для домработницы в Минске Найти без посредников вакансии от прямых работодателей Частные объявления помощницы по хозяйству - НашаНяня - НашаНяня.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Разовая уборка в Минске </hlword> от клининговой компании «Сервис Чистоты». ✓ Разовая уборка помещений, квартир, офисов по доступной цене. ☎ Звоните и ... ]]></passage>
+							<passage><![CDATA[ Ищем хозяйку в небольшой офис в центре Минска (Немига, за ТЦ Галерея). Нужна уборка: помыть полы, пропылесосить, протереть пыль, вынести мусор, помыть туалет/ванную...Одним словом привести офис ... ]]></passage>
 						</passages>
-						<stars>5</stars>
-						<extendedpassage>Рейтинг: 5
-                                
-                                 · ‎
-                                
-                                  4 голоса</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:EOBOoCfdxscJ:https://sch.by/razovaya-uborka/+&amp;cd=9&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="7">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://match.bergmapocahid.tk/</url>
-						<title><![CDATA[ Работа Разовая-уборка-квартиры Минск ]]></title>
+						<url>https://minsk.gorodrabot.by/уборка_квартир_подработка</url>
+						<title><![CDATA[Вакансии и работа : «уборка квартир подработка» в Минске | Поиск работы с ГородРабот.бай - Вакансии и работа в Минске - GorodRabot.by]]></title>
 						<passages>
-							<passage><![CDATA[ Ищу женщину для периодической <hlword> уборки </hlword> трёхкомнатной квартиры кв. метров. Пропылесосить, помыть полы, поддерживать в чистоте 2 санузла и. ]]></passage>
+							<passage><![CDATA[ Ищете работу по запросу «уборка квартир подработка» в Минске? У нас Вы найдете более 131 свежей вакансии от прямых работодателей, с зарплатой до 2800 руб. Откликнитесь прямо сейчас! Быстрый и ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:hq0xyhYysm8J:https://match.bergmapocahid.tk/+&amp;cd=10&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="8">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://minsk.pulscen.by/price/421411-uborka-kvartir</url>
-						<title><![CDATA[ Уборка квартир, домов заказать в Минске по выгодной цене ]]></title>
+						<url>http://trudbox.by/minsk/jobs-uborshhica_na_nepolnyy_den</url>
+						<title><![CDATA[Работа уборщицей на неполный день в Минске - вакансии уборщицы на неполный день в Минске. Найти работу на Trudbox.by]]></title>
 						<passages>
-							<passage><![CDATA[ Фильтры. Комплексная/генеральная <hlword> разовая уборка </hlword> . от 3 руб. В наличии. У нас работают лучшие профессионалы <hlword> в Минске </hlword> . Наша компания предлагает  ... ]]></passage>
+							<passage><![CDATA[ Уборка 2-х кабинетов до 70 кв. м. Без сан. узлов и коридоров. Рабочее время завит только от Вас. Почасовая оплата день в день. Рабочее место не далеко от ст.м Академия Наук. Полное описание. Минск. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:DpTqhSFvlY8J:https://minsk.pulscen.by/price/421411-uborka-kvartir+&amp;cd=11&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="9">
 					<doccount>1</doccount>
 					<doc>
-						<url>http://www.klining.santexservis.by/razovaya-uborka.htm</url>
-						<title><![CDATA[ Разовая уборка помещений в Минскев Минске Цены ]]></title>
+						<url>https://www.careerjet.by/rabota-jobs-уборка-квартир/Минск-123890.html</url>
+						<title><![CDATA[Работа : Уборка Квартир в Минске | Careerjet]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Разовая уборка </hlword> специалистами клининговой компании – это возможность в очень сжатые сроки привести необходимое помещение <hlword> в Минске </hlword> в ... ]]></passage>
+							<passage><![CDATA[ Ознакомьтесь с 16 вакансий Уборка Квартир в Минске на портале Careerjet. Огромное количество рабочих мест со всеми видами договоров в одной поисковой системе. ]]></passage>
 						</passages>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:fD3eLrI2HPEJ:www.klining.santexservis.by/razovaya-uborka.htm+&amp;cd=12&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="10">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://uborka-eco.by/razovaya</url>
-						<title><![CDATA[ Разовая уборка квартир и помещений в Минске | Mrs Clean ]]></title>
+						<url>https://match.bergmapocahid.tk/</url>
+						<title><![CDATA[Работа Разовая-уборка-квартиры Минск]]></title>
 						<passages>
-							<passage><![CDATA[ Профессиональная <hlword> разовая уборка </hlword> помещений и квартир <hlword> в Минске </hlword> по доступным ценам. Заказать <hlword> уборку </hlword> по телефону☎+37529349-59-55. ]]></passage>
+							<passage><![CDATA[ Ищу женщину для периодической уборки трёхкомнатной квартиры кв. метров. Пропылесосить, помыть полы, поддерживать в чистоте 2 санузла и. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:Dib3tdFtcCMJ:https://uborka-eco.by/razovaya+&amp;cd=13&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 			</grouping>

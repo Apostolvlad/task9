@@ -2,35 +2,36 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T095757">
-		<found priority="all">103000</found>
-		<topads>
-			<query>
-				<url>https://potolki.ferico.by/рассрочка-0%/-без-переплат</url>
-				<title>Монтаж без грязи за 1 день - Работаем 15 лет для вас</title>
-				<snippet>Монтаж без грязи за 1 день - Работаем 15 лет для вас</snippet>
-			</query>
-			<query>
-				<url>https://www.zinga.by/пескоструй/фасадов</url>
-				<title>Очистка стен от краски - Пескоструй поверхностей - zinga.by</title>
-				<snippet>Очистка стен от краски - Пескоструй поверхностей - zinga.by</snippet>
-			</query>
-		</topads>
+	<response date="20210401T225528">
+		<found priority="all">100</found>
+		<addresults>
+			<relatedQuestions>
+				<question>
+					<title>Шпатлевка потолка цена минск</title>
+				</question>
+				<question>
+					<title>Шпаклевка и покраска потолка из гипсокартона цена</title>
+				</question>
+				<question>
+					<title>Стоимость шпаклевки потолка под покраску</title>
+				</question>
+			</relatedQuestions>
+		</addresults>
 		<bottomads>
 			<query>
-				<url>http://www.nedorogie-potolki.by/</url>
-				<title>Натяжные Потолки в Минске - Цены ниже Конкурентов</title>
-				<snippet>Натяжные Потолки в Минске - Цены ниже Конкурентов</snippet>
+				<url>https://profi-bel.by/remont/malyarnye-shtukaturnye-raboty/</url>
+				<title>Шлифовка потолка? - Обращайтесь к профи</title>
+				<snippet/>
 			</query>
 			<query>
-				<url>https://www.brigadi.by/</url>
-				<title>Шлифовка потолка в Минске - цены, мастера, отзывы -...</title>
-				<snippet>Шлифовка потолка в Минске - цены, мастера, отзывы -...</snippet>
-			</query>
-			<query>
-				<url>https://minsk.centrpotolkov.by/подробнее/потолки</url>
+				<url>https://minsk.centrpotolkov.by/</url>
 				<title>Любой сложности - Минск</title>
-				<snippet>Любой сложности - Минск</snippet>
+				<snippet/>
+			</query>
+			<query>
+				<url>https://getprofi.by/minsk/masters/shpaklevka-i-shlifovka-potolka-pod-okrasku</url>
+				<title>Шпаклевка и шлифовка потолка под окраску в Минске | Getprofi</title>
+				<snippet/>
 			</query>
 		</bottomads>
 		<results>
@@ -40,140 +41,120 @@
 					<doccount>1</doccount>
 					<doc>
 						<url>https://sdelai.by/shpaklevochnye-raboty/shlifovka-potolka/</url>
-						<title><![CDATA[ Шлифовка потолка - цена в Минске ]]></title>
+						<title><![CDATA[Шлифовка потолка - цена в Минске]]></title>
 						<passages>
-							<passage><![CDATA[ Профессиональная <hlword> шлифовка потолка </hlword> по приемлемым ценам в <hlword> Минске </hlword> . Обращайтесь! ]]></passage>
+							<passage><![CDATA[ Профессиональная шлифовка потолка по приемлемым ценам в Минске. Обращайтесь! ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:VJU1dEPd8OYJ:https://sdelai.by/shpaklevochnye-raboty/shlifovka-potolka/+&amp;cd=1&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="2">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://redsale.by/remont/stuccoing/shlifovka-potolka</url>
-						<title><![CDATA[ Шлифовка потолка в Минске – 135 мастеров, 764 отзыва ... ]]></title>
+						<title><![CDATA[Шлифовка потолка в Минске – 136 мастеров, 756 отзывов, цены – RedSale.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Шлифовка потолка Минск </hlword> - цены, отзывы и примеры работ мастеров. ⚡ Сколько стоит недорогой ремонт на RedSale.by? Калькулятор стоимости услуг. ]]></passage>
+							<passage><![CDATA[ Шлифовка потолка Минск - цены, отзывы и примеры работ мастеров. ⚡ Сколько стоит недорогой ремонт на RedSale.by? Калькулятор стоимости услуг. ]]></passage>
 						</passages>
-						<stars>4,7</stars>
-						<extendedpassage>Рейтинг: 4,7
+						<extendedpassage>Оценка
+                              
+                              
+                              
+                              
                                 
-                                 · ‎
-                                
-                                  764 отзыва
-                                
-                                 · ‎
-                                
-                                  Диапазон цен: от 0.5 до 100 б.р.</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:H9BP_PgaFz4J:https://redsale.by/remont/stuccoing/shlifovka-potolka+&amp;cd=2&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+                                  
+                                    4,7
+                                  
+                                  
+                                    
+                                    
+                                  
+                                  
+                                    (756)  Цена
+                              
+                              
+                              
+                              
+                                от 0.5 до 100 б.р.</extendedpassage>
 					</doc>
 				</group>
 				<group id="3">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://minsk.deal.by/Shlifovka-potolka.html</url>
-						<title><![CDATA[ Шлифовка потолка в Минске. Услуги на маркетплейсе Deal ... ]]></title>
+						<title><![CDATA[Шлифовка потолка в Минске. Услуги на маркетплейсе Deal.by]]></title>
 						<passages>
-							<passage><![CDATA[ Шлифмашина для стен и <hlword> потолков </hlword> WORTEX DG 2260 в кор. со штангой (600 Вт, 600-1500 об/мин, 225 мм, регул. об.) Доставка из г. <hlword> Минск </hlword> . :+1: 100% из ... ]]></passage>
+							<passage><![CDATA[ Шлифмашина для стен и потолков WORTEX DG 2260 в кор. со штангой (600 Вт, 600-1500 об/мин, 225 мм, регул. об.) Доставка из г. Минск. :+1: 100% из 122 за год. Смотрите также. Грунтовка потолка. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:MGkhl7VNV54J:https://minsk.deal.by/Shlifovka-potolka.html+&amp;cd=3&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="4">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://minsk.kabanchik.by/tag/shlifovka-potolka</url>
-						<title><![CDATA[ ᐈ Шлифовка Потолка Минск — Цены 2021, Стоимость ... ]]></title>
+						<url>https://remok.by/amp/vidy-rabot/chistovye-i-otdelochnye-raboty/shpatlevka-potolkov</url>
+						<title><![CDATA[Шпатлевка потолков в Минске, цены. Стоимость шпатлевки потолка - Ремонт квартир под ключ - Remok.By]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Шлифовка потолка </hlword> в г. <hlword> Минск </hlword> . Профессиональное изготовление и монтаж потолков в Беларуси. Большой выбор мастеров с отзывами, рейтингом и ... ]]></passage>
+							<passage><![CDATA[ Шпаклёвка потолка под обои (2 шпаклёвка, 2 грунтовки, шлифовка), м 2 , 4. Шпатлевка потолка под окраску (4 шпаклевки, 3 грунтовки, 2 шлифовки, паутинка), м 2 , 9. Монтаж малярного угла, м.п. 1.5 ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:ZL8k29-uSfkJ:https://minsk.kabanchik.by/tag/shlifovka-potolka+&amp;cd=4&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="5">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://brigadi.by/users/shlifovka-potolka/</url>
-						<title><![CDATA[ Шлифовка потолка в Минске - цены, мастера, отзывы ... ]]></title>
+						<url>https://minsk.kabanchik.by/amp/tag/shlifovka-potolka</url>
+						<title><![CDATA[ᐈ Шлифовка Потолка Минск — Цены 2021, Стоимость - Kabanchik.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Шлифовка потолка </hlword> в <hlword> Минске </hlword> : Цены. Достоверные отзывы. Качественно, договор и гарантия. Консультация, помощь в подборе. Выбирайте лучших ... ]]></passage>
+							<passage><![CDATA[ Шлифовка потолка в г. Минск. Профессиональное изготовление и монтаж потолков в Беларуси. Большой выбор мастеров с отзывами, рейтингом и статусом. Оформляйте заявку и выбирайте! ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:ZR2Ah1h338AJ:https://brigadi.by/users/shlifovka-potolka/+&amp;cd=5&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://remok.by/vidy-rabot/chistovye-i-otdelochnye-raboty/shpatlevka-potolkov</url>
-						<title><![CDATA[ Шпатлевка потолков в Минске, цены. Стоимость шпатлевки ... ]]></title>
+						<url>https://minsk.kabanchik.by/amp/tag/shlifovka-betonnogo-potolka</url>
+						<title><![CDATA[ᐈ Шлифовка Бетонного Потолка Минск — Цены 2021, Стоимость - Kabanchik.by]]></title>
 						<passages>
-							<passage><![CDATA[ Шпаклёвка <hlword> потолка </hlword> под обои (2 шпаклёвка, 2 грунтовки, <hlword> шлифовка </hlword> ), м 2 , 4. Шпатлевка <hlword> потолка </hlword> под окраску (4 шпаклевки, 3 грунтовки, 2 <hlword> шлифовки </hlword> , ... ]]></passage>
+							<passage/>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:FbdwMdFpnfAJ:https://remok.by/vidy-rabot/chistovye-i-otdelochnye-raboty/shpatlevka-potolkov+&amp;cd=6&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="7">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://evrootdelka.by/?i=%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%88%D0%BF%D0%B0%D0%BA%D0%BB%D0%B5%D0%B2%D0%BA%D0%B0%20%D1%81%D1%82%D0%B5%D0%BD%20%D0%B8%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2,%20%D1%88%D0%BB%D0%B8%D1%84%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BF%D1%8B%D0%BB%D0%B8</url>
-						<title><![CDATA[ Механизированная шпаклевка стен и потолков, шлифовка ... ]]></title>
+						<url>https://brigadi.by/users/shlifovka-potolka/</url>
+						<title><![CDATA[Шлифовка потолка в Минске - цены, мастера, отзывы - brigadi.by]]></title>
 						<passages>
-							<passage><![CDATA[ Евроотделка.бай http://evrootdelka.by <hlword> Минск </hlword> +375 (29) 686-88-66 evrootdelka @tut.by 8,1 руб. Шпаклевка стен в <hlword> Минске </hlword> . Что это такое шпаклёвка и для ... ]]></passage>
+							<passage><![CDATA[ Шлифовка потолка в Минске : Цены. Достоверные отзывы. Качественно, договор и гарантия. Консультация, помощь в подборе. Выбирайте лучших мастеров! ]]></passage>
 						</passages>
-						<stars>4,2</stars>
-						<extendedpassage>Рейтинг: 4,2
-                                
-                                 · ‎
-                                
-                                  75 голосов</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:TVVRmU32gFwJ:https://evrootdelka.by/?i=%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%88%D0%BF%D0%B0%D0%BA%D0%BB%D0%B5%D0%B2%D0%BA%D0%B0%20%D1%81%D1%82%D0%B5%D0%BD%20%D0%B8%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2,%20%D1%88%D0%BB%D0%B8%D1%84%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BF%D1%8B%D0%BB%D0%B8+&amp;cd=7&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="8">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://getprofi.by/minsk/masters/shpaklevka-i-shlifovka-potolka-pod-okrasku</url>
-						<title><![CDATA[ Шпаклевка и шлифовка потолка под окраску в Минске ... ]]></title>
+						<url>https://evrootdelka.by/?i=Механизированная шпаклевка стен и потолков, шлифовка без пыли</url>
+						<title><![CDATA[Механизированная шпаклевка стен и потолков, шлифовка без пыли - ВЫРАВНИВАНИЕ СТЕН, ПОЛОВ И ПОТОЛКОВ - ПОТОЛКИ - Услуги и цены ... - Ремонт квартир Минск]]></title>
 						<passages>
-							<passage><![CDATA[ Частные мастера и компании занимающиеся шпаклевкой и <hlword> шлифовкой потолка </hlword> под окраску в <hlword> Минске </hlword> . Цены, рейтинг мастеров и компаний, отзывы ... ]]></passage>
+							<passage><![CDATA[ в кв.м ~ Поклейка обоев ~ шпаклёвка стен, выравнивание стен под обои, Выравнивание Стен шпатлевкой Закажите комплексный ремонт квартиры «под ключ» в Минске. Узнайте точную стоимость ремонта за ... ]]></passage>
 						</passages>
-						<stars>4,5</stars>
-						<extendedpassage>Рейтинг: 4,5
-                                
-                                 · ‎
-                                
-                                  263 голоса
-                                
-                                 · ‎
-                                
-                                  От 2,00 BYN до 12 000,00 BYN
-                                
-                                 · ‎
-                                
-                                  В наличии</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:Tc5F2e-DFEsJ:https://getprofi.by/minsk/masters/shpaklevka-i-shlifovka-potolka-pod-okrasku+&amp;cd=8&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="9">
 					<doccount>1</doccount>
 					<doc>
 						<url>http://schwamborn.by/index.php?info=619</url>
-						<title><![CDATA[ ШЛИФОВКА. ПЫЛЕСОСЫ STS | Schwamborn WDS 530 ... ]]></title>
+						<title><![CDATA[ШЛИФОВКА. ПЫЛЕСОСЫ STS | Schwamborn WDS 530 Шлифовальная машина для стен и потолков - Schwamborn в Беларуси]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> ШЛИФОВКА </hlword> . ПЫЛЕСОСЫ STS Schwamborn WDS 530 Шлифовальная машина для стен и <hlword> потолков </hlword> - Schwamborn в Беларуси. ]]></passage>
+							<passage><![CDATA[ ШЛИФОВКА. ПЫЛЕСОСЫ STS Schwamborn WDS 530 Шлифовальная машина для стен и потолков ... краски, шлифование и бучардирование для подготовки основания, шлифование и полировка бетона и ... ]]></passage>
 						</passages>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:W1mspClON48J:schwamborn.by/index.php?info=619+&amp;cd=9&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="10">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://aga.by/remont/malyarnye-i-shtukaturnye-raboty</url>
-						<title><![CDATA[ Малярные и штукатурные работы по приятным ценам Минск ]]></title>
+						<title><![CDATA[Малярны и штукатурные работы недорого - фото, цены от 2 руб., отзывы, заказать малярные работы в Минск и регионах. - AGA.by]]></title>
 						<passages>
-							<passage><![CDATA[ Шпаклёвка стен под окраску (4 шпаклёвки, 3 грунтовки, 2 <hlword> шлифовки </hlword> , паутинка ), м2, 18 руб. Штукатурка <hlword> потолка </hlword> по маякам, м2, 16 руб. Шпаклёвка <hlword> потолка </hlword>  ... ]]></passage>
+							<passage><![CDATA[ Шпаклёвка стен под обои (2 шпаклёвки, 2 грунтовки, шлифовка), м2, 8 руб. Шпаклёвка стен под окраску (4 шпаклёвки, 3 грунтовки, 2 шлифовки, паутинка), м2, 18 руб. Штукатурка потолка по маякам, м2, 16 руб. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:XjS8hpikjGkJ:https://aga.by/remont/malyarnye-i-shtukaturnye-raboty+&amp;cd=10&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 			</grouping>

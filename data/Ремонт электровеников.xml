@@ -2,38 +2,53 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T095712">
-		<found priority="all">4840000</found>
-		<localresultsplace>
-			<item>
-				<title>ТриДжиТек-Сервис. Ремонт: ноутбуков, телефонов, планшетов, бытовой техники, электроинструмента, оргтехники, сигвеев, электросамокатов.</title>
-				<place_id>11132688269336202166</place_id>
-				<url>https://service-tgt.by/</url>
-				<rating>4,3</rating>
-			</item>
-			<item>
-				<title>Ремонт кофемашин в Минске - сервисный центр LAKAVA</title>
-				<place_id>11513534796260764015</place_id>
-				<url>https://lakava.by/</url>
-				<rating>4,7</rating>
-			</item>
-			<item>
-				<title>мастерская по ремонту бытовой техники и электроники</title>
-				<place_id>8245906536426556810</place_id>
-				<url>http://rt-pro.by/</url>
-				<rating>5,0</rating>
-			</item>
-		</localresultsplace>
+	<response date="20210401T203357">
+		<found priority="all">100</found>
+		<addresults>
+			<relatedQuestions>
+				<question>
+					<title>Ремонт утюга Минск</title>
+				</question>
+				<question>
+					<title>Ремонт тостеров Минск</title>
+				</question>
+				<question>
+					<title>Ремонт чайников Минск</title>
+				</question>
+				<question>
+					<title>Ремонт мелкой бытовой техники</title>
+				</question>
+				<question>
+					<title>Ремонт рожковой кофеварки Минск</title>
+				</question>
+				<question>
+					<title>Ремонт бытовой техники с выездом</title>
+				</question>
+				<question>
+					<title>Ремонт электроприборов</title>
+				</question>
+				<question>
+					<title>Ремонт отпаривателя Минск</title>
+				</question>
+				<question>
+					<title>Ремонт кухонной техники</title>
+				</question>
+				<question>
+					<title>Ремонт бытовых приборов</title>
+				</question>
+				<question>
+					<title>Ремонт бытовой техники Московский район</title>
+				</question>
+				<question>
+					<title>Ремонт бытовой техники Минск</title>
+				</question>
+			</relatedQuestions>
+		</addresults>
 		<bottomads>
 			<query>
-				<url>https://www.chasmaster.by/</url>
-				<title>Разумные цены на услуги - Качественно и недорого</title>
-				<snippet>Разумные цены на услуги - Качественно и недорого</snippet>
-			</query>
-			<query>
-				<url>https://www.polomke.net/</url>
-				<title>Нужен ремонт бытовой техники? - Минск.</title>
-				<snippet>Нужен ремонт бытовой техники? - Минск.</snippet>
+				<url>https://www.vitanis.by/</url>
+				<title>Минск - Ремонт бытовой техники</title>
+				<snippet/>
 			</query>
 		</bottomads>
 		<results>
@@ -43,109 +58,110 @@
 					<doccount>1</doccount>
 					<doc>
 						<url>https://service-tgt.by/remont-tehniki/remont-elektrovenikov/</url>
-						<title><![CDATA[ Ремонт электровеников в Минске, цены - ТриДжиТек Сервис ]]></title>
+						<title><![CDATA[Ремонт электровеников в Минске, цены - ТриДжиТек Сервис]]></title>
 						<passages>
-							<passage><![CDATA[ Профессиональный сервисный центр «ТриДжиТек» осуществляет <hlword> ремонт электровеников </hlword> любой сложности. ✓ Доступные цены. ✓ Гарантия. ✓ На ... ]]></passage>
+							<passage><![CDATA[ Профессиональный сервисный центр «ТриДжиТек» осуществляет ремонт электровеников любой сложности. ✓ Доступные цены. ✓ Гарантия. ✓ На рынке с 2010 года! ☎+375(44)549-34-43. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:gaeXulsWokIJ:https://service-tgt.by/remont-tehniki/remont-elektrovenikov/+&amp;cd=1&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="2">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://redsale.by/remont-tehniki/elektroveniki</url>
-						<title><![CDATA[ Ремонт электровеников на дому в Минске. Цены, отзывы ... ]]></title>
+						<title><![CDATA[Ремонт электровеников на дому в Минске. Цены, отзывы – Redsale.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Ремонт электровеников Минск </hlword> . ⚡ Срочный ремонт техники с выездом на дом, бесплатной диагностикой и гарантией. Узнайте, где недорого вызвать ... ]]></passage>
+							<passage><![CDATA[ Ремонт электровеников Минск. ⚡ Срочный ремонт техники с выездом на дом, бесплатной диагностикой и гарантией. Узнайте, где недорого вызвать мастера: цены, отзывы и рейтинг анкет. ]]></passage>
 						</passages>
-						<stars>5</stars>
-						<extendedpassage>Рейтинг: 5
+						<extendedpassage>Оценка
+                              
+                              
+                              
+                              
                                 
-                                 · ‎
-                                
-                                  53 отзыва
-                                
-                                 · ‎
-                                
-                                  Диапазон цен: от 10 до 30 б.р.</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:vh9Z0brNgYYJ:https://redsale.by/remont-tehniki/elektroveniki+&amp;cd=2&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+                                  
+                                    5,0
+                                  
+                                  
+                                    
+                                    
+                                  
+                                  
+                                    (53)  Цена
+                              
+                              
+                              
+                              
+                                от 10 до 30 б.р.</extendedpassage>
 					</doc>
 				</group>
 				<group id="3">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://karcher-stuttgart.by/services/</url>
-						<title><![CDATA[ Ремонт техники Karcher (Керхер) в Минске | Сервис-центр ... ]]></title>
+						<title><![CDATA[Ремонт техники Karcher (Керхер) в Минске | Сервис-центр Штутгарт - karcher-stuttgart.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> ремонт электровеников </hlword> Керхер;; <hlword> ремонт </hlword> поломоечных машин Керхер; и <hlword> ремонт </hlword> другой техники Karcher. Кроме того, у нас вы можете приобрести ... ]]></passage>
+							<passage><![CDATA[ ремонт электровеников Керхер;; ремонт поломоечных машин Керхер; и ремонт другой техники Karcher. Кроме того, у нас вы можете приобрести расходники для техники (предварительно уточнять наличие по  ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:bBmVMrtDJKMJ:https://karcher-stuttgart.by/services/+&amp;cd=6&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="4">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://tehnosave.by/remont-bytovoj-tehniki/</url>
-						<title><![CDATA[ Ремонт бытовой техники - ТехноSave (ТехноСэйв) ]]></title>
+						<title><![CDATA[Ремонт бытовой техники - ТехноSave (ТехноСэйв) - Ремонт бытовой техники в Минске]]></title>
 						<passages>
-							<passage><![CDATA[ 3-х этапное тестирование устройства на качество выполненных работ. 7. Оповещение клиента о выполненной работе. 8. Выдача устройства с ... ]]></passage>
+							<passage><![CDATA[ Электровеник. Отпариватель. Техника для кухни. Микроволновая печь. Кофеварка ... Согласование стоимости ремонта (далее цена не изменится). 5. Подбор оптимальных запчастей и ремонт устройства. 6 ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:N6b7JYcUNHQJ:https://tehnosave.by/remont-bytovoj-tehniki/+&amp;cd=7&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="5">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://ks.by/menyu/remont-byitovoj-texniki/remont-melkoj-byitovoj-texniki/pyilesos/electrolux</url>
-						<title><![CDATA[ N❶ Ремонт пылесосов Электролюкс в Минске: сервисный ... ]]></title>
+						<title><![CDATA[N❶ Ремонт пылесосов Электролюкс в Минске: сервисный центр Electrolux]]></title>
 						<passages>
-							<passage><![CDATA[ Обратившись к нам, вы сможете отремонтировать ваш пылесос. <hlword> SERVIS </hlword> @ KS.by. Сервисный центр №1 г. <hlword> Минск </hlword> ул. Притыцкого 62В ... ]]></passage>
+							<passage><![CDATA[ Обратившись к нам, вы сможете отремонтировать ваш пылесос. SERVIS@KS.by. Сервисный центр №1 г. Минск ул. Притыцкого 62В ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:s6hDKURIMZgJ:https://ks.by/menyu/remont-byitovoj-texniki/remont-melkoj-byitovoj-texniki/pyilesos/electrolux+&amp;cd=16&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://karchershop.by/remont/</url>
-						<title><![CDATA[ Сервисные центры Керхер в Минске - ремонт пылесосов ... ]]></title>
+						<title><![CDATA[Сервисные центры Керхер в Минске - ремонт пылесосов, минимоек, парогенераторов Karcher]]></title>
 						<passages>
-							<passage><![CDATA[ Сервисные центры Karcher. Гарантийный срок эксплуатации прибора бытового назначения составляет 24 месяца, профессионального – 12 месяцев, ... ]]></passage>
+							<passage><![CDATA[ При невыполнении этих условий, услуги по гарантийному ремонту не предоставляются. Гарантийный ремонт – это бесплатный комплекс операций по устранению брака изготовления, связанный с ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:8dIfvM-6IxEJ:https://karchershop.by/remont/+&amp;cd=17&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="7">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://clean.by/remont_i_servisnoe_obsluzhivanie_texniki_kerxer.xhtml</url>
-						<title><![CDATA[ Сервисный центр Керхер - обслуживание, наладка ... ]]></title>
+						<url>https://imarket.by/company/servisnye-centry/polaris/</url>
+						<title><![CDATA[Сервисные центры Polaris — интернет гипермаркет в Минске iMarket.by]]></title>
 						<passages>
-							<passage><![CDATA[ д. <hlword> ремонт </hlword> шлангов высокого давления для керхер. <hlword> Электровеник </hlword> . Мотор, замена аккумулятора и т.д. ]]></passage>
+							<passage><![CDATA[ Список гарантийных официальных сервисных центров Polaris в Минске и по городам Беларуси с адресами и телефонами. На все товары мы предоставляем официальную гарантию с правом обслуживаться в ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:VgFbqv6bs-0J:https://clean.by/remont_i_servisnoe_obsluzhivanie_texniki_kerxer.xhtml+&amp;cd=18&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="8">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://minsk.service-centers.ru/massagers/gezatone</url>
-						<title><![CDATA[ адреса и цены на ремонт массажеров Gezatone в Минске ]]></title>
+						<url>https://imarket.by/company/servisnye-centry/electrolux/</url>
+						<title><![CDATA[Сервисные центры Electrolux — интернет гипермаркет в Минске iMarket.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Ремонт </hlword> массажеров Gezatone в <hlword> Минске </hlword> — подробные цены, адреса сервисных центров, телефоны, стоимость срочного <hlword> ремонта </hlword> массажеров Gezatone ... ]]></passage>
+							<passage/>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:8-d9bOyLQ2EJ:https://minsk.service-centers.ru/massagers/gezatone+&amp;cd=19&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="9">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.ydachnik.by/about/service-centers/</url>
-						<title><![CDATA[ Сервисные центры «Удачник» ]]></title>
+						<url>https://clean.by/remont_i_servisnoe_obsluzhivanie_texniki_kerxer.xhtml</url>
+						<title><![CDATA[Сервисный центр Керхер - обслуживание, наладка, ремонт, монтаж - Karcher | Керхер]]></title>
 						<passages>
-							<passage><![CDATA[ Гарантийный и послегарантийный <hlword> ремонт </hlword> садовой техники, ... <hlword> Минск </hlword> , ул. ... Гарантийный <hlword> ремонт </hlword> техники торговых марок: Cub Cadet, MTD, Stiga, Tesvor  ... ]]></passage>
+							<passage><![CDATA[ Несмотря на то, что продукция фирмы стоит немало, мы готовы предложить услуги по техобслуживанию и ремонту любого оборудования по ценам, которые Вас приятно удивят. ремонт karcher в минске ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:rzS77HESPukJ:https://www.ydachnik.by/about/service-centers/+&amp;cd=20&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 			</grouping>

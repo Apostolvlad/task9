@@ -15,16 +15,23 @@ from google.oauth2.credentials import Credentials
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets', 'https://www.googleapis.com/auth/drive']
 
+# The ID and range of a sample spreadsheet.
+SAMPLE_SPREADSHEET_ID = '1utinFVgu39rsTpZRKim5lsqtquFRdsFG2EXYQFyC5hg'
+
 class Table:
-    def __init__(self, spreadsheetId = None, table_title = 'Первая таблица', list_title = 'Лист номер один', sheetId = None):
+    def __init__(self, spreadsheetId = None, table_title = 'Новая таблица'):
         self.service = self.get_service()
-        if spreadsheetId is None:
-            spreadsheetId = self.create_table(table_title = table_title, list_title = list_title)
-            sheetId = 0
+        self.table_title = table_title
+        if spreadsheetId is None:self.create_table(table_title = table_title)
         self.spreadsheetId = spreadsheetId
-        if sheetId is None:
-            sheetId = self.create_list(list_title)
-        self.sheetId = sheetId
+        self.sheet_list = self.get_sheets()
+        if self.table_title:self.select_sheet(self.table_title)
+        #print(self.sheet_list)
+        
+    def select_sheet(self, sheet_title):
+        self.sheet_title = sheet_title
+        self.sheetId = self.sheet_list.get(sheet_title)
+        if self.sheetId is None: self.sheetId = self.create_sheet(sheet_title)
 
     def get_service(self):
         creds = None
@@ -42,19 +49,30 @@ class Table:
 
         return build('sheets', 'v4', credentials=creds)
     
-    def create_table(self, table_title, list_title):
+    def get_table_info(self):
+        request = self.service.spreadsheets().get(spreadsheetId=self.spreadsheetId, ranges=[], includeGridData=False)
+        return request.execute()
+
+    def get_sheets(self):
+        sheet_list = dict()
+        for sheet in  self.get_table_info()['sheets']:
+            properties = sheet['properties']
+            sheet_list.update({properties['title']:properties['sheetId']})
+        return sheet_list
+
+    def create_table(self, table_title):
         spreadsheet = self.service.spreadsheets().create(body = {
             'properties': {'title': table_title, 'locale': 'ru_RU'},
             'sheets': [{'properties': {'sheetType': 'GRID',
                                     'sheetId': 0,
-                                    'title': list_title,
+                                    'title': 'Новый лист',
                                     'gridProperties': {'rowCount': 1, 'columnCount': 1}}}]
         }).execute()
         spreadsheetId = spreadsheet['spreadsheetId']
         print('https://docs.google.com/spreadsheets/d/' + spreadsheetId)
         return spreadsheetId# сохраняем идентификатор файла
     
-    def create_list(self, title_list):
+    def create_sheet(self, sheet_title):
         results = self.service.spreadsheets().batchUpdate(
         spreadsheetId = self.spreadsheetId,
         body = {
@@ -62,7 +80,7 @@ class Table:
                 {
                 "addSheet": {
                     "properties": {
-                    "title": title_list,
+                    "title": sheet_title,
                     "gridProperties": {
                         "rowCount": 100,
                         "columnCount": 30
@@ -74,24 +92,17 @@ class Table:
             }).execute() #'replies': [{'addSheet': {'properties': {'sheetId
         return results['replies'][0]['addSheet']['properties']['sheetId']
 
-    def list_table(self):
-       # Fetch the document to determine the current indexes of the named ranges.
-        document = self.service.spreadsheets().sheets()#.get(spreadsheetId  = self.spreadsheetId)
-        print(dir(document))
-
-
-    def update_values(self, data, list_range = "Лист номер один!B2:D5"):
-        results = self.service.spreadsheets().values().batchUpdate(spreadsheetId = self.spreadsheetId, body = {
+    def update_values(self, data, list_range = "B2:D5"):
+        self.service.spreadsheets().values().batchUpdate(spreadsheetId = self.spreadsheetId, body = {
             "valueInputOption": "USER_ENTERED", # Данные воспринимаются, как вводимые пользователем (считается значение формул)
             "data": [
                 {
-                    "range": list_range, 
-                "majorDimension": "ROWS",     # Сначала заполнять строки, затем столбцы
-                "values": data
+                    "range": f'{self.sheet_title}!{list_range}', 
+                    "majorDimension": "ROWS",     # Сначала заполнять строки, затем столбцы
+                    "values": data
                 }
             ]
         }).execute()
-        print(results)
     
     def set_size_colomn(self):
         self.service.spreadsheets().batchUpdate(spreadsheetId = self.spreadsheetId, body = {
@@ -142,10 +153,9 @@ class Table:
                 }
             }
             requests.append(setting_cell)
-        results = self.service.spreadsheets().batchUpdate(spreadsheetId = self.spreadsheetId, body = {"requests": requests}).execute()
+        self.service.spreadsheets().batchUpdate(spreadsheetId = self.spreadsheetId, body = {"requests": requests}).execute()
 
 
 if __name__ == '__main__':
     table = Table('1utinFVgu39rsTpZRKim5lsqtquFRdsFG2EXYQFyC5hg') #main()
-    table.list_table()
-
+    table.get_table()

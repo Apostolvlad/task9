@@ -2,117 +2,141 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T094417">
-		<found priority="all">38100</found>
-		<bottomads>
-			<query>
-				<url>https://www.groomdogcat.by/</url>
-				<title>Груминг Минск - Полный комплекс услуг</title>
-				<snippet>Груминг Минск - Полный комплекс услуг</snippet>
-			</query>
-		</bottomads>
+	<response date="20210401T230347">
+		<found priority="all">100</found>
+		<addresults>
+			<relatedQuestions>
+				<question>
+					<title>Помощник грумера, Минск</title>
+				</question>
+				<question>
+					<title>Салон для собак Минск</title>
+				</question>
+				<question>
+					<title>Курсы груминга Минск</title>
+				</question>
+				<question>
+					<title>Зарплата грумера в Минске</title>
+				</question>
+				<question>
+					<title>Парикмахерская для животных</title>
+				</question>
+				<question>
+					<title>Груминг Минск</title>
+				</question>
+				<question>
+					<title>Мойка собак Минск</title>
+				</question>
+				<question>
+					<title>Груминг-салон</title>
+				</question>
+				<question>
+					<title>Груминг минск Фрунзенский район</title>
+				</question>
+				<question>
+					<title>Работа груминг Минск</title>
+				</question>
+				<question>
+					<title>Вакансия помощник грумера Минск</title>
+				</question>
+				<question>
+					<title>РАБОТА ТУТ БАЙ</title>
+				</question>
+			</relatedQuestions>
+		</addresults>
 		<results>
 			<grouping>
 				<page first="1" last="9">0</page>
 				<group id="1">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://rabota.by/vacancies/grumer</url>
-						<title><![CDATA[ Работа грумером в Минске - Jobs.tut.by ]]></title>
+						<url>https://by.jooble.org/вакансии-грумер</url>
+						<title><![CDATA[Срочно работа: Грумер - Апрель 2021 - Свежие вакансии - Jooble.by]]></title>
 						<passages>
-							<passage><![CDATA[ ]]></passage>
+							<passage><![CDATA[ Обязанности: Стрижка собак Стрижка котов Требования: Любовь к животным Опыт от 3-х лет Умение работать в команде, позитивный настрой Умение находить общий ... Салон Милорд. Минск. ]]></passage>
 						</passages>
-						<pubDate>3 мар. 2021 г. —</pubDate>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:IjeukAIo_9EJ:https://rabota.by/vacancies/grumer+&amp;cd=4&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="2">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://by.jooble.org/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8-%D0%B3%D1%80%D1%83%D0%BC%D0%B5%D1%80</url>
-						<title><![CDATA[ Срочно работа: Грумер - Март 2021 - Свежие вакансии ... ]]></title>
+						<url>https://rabota.by/vacancies/grumer</url>
+						<title><![CDATA[Работа грумером в Минске - Jobs.tut.by]]></title>
 						<passages>
-							<passage><![CDATA[ Ищете <hlword> работу Грумер </hlword> ? ✓Самая большая база новых вакансий по запросу ... позитивный настрой Умение находить общий ... Салон Милорд. <hlword> Минск </hlword> . ]]></passage>
+							<passage><![CDATA[ Работа грумером в Минске. Вакансии с заработной платой от 1530 бел. руб. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:XWitunNeM0cJ:https://by.jooble.org/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8-%D0%B3%D1%80%D1%83%D0%BC%D0%B5%D1%80+&amp;cd=5&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+						<pubDate>3 мар. 2021 г. —</pubDate>
 					</doc>
 				</group>
 				<group id="3">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://minsk.gorodrabot.by/%D0%B3%D1%80%D1%83%D0%BC%D0%B5%D1%80</url>
-						<title><![CDATA[ Вакансии и работа грумером в Минске | Поиск работы с ... ]]></title>
+						<url>https://minsk.gorodrabot.by/грумер</url>
+						<title><![CDATA[Вакансии и работа грумером в Минске | Поиск работы с ГородРабот.бай - Вакансии и работа в Минске - GorodRabot.by]]></title>
 						<passages>
-							<passage><![CDATA[ Ищете <hlword> работу грумером </hlword> в <hlword> Минске </hlword> ? У нас Вы найдете множество вакансий от прямых работодателей, с зарплатой до 1500 руб. Откликнитесь прямо ... ]]></passage>
+							<passage><![CDATA[ Ищете работу грумером в Минске? У нас Вы найдете множество вакансий от прямых работодателей, ... Грумер. от 1 200 Br. Салон Милорд; Минск. Салон для собак "Милорд" приглашает в свою команду ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:gB-ZCsGE82IJ:https://minsk.gorodrabot.by/%D0%B3%D1%80%D1%83%D0%BC%D0%B5%D1%80+&amp;cd=6&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="4">
 					<doccount>1</doccount>
 					<doc>
-						<url>http://employment-services.ru/vacancy/?action=read1&amp;id=8642927</url>
-						<title><![CDATA[ Вакансия: Грумер, Минск, УП Ветеринарный центр Друг на ... ]]></title>
+						<url>https://by.jobvk.com/minsk/grumer</url>
+						<title><![CDATA[Работа грумером в Минске — 7 вакансий / JobVK]]></title>
 						<passages>
-							<passage><![CDATA[ Дата обновления анкеты вакансии № 8642927 на должность " <hlword> Грумер </hlword> " на сайте Электронной Службы занятости населения: Среда, 24 марта 2021 год . ]]></passage>
+							<passage><![CDATA[ Вакансии грумера в Минске. Поиск работы и трудоустройство на сайте JobVK. Работа грумером в Минске: актуальные вакансии. ]]></passage>
 						</passages>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:lOoGuyQiS4MJ:employment-services.ru/vacancy/?action=read1&amp;id=8642927+&amp;cd=7&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="5">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://by.jobvk.com/minsk/grumer</url>
-						<title><![CDATA[ Работа грумером в Минске — 6 вакансий / JobVK ]]></title>
+						<url>https://jobs.tut.by/vacancy/30490681</url>
+						<title><![CDATA[Вакансия Грумер/парикмахер домашних животных в Минске, работа в компании Стрелка (вакансия в архиве c 24 апреля 2019) - Jobs.tut.by]]></title>
 						<passages>
-							<passage><![CDATA[ Вакансии <hlword> грумера </hlword> в <hlword> Минске </hlword> . Поиск работы и трудоустройство на сайте JobVK. <hlword> Работа грумером </hlword> в <hlword> Минске </hlword> : актуальные вакансии. ]]></passage>
+							<passage><![CDATA[ Вакансия Грумер/парикмахер домашних животных в компании Стрелка. Зарплата: от 800 до 1500 бел. руб.. Минск. Требуемый опыт: 1–3 года. Полная занятость. Дата публикации: 25.03.2019. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:eHN_iDPFM_oJ:https://by.jobvk.com/minsk/grumer+&amp;cd=8&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://jobs.tut.by/vacancy/30490681</url>
-						<title><![CDATA[ Вакансия Грумер/парикмахер домашних животных в ... ]]></title>
+						<url>https://jobs.tut.by/vacancy/12840117</url>
+						<title><![CDATA[Вакансия Грумер для декоративных собак в Минске, работа в компании Корпоративные Решения (вакансия в архиве c 23 марта 2015) - Jobs.tut.by]]></title>
 						<passages>
-							<passage><![CDATA[ Вакансия <hlword> Грумер </hlword> /парикмахер домашних животных в компании Стрелка. Зарплата: от 800 до 1500 бел. руб.. <hlword> Минск </hlword> . Требуемый опыт: 1–3 года. Полная ... кандидат. Обращаться только тем, кому действительно нужна <hlword> работа </hlword> ! ]]></passage>
+							<passage/>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:fSxwWjZ1jPAJ:https://jobs.tut.by/vacancy/30490681+&amp;cd=9&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="7">
 					<doccount>1</doccount>
 					<doc>
-						<url>http://employmentcenter.ru/vacancy/?action=read2&amp;id=3620474</url>
-						<title><![CDATA[ Вакансия: Мастер по грумингу, Минск, ООО Брайт Лайт на ... ]]></title>
+						<url>https://minsknews.by/minskiy-grumer-o-neprostoy-rabote-s-chetveronogimi-klientami-i-modnyih-pricheskah-sobak/amp/</url>
+						<title><![CDATA[Минский грумер — о непростой работе с четвероногими клиентами и модных прическах собак - Минск-новости]]></title>
 						<passages>
-							<passage><![CDATA[ Студия груминга «Dog and Cat» приглашает на <hlword> работу </hlword> мастера по <hlword> грумингу </hlword> . Если Вы хотите работать и совершенствоваться в профессии, если есть ... ]]></passage>
+							<passage><![CDATA[ Корреспондент агентства «Минск-Новости» пообщалась с парикмахером для животных Анастасией Жуковской и выяснила, зачем собакам и кошкам стилист, как укротит. ]]></passage>
 						</passages>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:-Mmgh4cz-QQJ:employmentcenter.ru/vacancy/?action=read2&amp;id=3620474+&amp;cd=10&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+						<pubDate>15 июл. 2019 г. —</pubDate>
 					</doc>
 				</group>
 				<group id="8">
 					<doccount>1</doccount>
 					<doc>
-						<url>http://employmentcenter.ru/vacancy/?action=read2&amp;id=1959678</url>
-						<title><![CDATA[ Вакансия: Ассистент грумера, Минск, Салон Милорд на ... ]]></title>
+						<url>http://www.groomit.by/grooming_vac/</url>
+						<title><![CDATA[Вакансии | Салон GroomIt.by - Качественная стрижка собак и кошек в Минске (Каменная горка)]]></title>
 						<passages>
-							<passage><![CDATA[ Компанией (организацией, фирмой, ИП, ПБОЮЛ) "Салон Милорд" предлагается <hlword> работа </hlword> в городе (регионе) <hlword> Минск </hlword> . Адрес места работы " Ассистент ... ]]></passage>
+							<passage><![CDATA[ Вакансии. Доступных вакансий пока нет. Записаться на собеседование можно по тел: +375 (44) 750 7 ... ]]></passage>
 						</passages>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:cNeqvH8uAiAJ:employmentcenter.ru/vacancy/?action=read2&amp;id=1959678+&amp;cd=11&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="9">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://minsknews.by/minskiy-grumer-o-neprostoy-rabote-s-chetveronogimi-klientami-i-modnyih-pricheskah-sobak/</url>
-						<title><![CDATA[ Минский грумер — о непростой работе с четвероногими ... ]]></title>
+						<url>http://employment-services.ru/vacancy/?action=read1&amp;id=8642927</url>
+						<title><![CDATA[Вакансия: Грумер, Минск, УП Ветеринарный центр Друг на сайте Служба занятости населения г. Минск]]></title>
 						<passages>
-							<passage><![CDATA[ ]]></passage>
+							<passage><![CDATA[ Ответственное и внимательное отношение к работе и к клиентам. Условия труда в компании "УП Ветеринарный центр Друг" на вакантном месте "Грумер" следующие: Работа на территории работодателя;; Мы ... ]]></passage>
 						</passages>
-						<pubDate>15 июл. 2019 г. —</pubDate>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:mxj494UPmKEJ:https://minsknews.by/minskiy-grumer-o-neprostoy-rabote-s-chetveronogimi-klientami-i-modnyih-pricheskah-sobak/+&amp;cd=12&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 			</grouping>

@@ -2,156 +2,190 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T094509">
-		<found priority="all">633000</found>
+	<response date="20210401T231246">
+		<found priority="all">100</found>
+		<addresults>
+			<relatedQuestions>
+				<question>
+					<title>Художественная роспись фасадов</title>
+				</question>
+				<question>
+					<title>Печать на стенах Минск</title>
+				</question>
+				<question>
+					<title>Аэрография на стенах Минск</title>
+				</question>
+				<question>
+					<title>Художественная роспись стен в квартире</title>
+				</question>
+				<question>
+					<title>Роспись стен Минск вакансии</title>
+				</question>
+				<question>
+					<title>Роспись подъездов Минск</title>
+				</question>
+				<question>
+					<title>Роспись наружных стен дома</title>
+				</question>
+				<question>
+					<title>Роспись стен офиса Минск</title>
+				</question>
+				<question>
+					<title>Роспись стен баллончиками</title>
+				</question>
+				<question>
+					<title>Мастер по барельефу минск</title>
+				</question>
+				<question>
+					<title>Роспись стен цена</title>
+				</question>
+				<question>
+					<title>Роспись стен на улице</title>
+				</question>
+			</relatedQuestions>
+		</addresults>
 		<localresultsplace>
 			<item>
 				<title>&quot;Art&amp;amp,Shock&quot; художественная роспись стен</title>
 				<place_id>13259707914158629695</place_id>
-				<url>http://art-shock.by/</url>
+				<url/>
 				<rating>5,0</rating>
 			</item>
 			<item>
 				<title>Роспись Стен Минск</title>
 				<place_id>17213045211937531490</place_id>
-				<url>https://isolovey10.wixsite.com/finishartstroy</url>
+				<url/>
 				<rating>4,2</rating>
-			</item>
-			<item>
-				<title>Fresh design художественная студия</title>
-				<place_id>4096436645542052083</place_id>
-				<url>http://fresh-design.by/</url>
-				<rating>4,5</rating>
 			</item>
 		</localresultsplace>
 		<bottomads>
 			<query>
-				<url>https://www.wally.by/заказать/печать</url>
-				<title>Оперативно качественно - Роботизированная роспись стен</title>
-				<snippet>Оперативно качественно - Роботизированная роспись стен</snippet>
-			</query>
-			<query>
-				<url>http://www.veneziano.by/</url>
-				<title>Опытные мастера по нанесению - Мастера по нанесению в...</title>
-				<snippet>Опытные мастера по нанесению - Мастера по нанесению в...</snippet>
+				<url>https://www.wally.by/</url>
+				<title>Роботизированная роспись стен - Печать на стенах в Минске</title>
+				<snippet/>
 			</query>
 		</bottomads>
 		<results>
 			<grouping>
-				<page first="1" last="9">0</page>
+				<page first="1" last="10">0</page>
 				<group id="1">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://almira.by/mural-painting/</url>
-						<title><![CDATA[ Художественная роспись стен Минск | Арт-студия "ALMIRA" ]]></title>
+						<url>https://redsale.by/artist/hudozhniki/hudozhestvennaya-rospis-sten</url>
+						<title><![CDATA[Художественная роспись стен в Минске. Цены на услуги художников, фото работ – RedSale.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Художественная роспись стен </hlword> . Художественная роспись на стене в квартире , офисе, салоне красоты, учебном центре или ресторане - это отличное ... ]]></passage>
+							<passage><![CDATA[ Художественная роспись стен Минск – 51 мастер, 214 отзывов, стоимость работ. ⚡ Найти и недорого заказать услуги художника на RedSale.by. Выбирайте специалиста по фотографиям выполненных ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:49ccCQNF_AwJ:https://almira.by/mural-painting/+&amp;cd=10&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+						<extendedpassage>Оценка
+                              
+                              
+                              
+                              
+                                
+                                  
+                                    4,9
+                                  
+                                  
+                                    
+                                    
+                                  
+                                  
+                                    (214)  Цена
+                              
+                              
+                              
+                              
+                                от 6 до 400 б.р.</extendedpassage>
 					</doc>
 				</group>
 				<group id="2">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://redsale.by/artist/hudozhniki/hudozhestvennaya-rospis-sten</url>
-						<title><![CDATA[ Художественная роспись стен в Минске. Цены на услуги ... ]]></title>
+						<url>https://almira.by/mural-painting/</url>
+						<title><![CDATA[Художественная роспись стен Минск | Арт-студия "ALMIRA" - ALMIRA.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Художественная роспись стен Минск </hlword> – 51 мастер, 214 отзывов, стоимость работ. ⚡ Найти и недорого заказать услуги художника на RedSale.by. ]]></passage>
+							<passage><![CDATA[ Художественная роспись стен. Художественная роспись на стене в квартире, офисе, салоне красоты, учебном центре или ресторане - это отличное дизайнерское решение для вашего пространства, ... ]]></passage>
 						</passages>
-						<stars>4,9</stars>
-						<extendedpassage>Рейтинг: 4,9
-                                
-                                 · ‎
-                                
-                                  214 отзывов
-                                
-                                 · ‎
-                                
-                                  Диапазон цен: от 6 до 400 б.р.</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:92agOlEgnN8J:https://redsale.by/artist/hudozhniki/hudozhestvennaya-rospis-sten+&amp;cd=11&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="3">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://deal.by/Hudozhestvennaya-rospis-sten.html</url>
-						<title><![CDATA[ Художественная роспись стен в Беларуси. Услуги на ... ]]></title>
+						<title><![CDATA[Художественная роспись стен в Беларуси. Услуги на маркетплейсе Deal.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Художественная роспись стен </hlword> . Доставка из г. <hlword> Минск </hlword> . 1 отзыв. <hlword> Художественная роспись стен </hlword> на улице в <hlword> Минске </hlword> . Услуга. от 45 руб./кв.м. Написать. ]]></passage>
+							<passage><![CDATA[ Роспись стен и потолков. Доставка из г. Минск. 1 отзыв. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:9x7Qow4ot1cJ:https://deal.by/Hudozhestvennaya-rospis-sten.html+&amp;cd=12&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="4">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://vk.com/minskpaint</url>
-						<title><![CDATA[ Художественная роспись стен | Граффити | Минск ... ]]></title>
+						<url>http://zadelo.by/service/rospis-sten</url>
+						<title><![CDATA[Художественная роспись стен акриловыми красками в Минске - Zadelo.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Художественная роспись </hlword> внутренних и наружных <hlword> стен </hlword> , а также любых других поверхностей и объектов, под заказ опыт - 9 лет. ]]></passage>
+							<passage><![CDATA[ С помощью художественной росписи мы прибавим вашим стенам индивидуальности и стиля, используя кисти, акриловые краски, маркеры либо аэрограф. Обращайтесь! ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:f3GDWAZ3D68J:https://vk.com/minskpaint+&amp;cd=13&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="5">
 					<doccount>1</doccount>
 					<doc>
-						<url>http://zadelo.by/service/rospis-sten</url>
-						<title><![CDATA[ Художественная роспись стен акриловыми красками в ... ]]></title>
+						<url>https://art-painting.by/rospis-sten/</url>
+						<title><![CDATA[Роспись стен фото работ и цена за м2 в Минске - мастерская руслана непогоды]]></title>
 						<passages>
-							<passage><![CDATA[ С помощью <hlword> художественной росписи </hlword> мы прибавим вашим <hlword> стенам </hlword> индивидуальности и стиля, используя кисти, акриловые краски, маркеры либо ... ]]></passage>
+							<passage><![CDATA[ Заказать художественную роспись стен в Минске от художника - декоратора Руслана Непогоды. Фото выполненных работ и стоимость услуги за м.кв. ]]></passage>
 						</passages>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:Kn2kZ7dWYYEJ:zadelo.by/service/rospis-sten+&amp;cd=14&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://art-painting.by/rospis-sten/</url>
-						<title><![CDATA[ Роспись стен фото работ и цена за м2 в Минске ]]></title>
+						<url>http://sgm.by/artist-minsk/articles/ceny-na-rospis-sten-v-minske-barelef-graffiti</url>
+						<title><![CDATA[Цены на роспись стен в Минске барельеф граффити - Sgm.by]]></title>
 						<passages>
-							<passage><![CDATA[ Заказать <hlword> художественную роспись стен </hlword> в <hlword> Минске </hlword> от художника - декоратора Руслана Непогоды. Фото выполненных работ и стоимость услуги за м.кв. ]]></passage>
+							<passage><![CDATA[ - эскиз, при заказе росписи - бесплатно; - система скидок, в зависимости от объема. Цены на художественную роспись стен потолков граффити. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:GRwZWHsLCLUJ:https://art-painting.by/rospis-sten/+&amp;cd=15&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="7">
 					<doccount>1</doccount>
 					<doc>
-						<url>http://sgm.by/artist-minsk/articles/ceny-na-rospis-sten-v-minske-barelef-graffiti</url>
-						<title><![CDATA[ Цены на роспись стен в Минске барельеф граффити ]]></title>
+						<url>https://progorod.by/rospis-sten.php</url>
+						<title><![CDATA[Роспись стен в Минске под ключ. Рисуем на заказ по всей Беларуси: фото работ, цены.]]></title>
 						<passages>
-							<passage><![CDATA[ - эскиз, при заказе росписи - бесплатно; - система скидок, в зависимости от объема. Цены на <hlword> художественную роспись стен </hlword> потолков граффити. ]]></passage>
+							<passage><![CDATA[ Художественная роспись стен и потолков квартиры, офиса, кафе, фасадов зданий в Минске и РБ. ]]></passage>
 						</passages>
-						<stars>9,8/10</stars>
-						<extendedpassage>Рейтинг: 9,8/10
-                                
-                                 · ‎
-                                
-                                  166 голосов</extendedpassage>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:tBs1TVtqZYIJ:sgm.by/artist-minsk/articles/ceny-na-rospis-sten-v-minske-barelef-graffiti+&amp;cd=16&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="8">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://progorod.by/rospis-sten.php</url>
-						<title><![CDATA[ Роспись стен в Минске под ключ. Рисуем на заказ по всей ... ]]></title>
+						<url>https://beldiz.by/services/khudozhestvennaya-rospis-sten-v-minske-i-po-belarusi/</url>
+						<title><![CDATA[Художественная роспись стен в Минске и по Беларуси - БелДизПроект]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Художественная роспись стен </hlword> и потолков квартиры, офиса, кафе, фасадов зданий в <hlword> Минске </hlword> и РБ. ]]></passage>
+							<passage><![CDATA[ художественная роспись стен в Минске и по всей Беларуси (написание картины по вашему эскизу или создание реплики картины);; создание барельефа на стену (рельефное изображение);; написание ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:k4EpuoLgbmUJ:https://progorod.by/rospis-sten.php+&amp;cd=17&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="9">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://beldiz.by/services/khudozhestvennaya-rospis-sten-v-minske-i-po-belarusi/</url>
-						<title><![CDATA[ Художественная роспись стен в Минске и по Беларуси ]]></title>
+						<url>http://remon.by/articles/hudozhestvennaja-rospis-sten-v-minske-hudozhnik</url>
+						<title><![CDATA[Роспись стен в Минске услуги художника - Ремонт квартир в Минске]]></title>
 						<passages>
-							<passage><![CDATA[ Осуществляем <hlword> художественную роспись стен </hlword> в <hlword> Минске </hlword> и по всей стране под ключ. Услуги профессионального художника по росписи стен, разработка ... ]]></passage>
+							<passage><![CDATA[ Художественная роспись стен в Минске. художественная роспись в Минске. Закажите прямо сейчас художественную роспись стен в Минске и Минской области (REMON.BY): +375 (44) 514-51-91 A1 +375 ( 29) ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:JwXQlOalY-MJ:https://beldiz.by/services/khudozhestvennaya-rospis-sten-v-minske-i-po-belarusi/+&amp;cd=18&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+					</doc>
+				</group>
+				<group id="10">
+					<doccount>1</doccount>
+					<doc>
+						<url>http://goodhome.by/art-painting-of-walls/</url>
+						<title><![CDATA[Художественная роспись стен под ключ в Минске - Хороший дом]]></title>
+						<passages>
+							<passage><![CDATA[ Заказать художественную роспись стен в Минске. цена расписать стену художником. ]]></passage>
+						</passages>
 					</doc>
 				</group>
 			</grouping>

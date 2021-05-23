@@ -2,65 +2,60 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T095722">
-		<found priority="all">57500</found>
-		<localresultsplace>
-			<item>
-				<title>Замена экрана телефона у замена-экрана.бел</title>
-				<place_id>10099760900127676745</place_id>
-				<url>https://xn----7sbaba0am2aole8a9m.xn--90ais/</url>
-				<rating>5,0</rating>
-			</item>
-			<item>
-				<title>Ремонт телефонов в Минске</title>
-				<place_id>17697823827178862856</place_id>
-				<url>https://www.gsmmaster.by/</url>
-				<rating>4,7</rating>
-			</item>
-			<item>
-				<title>Белсервис Ремонт Смартфонов Apple Samsung Замена Стекла</title>
-				<place_id>262212255295390241</place_id>
-				<url>https://belservice-apple-samsung.business.site/</url>
-				<rating>4,7</rating>
-			</item>
-		</localresultsplace>
+	<response date="20210401T222516">
+		<found priority="all">100</found>
+		<addresults>
+			<relatedQuestions>
+				<question>
+					<title>Сколько стоит заменить стекло на телефоне Huawei</title>
+				</question>
+				<question>
+					<title>Замена стекла Минск</title>
+				</question>
+				<question>
+					<title>Сколько стоит поменять экран на телефоне Xiaomi</title>
+				</question>
+				<question>
+					<title>Поменять стекло на телефоне Минск цена</title>
+				</question>
+				<question>
+					<title>Замена экрана телефона</title>
+				</question>
+				<question>
+					<title>Замена экрана Хуавей</title>
+				</question>
+				<question>
+					<title>Замена экрана телефона Гомель</title>
+				</question>
+				<question>
+					<title>Замена стекла в смартфоне</title>
+				</question>
+				<question>
+					<title>Замена стекла А1 альфа</title>
+				</question>
+				<question>
+					<title>Замена стекла на телефоне</title>
+				</question>
+				<question>
+					<title>Замена стекла сенсора</title>
+				</question>
+				<question>
+					<title>Замена защитного стекла Минск</title>
+				</question>
+			</relatedQuestions>
+		</addresults>
 		<topads>
 			<query>
-				<url>https://www.ilabs.by/</url>
-				<title>ЗАМЕНА Тачскрина На Телефоне - 100% Низкие Цены Без...</title>
-				<snippet>ЗАМЕНА Тачскрина На Телефоне - 100% Низкие Цены Без...</snippet>
-			</query>
-			<query>
-				<url>https://minsk.cyber-service.by/</url>
-				<title>Замена экрана телефона - Недорого в г. Минск - сегодня</title>
-				<snippet>Замена экрана телефона - Недорого в г. Минск - сегодня</snippet>
-			</query>
-			<query>
-				<url>https://www.itehrem.by/</url>
-				<title>Скорая Помощь Для Телефона - Готовность за час - itehrem.by</title>
-				<snippet>Скорая Помощь Для Телефона - Готовность за час - itehrem.by</snippet>
-			</query>
-			<query>
-				<url>https://www.pushkin.of.by/</url>
-				<title>Замена Экрана Телефона - Находимся Возле м. Пушкинская</title>
-				<snippet>Замена Экрана Телефона - Находимся Возле м. Пушкинская</snippet>
+				<url>https://ilabs.by/</url>
+				<title>ЗАМЕНА Стекла Минск Телефон - 100% Низкие Цены Без Очереди - ilabs.by</title>
+				<snippet/>
 			</query>
 		</topads>
 		<bottomads>
 			<query>
-				<url>https://www.minsk-rem.tech/</url>
-				<title>замена экрана телефона - Меняем отдельно стекло</title>
-				<snippet>замена экрана телефона - Меняем отдельно стекло</snippet>
-			</query>
-			<query>
-				<url>http://www.fixteam.by/</url>
-				<title>Замена экрана телефона - Гарантия абсолютно на все</title>
-				<snippet>Замена экрана телефона - Гарантия абсолютно на все</snippet>
-			</query>
-			<query>
-				<url>http://www.master-rem.by/</url>
-				<title>ЗАМЕНА Стекла Телефона - Цены ниже конкурентов</title>
-				<snippet>ЗАМЕНА Стекла Телефона - Цены ниже конкурентов</snippet>
+				<url>https://master-rem.by/</url>
+				<title>ЗАМЕНА Экрана Телефона - Без очереди Гарантия</title>
+				<snippet/>
 			</query>
 		</bottomads>
 		<results>
@@ -70,121 +65,120 @@
 					<doccount>1</doccount>
 					<doc>
 						<url>https://www.relax.by/cat/services/phone-repair/minsk/zamena-ekrana/</url>
-						<title><![CDATA[ Замена экрана телефона в Минске. Ремонт и замена ... ]]></title>
+						<title><![CDATA[Замена экрана телефона в Минске. Ремонт и замена экрана мобильных телефонов - Relax.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Заменить экран телефона </hlword> помогут компании из каталога relax.by. Адреса мастерских по замене <hlword> тачскрина </hlword> , время работы и отзывы клиентов на сайте. ]]></passage>
+							<passage><![CDATA[ Заменить экран телефона помогут компании из каталога relax.by. Адреса мастерских по замене тачскрина, время работы и отзывы клиентов на сайте. ]]></passage>
 						</passages>
-						<extendedpassage>От 20,00 BYN до 79,00 BYN</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:DnzZpXuO9gkJ:https://www.relax.by/cat/services/phone-repair/minsk/zamena-ekrana/+&amp;cd=4&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="2">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://greenservice.by/telefony/remont-zamena-stekla-displeya/</url>
-						<title><![CDATA[ Замена стекла, ремонт дисплея телефона в Минске ... ]]></title>
+						<url>https://redsale.by/remont-tehniki/remont-telefonov/zamenit-ekrana-tachskrina-stekla</url>
+						<title><![CDATA[Замена экрана, тачскрина, стекла на телефоне на дому в Минске. Цены, отзывы – Redsale.by]]></title>
 						<passages>
-							<passage><![CDATA[ Самые востребованные брендовые модели, такие как: iPhone, модели Samsung Galaxy - производятся по иной технологии. Здесь сенсор, является  ... ]]></passage>
+							<passage><![CDATA[ Замена экрана, тачскрина, стекла на телефоне Минск. ⚡ Срочный ремонт техники с выездом на дом, бесплатной диагностикой и гарантией. Узнайте, где недорого вызвать мастера: цены, отзывы и рейтинг  ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:weXD4YQIGNAJ:https://greenservice.by/telefony/remont-zamena-stekla-displeya/+&amp;cd=5&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+						<extendedpassage>Оценка
+                              
+                              
+                              
+                              
+                                
+                                  
+                                    4,9
+                                  
+                                  
+                                    
+                                    
+                                  
+                                  
+                                    (247)  Цена
+                              
+                              
+                              
+                              
+                                от 12 до 60 б.р.</extendedpassage>
 					</doc>
 				</group>
 				<group id="3">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://redsale.by/remont-tehniki/remont-telefonov/zamenit-ekrana-tachskrina-stekla</url>
-						<title><![CDATA[ Замена экрана, тачскрина, стекла на телефоне на дому в ... ]]></title>
+						<url>https://greenservice.by/telefony/remont-zamena-stekla-displeya/</url>
+						<title><![CDATA[Замена стекла, ремонт дисплея телефона в Минске - гарантия, доступная цена]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Замена экрана </hlword> , <hlword> тачскрина </hlword> , <hlword> стекла на телефоне Минск </hlword> . ⚡ Срочный ремонт техники с выездом на дом, бесплатной диагностикой и гарантией. Узнайте ... ]]></passage>
+							<passage><![CDATA[ Здесь сенсор, является частью LCD экрана, а стекло нанесено отдельно с помощью специального оптического геля. Заменить разбитое стекло в телефонахHTC One, Lenovo, Nokia Lumia, Sony Xperia как  ... ]]></passage>
 						</passages>
-						<stars>4,9</stars>
-						<extendedpassage>Рейтинг: 4,9
-                                
-                                 · ‎
-                                
-                                  247 отзывов
-                                
-                                 · ‎
-                                
-                                  Диапазон цен: от 12 до 60 б.р.</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:b2dhs4-_rL4J:https://redsale.by/remont-tehniki/remont-telefonov/zamenit-ekrana-tachskrina-stekla+&amp;cd=6&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="4">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://замена-экрана.бел/</url>
-						<title><![CDATA[ Замена экрана телефона. Замена дисплея на телефоне в ... ]]></title>
+						<title><![CDATA[Замена экрана телефона. Замена дисплея на телефоне в Минске]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Замена экрана </hlword> (дисплея) на <hlword> телефоне </hlword> в <hlword> Минске </hlword> . Цены на ремонт снижены! ✓ Бесплатная доставка в ремонт и обратно. ☎ +375 (44) 531-76-01. ]]></passage>
+							<passage><![CDATA[ Замена экрана (дисплея) на телефоне в Минске. Цены на ремонт снижены! ✓ Бесплатная доставка в ремонт и обратно. ☎ +375 (44) 531-76-01. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:fup7GslYB0kJ:https://xn----7sbaba0am2aole8a9m.xn--90ais/+&amp;cd=7&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="5">
 					<doccount>1</doccount>
 					<doc>
-						<url>http://замена-стекла.бел/</url>
-						<title><![CDATA[ Замена стекла в телефоне быстро и качественно в Минске ... ]]></title>
+						<url>https://blizko.by/categories/remont-telefonov/options/zamena-stekla-telefona</url>
+						<title><![CDATA[Замена экрана телефона в Минске - Blizko.by]]></title>
 						<passages>
-							<passage><![CDATA[ Замена <hlword> стекла </hlword> в <hlword> телефоне </hlword> от 60 рублей при целой матрице ЖКИ, иначе <hlword> замена экрана </hlword> модулем, качественный и недорогой сервис от ... ]]></passage>
+							<passage><![CDATA[ Продажа аксессуаров и запасных частей. Продажа... Скидки от 10% постоянным клиентам! При установке модуля на мобильный телефон — защитное стекло или чехол в подарок! Рассрочка на 3 ... ]]></passage>
 						</passages>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:xaGL890tm1wJ:xn----7sbabwcj3ajem4cn.xn--90ais/+&amp;cd=8&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://service-tgt.by/remont-telefonov/zamena-matricy-modula-tacskrina-v-telefone/</url>
-						<title><![CDATA[ Замена экрана (дисплея) на мобильном телефоне в ... ]]></title>
+						<title><![CDATA[Замена экрана (дисплея) на мобильном телефоне в Минске, цена - ТриДжиТек Сервис]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Замена экрана </hlword> (дисплея) на мобильном <hlword> телефоне </hlword> в сервисном центре ... дефектов может потребоваться замена <hlword> стекла </hlword> , матрицы или сенсора, либо всего ... нажатие, вероятнее всего, понадобится замена <hlword> тачскрина </hlword> на <hlword> телефоне </hlword> . ... команды проводят замену экрана <hlword> телефона </hlword> в <hlword> Минске </hlword> любой сложности. ]]></passage>
+							<passage><![CDATA[ При механических повреждениях в первую очередь страдает экран. Он состоит из нескольких элементов : дисплея (матрицы), тач-скрина (сенсора), стекла дисплея и подсветки. Сломаться может экранный ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:Q2k43aQbkSoJ:https://service-tgt.by/remont-telefonov/zamena-matricy-modula-tacskrina-v-telefone/+&amp;cd=9&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="7">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://blizko.by/categories/remont-telefonov/options/zamena-stekla-telefona</url>
-						<title><![CDATA[ Замена экрана телефона в Минске - Blizko.by ]]></title>
+						<url>http://замена-стекла.бел/</url>
+						<title><![CDATA[Замена стекла в телефоне быстро и качественно в Минске Цены]]></title>
 						<passages>
-							<passage><![CDATA[ Продажа... Скидки от 10% постоянным клиентам! При установке модуля на мобильный <hlword> телефон </hlword> — защитное <hlword> стекло </hlword> или чехол в подарок! Рассрочка на 3. ]]></passage>
+							<passage><![CDATA[ Замена стекла в телефоне от 60 рублей при целой матрице ЖКИ, иначе замена экрана модулем, качественный и недорогой сервис от Замена-стекла.бел в Минске. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:Izu03uWSTF8J:https://blizko.by/categories/remont-telefonov/options/zamena-stekla-telefona+&amp;cd=10&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="8">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://okstyle.by/zamena-displeya-i-sensora/</url>
-						<title><![CDATA[ Замена дисплея, сенсора. Переклейка стекла экрана ]]></title>
+						<url>https://www.gsmmaster.by/remont-sensornyx-telefonov-v-minske/</url>
+						<title><![CDATA[Ремонт мобильных телефонов в Минске | Сервисный центр GSMmaster.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Ремонт экрана </hlword> в смартфоне за час с гарантией в <hlword> Минске </hlword> и по РБ: ... разбивается экран, сама матрица не повреждается, но верхнее <hlword> стекло </hlword> ( <hlword> тачскрин </hlword> ) ... ]]></passage>
+							<passage><![CDATA[ Такой вид ремонта телефонов в Минске как замена стекла на телефонах Huawei и занимает немного ... Здравствуйте! Замена тачскрина и экрана в Вашем самсунг гранд премиум SM-G 531H стоит 120 руб. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:FquFU7dt-sgJ:https://okstyle.by/zamena-displeya-i-sensora/+&amp;cd=11&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="9">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.gsmmaster.by/remont-sensornyx-telefonov-v-minske/</url>
-						<title><![CDATA[ Ремонт мобильных телефонов в Минске | Сервисный ... ]]></title>
+						<url>https://okstyle.by/zamena-displeya-i-sensora/</url>
+						<title><![CDATA[Замена дисплея, сенсора. Переклейка стекла экрана - OKstyle]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Ремонт телефонов </hlword> в <hlword> Минске </hlword> . <hlword> Замена стекла </hlword> от 30 минут. ... Здравствуйте! <hlword> Замена тачскрина </hlword> и <hlword> экрана </hlword> в Вашем самсунг гранд премиум SM-G 531H ... ]]></passage>
+							<passage><![CDATA[ Ремонт экрана в смартфоне за час с гарантией в Минске и по РБ: ... механического повреждения разбивается экран, сама матрица не повреждается, но верхнее стекло (тачскрин) остается в трещинах. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:oZEzSFpVRVgJ:https://www.gsmmaster.by/remont-sensornyx-telefonov-v-minske/+&amp;cd=12&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="10">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://slomal.by/computer-services/%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%B0-touch-screen-%D0%BD%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B5-vertex/</url>
-						<title><![CDATA[ Замена стекла (touch screen) на телефоне VERTEX в Минске ]]></title>
+						<url>http://newservice.by/phones/zamena-sensornogo-stekla-tachskrina-v-telefone/</url>
+						<title><![CDATA[Замена тачскрина (сенсорного стекла) в телефоне в Минске, цены - Сервисный центр в Минске]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Замена стекла </hlword> (touch <hlword> screen </hlword> ) на <hlword> телефоне </hlword> VERTEX в <hlword> Минске </hlword> . У нас ... когда необходима <hlword> замена тачскрина </hlword> , не стоит расстраиваться раньше времени. ]]></passage>
+							<passage><![CDATA[ Сколько стоит замена сенсорного стекла сенсора (тачскрина) телефона в Минске? Починим сенсор быстро и недорого! Лучшие цены на ремонт телефона в "Новый Сервис", Звоните! ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:mJC0X62eSogJ:https://slomal.by/computer-services/%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%B0-touch-screen-%D0%BD%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B5-vertex/+&amp;cd=13&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 			</grouping>

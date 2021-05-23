@@ -2,43 +2,58 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T094900">
-		<found priority="all">1610000</found>
-		<localresultsplace>
-			<item>
-				<title>Салон красоты Миэль - стрижка окрашивание, маникюр, педикюр, брови, ресницы, макияж и массаж</title>
-				<place_id>13351331144413878202</place_id>
-				<url>https://miel.by/?utm_source=google&amp;amp;utm_medium=gmb&amp;amp;utm_campaign=main</url>
-				<rating>4,3</rating>
-			</item>
-			<item>
-				<title>Салон красоты &quot;Pavlin&quot; (Немига)</title>
-				<place_id>5468647573580093089</place_id>
-				<url>https://pavlin.relax.by/</url>
-				<rating>4,5</rating>
-			</item>
-			<item>
-				<title>Студия красоты &quot;Студия БэллаНика&quot;</title>
-				<place_id>5965979306806031655</place_id>
-				<url>http://bellanika.by/</url>
-				<rating>4,7</rating>
-			</item>
-		</localresultsplace>
+	<response date="20210401T204849">
+		<found priority="all">100</found>
+		<addresults>
+			<relatedQuestions>
+				<question>
+					<title>Окрашивание ресниц отзывы</title>
+				</question>
+				<question>
+					<title>Окрашивание ресниц цена</title>
+				</question>
+				<question>
+					<title>Наращивание ресниц минск инстаграм</title>
+				</question>
+				<question>
+					<title>Окрашивание ресниц до и после</title>
+				</question>
+				<question>
+					<title>Окраска ресниц</title>
+				</question>
+				<question>
+					<title>Ламинирование ресниц</title>
+				</question>
+				<question>
+					<title>Наращивание ресниц Минск СЛИВКИ</title>
+				</question>
+				<question>
+					<title>Наращивание ресниц минск Фрунзенский район</title>
+				</question>
+				<question>
+					<title>Наращивание ресниц минск Куфар</title>
+				</question>
+				<question>
+					<title>Наращивание ресниц Минск Уручье</title>
+				</question>
+				<question>
+					<title>Наращивание ресниц Минск Серебрянка</title>
+				</question>
+				<question>
+					<title>Наращивание ресниц Минск Малиновка</title>
+				</question>
+			</relatedQuestions>
+		</addresults>
 		<bottomads>
 			<query>
-				<url>http://www.lash.by/</url>
-				<title>Наращивание ресниц - Любой дизайн и объем 2D-3D-6D</title>
-				<snippet>Наращивание ресниц - Любой дизайн и объем 2D-3D-6D</snippet>
+				<url>https://www.googleadservices.com/pagead/aclk?sa=L&amp;amp;ai=DChcSEwi9oaze9d3vAhUUB-YKHdFBB4UYABAAGgJscg&amp;amp;ae=2&amp;amp;ohost=www.google.com&amp;amp;cid=CAASE-RohmtPb5njStBgrQMjKzPOHrY&amp;amp;sig=AOD64_0v6-CxhAsBuEpzFybPUZBAYIUhRQ&amp;amp;adurl=&amp;amp;q=</url>
+				<title>Окрашивание ресниц в Минске - Brow Bar Beautify</title>
+				<snippet/>
 			</query>
 			<query>
-				<url>http://www.manikyur-minsk.by/брови/коррекция</url>
-				<title>Окрашивание ресниц - Brow Минск</title>
-				<snippet>Окрашивание ресниц - Brow Минск</snippet>
-			</query>
-			<query>
-				<url>https://www.safina.by/services/parikmakherskie</url>
-				<title>Студия окрашиваний &quot;Safina&quot; - Топ мастера-колористы</title>
-				<snippet>Студия окрашиваний &quot;Safina&quot; - Топ мастера-колористы</snippet>
+				<url>https://www.instagram.com/ksenia_stilist/</url>
+				<title>Окрашивания любой сложности - Только качественные материалы - Топ-колорист Оксана Капустина</title>
+				<snippet/>
 			</query>
 		</bottomads>
 		<results>
@@ -48,133 +63,120 @@
 					<doccount>1</doccount>
 					<doc>
 						<url>https://www.relax.by/list/beauty-okrashivanije-resnic/minsk/</url>
-						<title><![CDATA[ Окрашивание ресниц хной, краской в Минске - цены, отзывы ]]></title>
+						<title><![CDATA[Окрашивание ресниц хной, краской в Минске - цены, отзывы - Relax.by]]></title>
 						<passages>
-							<passage><![CDATA[ Где качественно покрасить <hlword> ресницы </hlword> в <hlword> Минске </hlword> , подскажет relax.by. ✍ Онлайн запись, ✓ стоимость услуг, ✓ адреса салонов на карте города, отзывы ... ]]></passage>
+							<passage><![CDATA[ Где качественно покрасить ресницы в Минске, подскажет relax.by. ✍ Онлайн запись, ✓ стоимость услуг, ✓ адреса салонов на карте города, отзывы клиентов смотрите на портале. ]]></passage>
 						</passages>
-						<extendedpassage>От 3,00 BYN до 70,00 BYN</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:pV-IicBAx3AJ:https://www.relax.by/list/beauty-okrashivanije-resnic/minsk/+&amp;cd=1&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="2">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://incity.by/uslugi/korrekciya-brovej/okrashivanie-resnic/</url>
-						<title><![CDATA[ Окрашивание ресниц краской в Минске – цены в салоне ... ]]></title>
+						<title><![CDATA[Окрашивание ресниц краской в Минске – цены в салоне красоты ИнСити - Салон красоты ИнСити в Сухарево (Каменная горка)]]></title>
 						<passages>
-							<passage><![CDATA[ Качественное <hlword> окрашивание ресниц </hlword> краской в <hlword> Минске </hlword> сертифицированными мастерами. Процедура окраски <hlword> ресниц </hlword> и бровей в салоне красоты ... ]]></passage>
+							<passage><![CDATA[ Качественное окрашивание ресниц краской в Минске сертифицированными мастерами. Процедура окраски ресниц и бровей в салоне красоты ИнСити. Записывайтесь на услугу покраски ресниц краской по ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:5fmyhaZdBWAJ:https://incity.by/uslugi/korrekciya-brovej/okrashivanie-resnic/+&amp;cd=5&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="3">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://browbar12.by/goods/eyelash/</url>
-						<title><![CDATA[ Окрашивание ресниц в Минске, недорогая цена покраски ... ]]></title>
+						<title><![CDATA[Окрашивание ресниц в Минске, недорогая цена покраски ресниц - Brow Bar 12]]></title>
 						<passages>
-							<passage><![CDATA[ Сделать <hlword> окрашивание ресниц </hlword> в <hlword> Минске </hlword> можно в одном из наших филиалов: ТЦ «Замок»;; ТЦ «Променад»;; ул. Румянцева 17. Brow Bar 12 работает ... ]]></passage>
+							<passage><![CDATA[ Сделать покраску ресниц в Минске вы можете у нас! ✓ Недорогая цена на ресницы! ✓ Опытные мастера! Стоимость ресниц смотрите на сайте browbar12.by! Телефон: ☎ +375 (29) 641-14-41. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:ZcpjRJl-vdUJ:https://browbar12.by/goods/eyelash/+&amp;cd=6&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="4">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://redsale.by/krasota/oformlenie-resnic/okrashivanie-resnic</url>
-						<title><![CDATA[ Окрашивание ресниц в Минске. Мастера, цены на ... ]]></title>
+						<title><![CDATA[Окрашивание ресниц в Минске. Мастера, цены на окрашивание ресниц, онлайн запись, отзывы - RedSale.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Окрашивание ресниц </hlword> в <hlword> Минске </hlword> : профессиональные мастера, низкие цены, отзывы клиентов и рейтинг исполнителей - запишись на RedSale.by! ]]></passage>
+							<passage><![CDATA[ Окрашивание ресниц в Минске: профессиональные мастера, низкие цены, отзывы клиентов и рейтинг исполнителей - запишись на RedSale.by! ]]></passage>
 						</passages>
-						<stars>4,8</stars>
-						<extendedpassage>Рейтинг: 4,8
+						<extendedpassage>Оценка
+                              
+                              
+                              
+                              
                                 
-                                 · ‎
-                                
-                                  1 659 отзывов
-                                
-                                 · ‎
-                                
-                                  Диапазон цен: от 3 до 50 б.р.</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:MQeesaSZ7RwJ:https://redsale.by/krasota/oformlenie-resnic/okrashivanie-resnic+&amp;cd=7&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+                                  
+                                    4,8
+                                  
+                                  
+                                    
+                                    
+                                  
+                                  
+                                    (1 566)  Цена
+                              
+                              
+                              
+                              
+                                от 3 до 50 б.р.</extendedpassage>
 					</doc>
 				</group>
 				<group id="5">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://zoon.by/minsk/beauty/type/okrashivanie_resnits/</url>
-						<title><![CDATA[ Окрашивание ресниц в Минске с адресами, отзывами и ... ]]></title>
+						<url>https://www.slivki.by/salony-krasoty/resnitsi-i-brovi</url>
+						<title><![CDATA[Окраска и наращивание ресниц в Минске недорого | Коррекция, окрашивание и моделирование бровей – лучшие цены - Slivki.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Окрашивание ресниц </hlword> : ⭐️ 169 салонов красоты и СПА в <hlword> Минске </hlword> . <hlword> Окрашивание ресниц </hlword> в <hlword> Минске </hlword> с адресами, ☎️ телефонами, ценами, ✉️ отзывами ... ]]></passage>
+							<passage><![CDATA[ Наращивание ресницы и окраска бровей в Минске недорого со скидкой -80%! Специальное предложение на коррекцию, наращивание, моделирование и окраску ресниц/бровей! Предложения от 111 ... ]]></passage>
 						</passages>
-						<stars>4,1</stars>
-						<extendedpassage>Рейтинг: 4,1
-                                
-                                 · ‎
-                                
-                                  2 157 голосов</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:rrAnVh51joMJ:https://zoon.by/minsk/beauty/type/okrashivanie_resnits/+&amp;cd=8&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://zoon.by/minsk/beauty/type/okrashivanie_resnits/rayon/frunzenskij_rajon/</url>
-						<title><![CDATA[ Окрашивание ресниц во Фрунзенском районе - Минск ]]></title>
+						<url>https://zoon.by/minsk/beauty/type/okrashivanie_resnits/</url>
+						<title><![CDATA[Окрашивание ресниц в Минске с адресами, отзывами и фото - Zoon.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Окрашивание ресниц </hlword> в салонах красоты Фрунзенского района ( <hlword> Минск </hlword> ) - Zoon.by. <hlword> Окрашивание ресниц </hlword> - салоны на карте, фото интерьера и отзывы  ... ]]></passage>
+							<passage><![CDATA[ Окрашивание ресниц: ⭐️ 169 салонов красоты и СПА в Минске. Окрашивание ресниц в Минске с адресами, ☎️ телефонами, ценами, ✉️ отзывами посетителей и фото. Удобный поиск по режиму работы, ... ]]></passage>
 						</passages>
-						<stars>3,6</stars>
-						<extendedpassage>Рейтинг: 3,6
-                                
-                                 · ‎
-                                
-                                  2 202 голоса</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:ecvS3BhMkH0J:https://zoon.by/minsk/beauty/type/okrashivanie_resnits/rayon/frunzenskij_rajon/+&amp;cd=9&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="7">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.slivki.by/salony-krasoty/resnitsi-i-brovi</url>
-						<title><![CDATA[ Окраска и наращивание ресниц в Минске недорого ... ]]></title>
+						<url>https://zoon.by/minsk/beauty/type/okrashivanie_resnits/rayon/frunzenskij_rajon/</url>
+						<title><![CDATA[Окрашивание ресниц во Фрунзенском районе - услуги, отзывы и адреса салонов красоты на карте - Минск - Zoon.by]]></title>
 						<passages>
-							<passage><![CDATA[ Наращивание <hlword> ресницы </hlword> и окраска бровей в <hlword> Минске </hlword> недорого со скидкой -80% ! Специальное предложение на коррекцию, наращивание, моделирование ... ]]></passage>
+							<passage/>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:IA2C-WYTi0YJ:https://www.slivki.by/salony-krasoty/resnitsi-i-brovi+&amp;cd=10&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="8">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://v-studio.by/brovi-i-resnitsy/</url>
-						<title><![CDATA[ Коррекция бровей, окрашивание бровей и ресниц в ... ]]></title>
+						<url>https://visavis.by/uslugi/okrashivanie-brovey-i-resnic</url>
+						<title><![CDATA[Окрашивание бровей и ресниц в салоне красоты - Салон красоты Visavis в Минске, Цены]]></title>
 						<passages>
-							<passage><![CDATA[ Коррекция бровей и <hlword> ресниц </hlword> в <hlword> Минске </hlword> . Хотите покорять одним взглядом? Коррекция и <hlword> окрашивание </hlword> бровей в салоне V-studio помогут Вам в этом! ]]></passage>
+							<passage><![CDATA[ Профессиональное окрашивание бровей и ресниц в Минске предлагает салон красоты Visavis - Отличные цены, опытные мастера, Огромный выбор оттенков, Моделирование формы. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:l0w5rrKL-5kJ:https://v-studio.by/brovi-i-resnitsy/+&amp;cd=11&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="9">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://bellanika.by/uslugi/brovi/okrashivanie-resnic/</url>
-						<title><![CDATA[ Окрашивание ресниц в Минске - фото и цены на ... ]]></title>
+						<url>https://flersalon.by/services_for_her/kosmeticheskie-uslugi/brovi-i-resnicy.html</url>
+						<title><![CDATA[Коррекция и окрашивание бровей | Коррекция нарощенных ресниц в Минске - Центр эстетики Fler]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Окрашивание ресниц </hlword> в <hlword> Минске </hlword> - цены от 10 BYN ⭐️ Лучшие мастера ⭐️ Материалы класса «LUX»️ ✔️ Онлайн-запись ✔️ Примеры работ ... ]]></passage>
+							<passage><![CDATA[ Окрашивание бровей: 10.00; Окрашивание ресниц: 10.00; Окрашивание бровей хной: 25.00 (действует скидка 40%) - 15.00*. Увеличение собственных ресниц Yumi Lashes: 100.00 (действует скидка 50%) ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:9V23xP5SgucJ:https://bellanika.by/uslugi/brovi/okrashivanie-resnic/+&amp;cd=12&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="10">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://visavis.by/uslugi/okrashivanie-brovey-i-resnic</url>
-						<title><![CDATA[ Окрашивание бровей в Минске в салоне красоты, цены ]]></title>
+						<url>http://kristl.by/kosmeticheskij-kabinet/okraska-brovej-i-resnits/</url>
+						<title><![CDATA[Окрашивание бровей и ресниц в Минске краской и хной в велнес-студии "KRISTL" | kristl.by - Wellness Club "KRISTL"]]></title>
 						<passages>
-							<passage><![CDATA[ Профессиональное <hlword> окрашивание </hlword> бровей и <hlword> ресниц </hlword> в <hlword> Минске </hlword> предлагает салон красоты Visavis - Отличные цены, опытные мастера, Огромный выбор  ... ]]></passage>
+							<passage><![CDATA[ Окраска ресниц и бровей по выгодной цене в на ул. П. Мстиславца, д.5. Окрашивание хной и краской в Минске, звоните +375 29 3027676, +375 33 9027676. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:L66lgldG7gsJ:https://visavis.by/uslugi/okrashivanie-brovey-i-resnic+&amp;cd=13&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 			</grouping>

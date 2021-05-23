@@ -2,43 +2,77 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T094728">
-		<found priority="all">30200</found>
+	<response date="20210401T225728">
+		<found priority="all">100</found>
+		<addresults>
+			<relatedQuestions>
+				<question>
+					<title>Массаж в ЛОДЭ минск</title>
+				</question>
+				<question>
+					<title>Массаж для недоношенных детей минск</title>
+				</question>
+				<question>
+					<title>Массаж грудничку минск на дому</title>
+				</question>
+				<question>
+					<title>ЛОДЭ детский массаж</title>
+				</question>
+				<question>
+					<title>Хороший детский массажист Минск отзывы</title>
+				</question>
+				<question>
+					<title>Детский массаж Минск курсы</title>
+				</question>
+				<question>
+					<title>Массажист для новорожденных</title>
+				</question>
+				<question>
+					<title>Детский массаж на дому</title>
+				</question>
+				<question>
+					<title>Детский массаж форум</title>
+				</question>
+				<question>
+					<title>Детский массаж Минск вакансии</title>
+				</question>
+				<question>
+					<title>Сколько стоит детский массаж на дому</title>
+				</question>
+				<question>
+					<title>Услуги детского массажиста</title>
+				</question>
+			</relatedQuestions>
+		</addresults>
 		<localresultsplace>
 			<item>
 				<title>Детский массаж на дому в Минске</title>
 				<place_id>1331917198377895887</place_id>
-				<url>http://www.mrw.by/</url>
+				<url/>
 				<rating>5,0</rating>
 			</item>
 			<item>
 				<title>Детский массаж на дому</title>
 				<place_id>11735543584352729072</place_id>
-				<url>http://detskiy-massage.by/</url>
-				<rating>4,8</rating>
-			</item>
-			<item>
-				<title>Минск массаж All inclusive spa</title>
-				<place_id>16253235014436817637</place_id>
 				<url/>
-				<rating>5,0</rating>
+				<rating>4,8</rating>
 			</item>
 		</localresultsplace>
 		<bottomads>
 			<query>
-				<url>https://www.dodoctor.by/</url>
-				<title>Детский массаж — добрый доктор</title>
-				<snippet>Детский массаж — добрый доктор</snippet>
+				<url>https://redsale.by/krasota/massazh/detskii</url>
+				<title>20 руб. за сеанс - Детский массаж в Минске</title>
+				<snippet/>
 			</query>
 			<query>
-				<url>https://www.2doc.by/</url>
+				<url>https://profi-bel.by/krasota/massage/</url>
+				<title>Частные мастера по массажу - Все районы Минска</title>
+				<snippet/>
+			</query>
+			<query>
+				<url>https://2doc.by/doctors/massazhist/detskij-massazh</url>
 				<title>Все виды массажа - Онлайн запись на сеанс</title>
-				<snippet>Все виды массажа - Онлайн запись на сеанс</snippet>
-			</query>
-			<query>
-				<url>https://www.tamarind.by/</url>
-				<title>Массаж Минск - Массаж в лучшем Спа в Минске</title>
-				<snippet>Массаж Минск - Массаж в лучшем Спа в Минске</snippet>
+				<snippet/>
 			</query>
 		</bottomads>
 		<results>
@@ -48,121 +82,120 @@
 					<doccount>1</doccount>
 					<doc>
 						<url>https://redsale.by/krasota/massazh/detskii</url>
-						<title><![CDATA[ Детский массаж в Минске. Детские массажисты на дом ... ]]></title>
+						<title><![CDATA[Детский массаж в Минске. Детские массажисты на дом, стоимость услуг, консультация, отзывы клиентов - RedSale.by]]></title>
 						<passages>
-							<passage><![CDATA[ Закажите детский <hlword> массаж </hlword> в <hlword> Минске </hlword> на дом по оптимальной цене через сервис ... Новорождённый <hlword> Грудничок </hlword> от 1 до 3 лет от 3 до 7 лет от 7 лет. ]]></passage>
+							<passage><![CDATA[ Закажите детский массаж в Минске на дом по оптимальной цене через сервис RedSale.by. Каталог детских ... Новорождённый Грудничок от 1 до 3 лет от 3 до 7 лет от 7 лет. Показания: Дисплазия Тонус ... ]]></passage>
 						</passages>
-						<stars>4,9</stars>
-						<extendedpassage>Рейтинг: 4,9
+						<extendedpassage>Оценка
+                              
+                              
+                              
+                              
                                 
-                                 · ‎
-                                
-                                  1 684 отзыва
-                                
-                                 · ‎
-                                
-                                  Диапазон цен: от 5 до 140 б.р.</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:0MY4rqQeulsJ:https://redsale.by/krasota/massazh/detskii+&amp;cd=4&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+                                  
+                                    4,9
+                                  
+                                  
+                                    
+                                    
+                                  
+                                  
+                                    (1 687)  Цена
+                              
+                              
+                              
+                              
+                                от 5 до 140 б.р.</extendedpassage>
 					</doc>
 				</group>
 				<group id="2">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://detskiy-massage.by/</url>
-						<title><![CDATA[ Детский массаж с выездом на дом в Минске ]]></title>
+						<url>https://www.lode.by/services/massazh/</url>
+						<title><![CDATA[Цена на курс массажа ребенку в Минске | Массаж детям на дому с выездом специалистов медицинского центра «ЛОДЭ»]]></title>
 						<passages>
-							<passage><![CDATA[ Детский <hlword> массаж </hlword> является очень важной процедурой для здорового развития ребёнка. Заказать детский <hlword> массаж </hlword> с выездом на дом в <hlword> Минске </hlword> можно у ... ]]></passage>
+							<passage><![CDATA[ В медицинских центрах «ЛОДЭ» работают высококвалифицированные массажисты ✓ Все врачи имеют опыт практической работы ✓ Систематически проходят курсы повышения квалификации. Записать ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:8rHgGpVUkTMJ:https://detskiy-massage.by/+&amp;cd=5&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="3">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://www.103.by/list/pediatriya-detskij-massazh/minsk/</url>
-						<title><![CDATA[ Детский массаж в Минске: цены, отзывы - 103.BY ]]></title>
+						<title><![CDATA[Детский массаж в Минске: цены, отзывы - 103.BY]]></title>
 						<passages>
-							<passage><![CDATA[ Не знаете, где можно сделать <hlword> массаж </hlword> ребенку в <hlword> Минске </hlword> ? На портале 103.by вы сможете найти адреса всех массажных кабинетов, где делают детский ... ]]></passage>
+							<passage><![CDATA[ Не знаете, где можно сделать массаж ребенку в Минске? На портале 103.by вы сможете найти адреса всех массажных кабинетов, где делают детский массаж. ]]></passage>
 						</passages>
-						<extendedpassage>От 21,00 BYN до 40,00 BYN</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:_Zy7ERQFn5AJ:https://www.103.by/list/pediatriya-detskij-massazh/minsk/+&amp;cd=6&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="4">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.lode.by/services/massazh/</url>
-						<title><![CDATA[ Цена на курс массажа детям на дому | Массаж ребенку в ... ]]></title>
+						<url>https://detskiy-massage.by/</url>
+						<title><![CDATA[Детский массаж с выездом на дом в Минске]]></title>
 						<passages>
-							<passage><![CDATA[ В медицинских центрах «ЛОДЭ» работают высококвалифицированные массажисты ✓ Все врачи имеют опыт практической работы ✓ Систематически ... ]]></passage>
+							<passage><![CDATA[ Детский массаж является очень важной процедурой для здорового развития ребёнка. Заказать детский массаж с выездом на дом в Минске можно у Юлии Мандрик. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:XCdyfID1VhIJ:https://www.lode.by/services/massazh/+&amp;cd=7&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="5">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://kravira.by/services/detskoe-otdelenie/massazh-deti/massazh-detskiy/</url>
-						<title><![CDATA[ Массаж детский в Минске МЦ Кравира ]]></title>
+						<title><![CDATA[Массаж детский в Минске МЦ Кравира]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Минск </hlword> Проспект Победителей, 45. Скрипникова, 11б. Захарова, 50д. kravira@ kravira.by · Facebook · Вконтакте · Instagram · Viber · Telegram. ]]></passage>
+							<passage><![CDATA[ Минск Проспект Победителей, 45. Скрипникова, 11б. Захарова, 50д. kravira@kravira.by · Facebook · Вконтакте · Instagram · Viber · Telegram · Главная · Услуги · Детское отделение · Массаж; Массаж. ВКонтакте ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:_k2Yv-Cd41UJ:https://kravira.by/services/detskoe-otdelenie/massazh-deti/massazh-detskiy/+&amp;cd=8&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://vk.com/detskiy_mm</url>
-						<title><![CDATA[ Детский массаж в Минске с выездом на дом | ВКонтакте ]]></title>
+						<url>https://www.relax.by/cat/health/massazh/minsk/novorozhdennye/</url>
+						<title><![CDATA[Массаж для новорожденных, грудничков в Минске – цены, отзывы - Relax.by]]></title>
 						<passages>
-							<passage><![CDATA[ Доброго времени суток! Я - детский массажист, врач. На разных этапах развития ребеночек может столкнуться с теми или иными трудностями. Гипо - ... ]]></passage>
+							<passage><![CDATA[ Где сделать массаж новорожденным детям в Минске, подскажет relax.by. Адреса салонов, стоимость услуг, отзывы клиентов смотрите на нашем портале. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:dZOGAaclh3EJ:https://vk.com/detskiy_mm+&amp;cd=9&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="7">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.relax.by/cat/health/massazh/minsk/novorozhdennye/</url>
-						<title><![CDATA[ Массаж для новорожденных, грудничков в Минске – цены ... ]]></title>
+						<url>http://mrw.by/</url>
+						<title><![CDATA[Детский массаж на дому в Минске]]></title>
 						<passages>
-							<passage><![CDATA[ Где сделать <hlword> массаж </hlword> новорожденным детям в <hlword> Минске </hlword> , подскажет relax.by. Адреса салонов, стоимость услуг, отзывы клиентов смотрите на нашем ... ]]></passage>
+							<passage><![CDATA[ Врачебный детский массаж на дому в Минске. Врач-педиатр выполняет лечебные и общеукрепляющие виды массажа для новорожденных и грудничков.Выезд в любой район. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:oA_ZKbQXTdkJ:https://www.relax.by/cat/health/massazh/minsk/novorozhdennye/+&amp;cd=10&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="8">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://dodoctor.by/leaving-the-massage-to-the-house/</url>
-						<title><![CDATA[ Детский массаж — добрый доктор ]]></title>
+						<url>https://dfstom.by/uslugi/massazhnyie-uslugi/detskij-massazh.html</url>
+						<title><![CDATA[Детский массаж в Минске, стоимость массажа ребенку - Дентал Фэнтези]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Массаж </hlword> рекомендуется начинать уже после 1 месяца жизни ребенка. В раннем детском возрасте <hlword> массаж </hlword> развивает двигательную активность и ... ]]></passage>
+							<passage><![CDATA[ Ищете детский массаж для ребенка? ➡️ Профессиональные массажные услуги для всей семьи по приемлемой цене в клинике Дентал Фэнтези ☎️ Звоните! ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:JuKhsxcsiMYJ:https://dodoctor.by/leaving-the-massage-to-the-house/+&amp;cd=11&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="9">
 					<doccount>1</doccount>
 					<doc>
-						<url>http://mrw.by/</url>
-						<title><![CDATA[ Детский массаж на дому в Минске ]]></title>
+						<url>https://dodoctor.by/leaving-the-massage-to-the-house/</url>
+						<title><![CDATA[Детский массаж — добрый доктор]]></title>
 						<passages>
-							<passage><![CDATA[ Врачебный детский <hlword> массаж </hlword> на дому в <hlword> Минске </hlword> . Врач-педиатр выполняет лечебные и общеукрепляющие виды <hlword> массажа </hlword> для новорожденных и <hlword> грудничков </hlword>  ... ]]></passage>
+							<passage><![CDATA[ Массаж рекомендуется начинать уже после 1 месяца жизни ребенка. В раннем детском возрасте массаж развивает двигательную активность и является мощным фактором, способствующим правильному ... ]]></passage>
 						</passages>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:nwkrdljTL9EJ:mrw.by/+&amp;cd=12&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="10">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://dfstom.by/uslugi/massazhnyie-uslugi/detskij-massazh.html</url>
-						<title><![CDATA[ Детский массаж в Минске, стоимость массажа ребенку ]]></title>
+						<url>http://www.ems.by/detskij-massazh/</url>
+						<title><![CDATA[Детский массаж - Экомедсервис]]></title>
 						<passages>
-							<passage><![CDATA[ Ищете детский <hlword> массаж </hlword> для ребенка? ➡️ Профессиональные массажные услуги для всей семьи по приемлемой цене в клинике Дентал Фэнтези ... ]]></passage>
+							<passage><![CDATA[ Массаж помогает ребенку справляться с определенными заболеваниями, лучше развиваться, поддерживать мышечный тонус. Сеансы массажа для детей в Минске вы можете проходить в центре ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:F08Ul_anU5gJ:https://dfstom.by/uslugi/massazhnyie-uslugi/detskij-massazh.html+&amp;cd=13&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 			</grouping>

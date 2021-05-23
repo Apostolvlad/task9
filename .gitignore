@@ -42,3 +42,5 @@ app.db
 log.log*
 *.cmd
 credentials.json
+data
+data old

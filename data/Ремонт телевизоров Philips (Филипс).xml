@@ -2,7 +2,7 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T100606">
+	<response date="20210401T210225">
 		<found priority="all">100</found>
 		<addresults>
 			<relatedQuestions>
@@ -10,7 +10,7 @@
 					<title>Замена матрицы телевизора Philips цена</title>
 				</question>
 				<question>
-					<title>Ремонт телевизоров Филипс Минск</title>
+					<title>Сервисный центр Philips Минск</title>
 				</question>
 				<question>
 					<title>Сервисный центр пылесосов Филипс Минск</title>
@@ -22,52 +22,64 @@
 					<title>Сервисный центр по ремонту телевизоров Филипс</title>
 				</question>
 				<question>
-					<title>Сервисный центр телевизоров Филипс в минск</title>
+					<title>Сервисный центр телевизоров филипс в минск</title>
+				</question>
+				<question>
+					<title>Купить матрицу для телевизора Philips</title>
+				</question>
+				<question>
+					<title>Матрица для телевизора Philips цена</title>
+				</question>
+				<question>
+					<title>Запчасти к телевизору филипс</title>
+				</question>
+				<question>
+					<title>Ремонт материнской платы телевизора Филипс</title>
+				</question>
+				<question>
+					<title>Ремонт блендера филипс Минск</title>
 				</question>
 				<question>
 					<title>Ремонт Philips Минск</title>
 				</question>
-				<question>
-					<title>Сервисный центр Филипс Минск</title>
-				</question>
 			</relatedQuestions>
 		</addresults>
 		<topads>
-			<query>
-				<url>https://technostar.by/remont-televizorov/philips/</url>
-				<title>Ремонт Телевизора Филипс - 80% Ремонтов за 1 День - Диагностика - 0 р - technostar.by</title>
-				<snippet/>
-			</query>
 			<query>
 				<url>http://televizius.by/</url>
 				<title>Ремонт Телевизоров Philips - Низкие цены — 30 лет Опыта - Заходи - televizius.by</title>
 				<snippet/>
 			</query>
 			<query>
-				<url>http://rodi.by/remont-televizorov/</url>
-				<title>Ремонт любых телевизоров - Битые не ремонтируем - rodi.by</title>
+				<url>http://remont-televizorov.site/</url>
+				<title>Ремонт Телевизоров в Минске - Доставка в Сервис и Обратно - Низкие Ценыa - remont-televizorov.site</title>
 				<snippet/>
 			</query>
 			<query>
-				<url>https://service-tech.by/remont-televizorov/</url>
-				<title>Ремонт Телевизоров Филипс - с гарантией - в Минске - service-tech.by</title>
+				<url>https://teleservis.by/</url>
+				<title>Ремонт Телевизоров Филипс - Выезд на дома - Гарантия на все виды Pемонта - teleservis.by</title>
+				<snippet/>
+			</query>
+			<query>
+				<url>http:///aclk?sa=L&amp;amp;ai=DChcSEwje6pTj-N3vAhX7R5EFHcqPCQQYABALGgJscg&amp;amp;ae=2&amp;amp;sig=AOD64_3Ao83m0BFLXZi-OkzDok1n311Gnw&amp;amp;adurl=&amp;amp;q=</url>
+				<title>Ремонт ТВ Минск - Готовность за час - itehrem.by</title>
 				<snippet/>
 			</query>
 		</topads>
 		<bottomads>
 			<query>
-				<url>https://expert-service.by/remont-televizorov/</url>
-				<title>Ремонт телевизоров в Минске - Без переплат</title>
-				<snippet/>
-			</query>
-			<query>
-				<url>https://tv-remont.by/</url>
-				<title>Ремонт телевизоров Philips - Ремонт с выездом на дом - Быстро приедем к вам на дом</title>
-				<snippet/>
-			</query>
-			<query>
 				<url>https://fix-lab.by/</url>
-				<title>Круглосуточно - Надежно - Оперативно</title>
+				<title>Оперативно - Круглосуточно</title>
+				<snippet/>
+			</query>
+			<query>
+				<url>http:///aclk?sa=L&amp;amp;ai=DChcSEwje6pTj-N3vAhX7R5EFHcqPCQQYABAAGgJscg&amp;amp;ae=2&amp;amp;sig=AOD64_0kw4CRtFaWO4x6HXhORBDOxHwMxQ&amp;amp;adurl=&amp;amp;q=</url>
+				<title>Ремонт ТВ минск - Лучшая мастерская Минска</title>
+				<snippet/>
+			</query>
+			<query>
+				<url>https://tvfix.by/</url>
+				<title>Ремонт телевизоров всех марок - От 30 руб</title>
 				<snippet/>
 			</query>
 		</bottomads>
@@ -97,26 +109,6 @@
 				<group id="3">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://telefrast.com/uslugi/remont-televizorov/philips/</url>
-						<title><![CDATA[Ремонт телевизоров Philips (Филипс) в Минске - телефраст]]></title>
-						<passages>
-							<passage><![CDATA[ Ремонт телевизоров Philips в Минске (Фрунзенский район) ➢Скидки ➢В мастерской ➢Без выходных ➢ Гарантия. ☎ +375(17)252-53-33. ]]></passage>
-						</passages>
-					</doc>
-				</group>
-				<group id="4">
-					<doccount>1</doccount>
-					<doc>
-						<url>https://redsale.by/remont-tehniki/remont-televizorov/tag/philips</url>
-						<title><![CDATA[Ремонт телевизоров Philips (Филипс) с выездом на дом в Минске. Цены, гарантия – Redsale.by]]></title>
-						<passages>
-							<passage><![CDATA[ Ремонт телевизоров Philips (Филипс) Минск. ⚡ Узнайте, где недорого вызвать мастера на дом c бесплатной диагностикой. Качественный ремонт техники с гарантией: цены, отзывы и рейтинг анкет. ]]></passage>
-						</passages>
-					</doc>
-				</group>
-				<group id="5">
-					<doccount>1</doccount>
-					<doc>
 						<url>https://philips-service.by/</url>
 						<title><![CDATA[Сервисный Центр Philips в Минске • Ремонт телевизоров и мониторов Philips в Минске, Беларусь]]></title>
 						<passages>
@@ -125,17 +117,27 @@
 						<pubDate>26 февр. 2020 г. —</pubDate>
 					</doc>
 				</group>
-				<group id="6">
+				<group id="4">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://telefix.by/philips/</url>
-						<title><![CDATA[Ремонт телевизоров Philips в Минске с выездом]]></title>
+						<url>https://telefrast.com/uslugi/remont-televizorov/philips/</url>
+						<title><![CDATA[Ремонт телевизоров Philips (Филипс) в Минске - телефраст]]></title>
 						<passages>
-							<passage><![CDATA[ Срочный ремонт телевизоров Philips в Минске с выездом на дому - недорогие цены ремонта, профессионально с гарантией Филипс. ]]></passage>
+							<passage><![CDATA[ Ремонт телевизоров Philips в Минске (Фрунзенский район) ➢Скидки ➢В мастерской ➢Без выходных ➢ Гарантия. ☎ +375(17)252-53-33. ]]></passage>
 						</passages>
 					</doc>
 				</group>
-				<group id="7">
+				<group id="5">
+					<doccount>1</doccount>
+					<doc>
+						<url>https://s-mart.by/remont-televizorov/remont-televizorov-philips/</url>
+						<title><![CDATA[Ремонт телевизоров Philips в Минске | S-mart.by]]></title>
+						<passages>
+							<passage><![CDATA[ В отличие от приборов других брендов, телевизоры Филипс работают на базе ОС Android, управляет системой мощный производительный процессор Quad Core. Но, к сожалению, как и другая цифровая ... ]]></passage>
+						</passages>
+					</doc>
+				</group>
+				<group id="6">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://ultraservice.by/remont-televizorov/remont-televizorov-philips/</url>
@@ -145,17 +147,17 @@
 						</passages>
 					</doc>
 				</group>
-				<group id="8">
+				<group id="7">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.philips.by/a-w/about-philips/company-profile/contact.html</url>
-						<title><![CDATA[Контакты | Philips - Philips - Беларусь]]></title>
+						<url>https://telefix.by/philips/</url>
+						<title><![CDATA[Ремонт телевизоров Philips в Минске с выездом]]></title>
 						<passages>
-							<passage><![CDATA[ Телевизоры Philips (поддержка потребителей и информация о сервисной сети) ... Гарантийное, послегарантийное обслуживание и ремонт потребительских товаров* производят авторизованные центры:. ]]></passage>
+							<passage><![CDATA[ Срочный ремонт телевизоров Philips в Минске с выездом на дому - недорогие цены ремонта, профессионально с гарантией Филипс. ]]></passage>
 						</passages>
 					</doc>
 				</group>
-				<group id="9">
+				<group id="8">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://itexpert.by/remont-televizorov/philips/</url>
@@ -165,13 +167,23 @@
 						</passages>
 					</doc>
 				</group>
+				<group id="9">
+					<doccount>1</doccount>
+					<doc>
+						<url>https://redsale.by/remont-tehniki/remont-televizorov/tag/philips</url>
+						<title><![CDATA[Ремонт телевизоров Philips (Филипс) с выездом на дом в Минске. Цены, гарантия – Redsale.by]]></title>
+						<passages>
+							<passage><![CDATA[ Ремонт телевизоров Philips (Филипс) Минск. ⚡ Узнайте, где недорого вызвать мастера на дом c бесплатной диагностикой. Качественный ремонт техники с гарантией: цены, отзывы и рейтинг анкет. ]]></passage>
+						</passages>
+					</doc>
+				</group>
 				<group id="10">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://s-mart.by/remont-televizorov/remont-televizorov-philips/</url>
-						<title><![CDATA[Ремонт телевизоров Philips в Минске | S-mart.by]]></title>
+						<url>https://remont-minsk-service.by/remont-televizorov/philips</url>
+						<title><![CDATA[Ремонт телевизоров Philips в Минске по доступной цене - срочный выезд мастера из сервисного центра RemLab]]></title>
 						<passages>
-							<passage><![CDATA[ В отличие от приборов других брендов, телевизоры Филипс работают на базе ОС Android, управляет системой мощный производительный процессор Quad Core. Но, к сожалению, как и другая цифровая ... ]]></passage>
+							<passage><![CDATA[ Бесплатная диагностика ➤ Бесплатная доставка ➤ Гарантия до 2-х лет на ремонт телевизоров телевизора Philips ➤ Сертифицированные инженеры ➤ Специальная скидка 15% при заказе через сайт! ]]></passage>
 						</passages>
 					</doc>
 				</group>

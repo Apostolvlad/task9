@@ -2,35 +2,63 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T095839">
-		<found priority="all">112000</found>
-		<topads>
-			<query>
-				<url>https://dekora.deal.by/монтаж/жидкие_обои</url>
-				<title>Услуга нанесения жидких обоев - Выезжаем по Минску</title>
-				<snippet>Услуга нанесения жидких обоев - Выезжаем по Минску</snippet>
-			</query>
-			<query>
-				<url>https://www.brigadi.by/</url>
-				<title>Нанесение жидких обоев в Минске - цены, мастера, отзывы</title>
-				<snippet>Нанесение жидких обоев в Минске - цены, мастера, отзывы</snippet>
-			</query>
-		</topads>
+	<response date="20210401T230227">
+		<found priority="all">100</found>
+		<addresults>
+			<relatedQuestions>
+				<question>
+					<title>Нанесение жидких обоев цена</title>
+				</question>
+				<question>
+					<title>Жидкие обои под ключ</title>
+				</question>
+				<question>
+					<title>Жидкие обои цена за квадратный метр</title>
+				</question>
+				<question>
+					<title>Жидкие обои цена беларусь</title>
+				</question>
+				<question>
+					<title>Жидкие обои купить</title>
+				</question>
+				<question>
+					<title>Услуги жидкие обои</title>
+				</question>
+				<question>
+					<title>Покрытие стен жидкими обоями</title>
+				</question>
+				<question>
+					<title>Отделка жидкими обоями</title>
+				</question>
+				<question>
+					<title>Жидкие обои на потолок цена</title>
+				</question>
+				<question>
+					<title>Мастер жидкие обои</title>
+				</question>
+				<question>
+					<title>Жидкие обои поклейка</title>
+				</question>
+				<question>
+					<title>Жидкие обои работа Гомель</title>
+				</question>
+			</relatedQuestions>
+		</addresults>
 		<bottomads>
 			<query>
-				<url>http://www.veneziano.by/</url>
-				<title>Опытные мастера по нанесению - Мастера по нанесению в...</title>
-				<snippet>Опытные мастера по нанесению - Мастера по нанесению в...</snippet>
+				<url>http://veneziano.by/</url>
+				<title>Опытные мастера по нанесению - Выезд на объект - Подбор цвета, консультация</title>
+				<snippet/>
 			</query>
 			<query>
-				<url>https://www.profi-bel.by/</url>
+				<url>https://profi-bel.by/remont/malyarnye-shtukaturnye-raboty/</url>
 				<title>Нанесение жидких обоев? - Обращайтесь к профи</title>
-				<snippet>Нанесение жидких обоев? - Обращайтесь к профи</snippet>
+				<snippet/>
 			</query>
 			<query>
-				<url>https://www.housemaster1067.by/</url>
-				<title>Мастер 1067 - Оклейка обоями</title>
-				<snippet>Мастер 1067 - Оклейка обоями</snippet>
+				<url>https://elit-remont.by/pokleika-oboev/</url>
+				<title>Поклеим обои качественно - Поклеим обои в короткие сроки</title>
+				<snippet/>
 			</query>
 		</bottomads>
 		<results>
@@ -39,48 +67,50 @@
 				<group id="1">
 					<doccount>1</doccount>
 					<doc>
-						<url>http://remon.by/articles/nanesenie-zhidkih-oboev-v-minske-otdelka-sten</url>
-						<title><![CDATA[ Нанесение жидких обоев в Минске - Ремонт квартир ]]></title>
+						<url>https://redsale.by/remont/oboi/nanesenie-zhidkih-oboev</url>
+						<title><![CDATA[Нанесение жидких обоев в Минске – 103 мастера, 700 отзывов, цены – RedSale.by]]></title>
 						<passages>
-							<passage><![CDATA[ Закажите прямо сейчас <hlword> нанесение жидких обоев </hlword> на стены в <hlword> Минске </hlword> и Минской области (REMON.BY): Работаем каждый день. Цены на поклейку обоев и ... ]]></passage>
+							<passage><![CDATA[ Нанесение жидких обоев Минск - цены, отзывы и примеры работ мастеров. ⚡ Сколько стоит недорогой ремонт на RedSale.by? Калькулятор стоимости услуг. ]]></passage>
 						</passages>
-						<stars>9,9/10</stars>
-						<extendedpassage>Рейтинг: 9,9/10
+						<extendedpassage>Оценка
+                              
+                              
+                              
+                              
                                 
-                                 · ‎
-                                
-                                  25 голосов</extendedpassage>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:6MO5k8hUOpYJ:remon.by/articles/nanesenie-zhidkih-oboev-v-minske-otdelka-sten+&amp;cd=1&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+                                  
+                                    4,7
+                                  
+                                  
+                                    
+                                    
+                                  
+                                  
+                                    (700)  Цена
+                              
+                              
+                              
+                              
+                                от 2 до 27 б.р.</extendedpassage>
 					</doc>
 				</group>
 				<group id="2">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://redsale.by/remont/oboi/nanesenie-zhidkih-oboev</url>
-						<title><![CDATA[ Нанесение жидких обоев в Минске – 103 мастера, 696 ... ]]></title>
+						<url>http://remon.by/articles/nanesenie-zhidkih-oboev-v-minske-otdelka-sten</url>
+						<title><![CDATA[Нанесение жидких обоев в Минске - Ремонт квартир]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Нанесение жидких обоев Минск </hlword> - цены, отзывы и примеры работ мастеров. ⚡ Сколько стоит недорогой ремонт на RedSale.by? Калькулятор стоимости  ... ]]></passage>
+							<passage><![CDATA[ Закажите прямо сейчас нанесение жидких обоев на стены в Минске и Минской области (REMON.BY): Работаем каждый день. Цены на поклейку обоев и нанесение жидких обоев. ]]></passage>
 						</passages>
-						<stars>4,7</stars>
-						<extendedpassage>Рейтинг: 4,7
-                                
-                                 · ‎
-                                
-                                  696 отзывов
-                                
-                                 · ‎
-                                
-                                  Диапазон цен: от 2 до 27 б.р.</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:arr_aGmj8-AJ:https://redsale.by/remont/oboi/nanesenie-zhidkih-oboev+&amp;cd=2&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="3">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://minsk.deal.by/Nanesenie-zhidkih-oboev.html</url>
-						<title><![CDATA[ Нанесение жидких обоев в Минске. Услуги на ... ]]></title>
+						<title><![CDATA[Нанесение жидких обоев в Минске. Услуги на маркетплейсе Deal.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Нанесение жидких обоев </hlword> на потолок. Выезд с образцами. Доставка из г. <hlword> Минск </hlword> . Нет отзывов. 932. Обои Bioplast! Выезд с образцами. В наличии. ]]></passage>
+							<passage><![CDATA[ Нанесение жидких обоев. Поиск, сравнение услуг, все цены в Минске. ]]></passage>
 						</passages>
 					</doc>
 				</group>
@@ -88,107 +118,95 @@
 					<doccount>1</doccount>
 					<doc>
 						<url>https://handshaker.by/catalog/nanesenie-zhidkih-oboev</url>
-						<title><![CDATA[ Нанесение жидких обоев в Минске - 111 предложений ... ]]></title>
+						<title><![CDATA[Нанесение жидких обоев в Минске - 111 предложений, отзывы и цены - Handshaker]]></title>
 						<passages>
-							<passage><![CDATA[ Каталог отделочников и строительных компаний <hlword> Минска </hlword> . <hlword> Нанесение жидких обоев </hlword> в квартирах и загородных домах. 111 предложений. ]]></passage>
+							<passage><![CDATA[ Каталог отделочников и строительных компаний Минска. Нанесение жидких обоев в квартирах и загородных домах. 111 предложений. ]]></passage>
 						</passages>
-						<stars>4,8</stars>
-						<extendedpassage>Рейтинг: 4,8
-                                
-                                 · ‎
-                                
-                                  23 отзыва
-                                
-                                 · ‎
-                                
-                                  От 1,00 BYN</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:w7NR9uMsPicJ:https://handshaker.by/catalog/nanesenie-zhidkih-oboev+&amp;cd=4&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="5">
 					<doccount>1</doccount>
 					<doc>
-						<url>http://otdelka.of.by/nanesenie-zhidkix-oboev/</url>
-						<title><![CDATA[ Нанесение жидких обоев цена за м2 в Минске / otdelka.of.by ]]></title>
+						<url>https://minsk.kabanchik.by/amp/category/nanesenie-zhidkih-oboev</url>
+						<title><![CDATA[ᐈ Нанесение Жидких Обоев Минск — Цены 2021, Стоимость - Kabanchik.by]]></title>
 						<passages>
-							<passage><![CDATA[ ]]></passage>
+							<passage><![CDATA[ Нанесение жидких обоев в г. Минск, опытные дизайнеры с отзывами и рейтингом. Заказывайте профессиональный дизайн этикеток и упаковок. Услуги дизайнеров по доступным ценам! ]]></passage>
 						</passages>
-						<pubDate>19 авг. 2019 г. —</pubDate>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:mfLdwpPkeNUJ:otdelka.of.by/nanesenie-zhidkix-oboev/+&amp;cd=5&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://minsk.kabanchik.by/category/nanesenie-zhidkih-oboev</url>
-						<title><![CDATA[ ᐈ Нанесение Жидких Обоев Минск — Цены 2021 ... ]]></title>
+						<url>https://minsk.kabanchik.by/amp/tag/tsena-naneseniia-zhidkikh-oboev</url>
+						<title><![CDATA[ᐈ Цена Нанесения Жидких Обоев Минск — Расценки 2021, Цены - Kabanchik.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Нанесение жидких обоев </hlword> в г. <hlword> Минск </hlword> , опытные дизайнеры с отзывами и рейтингом. Заказывайте профессиональный дизайн этикеток и упаковок. Услуги ... ]]></passage>
+							<passage/>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:EUPOnTFuTXsJ:https://minsk.kabanchik.by/category/nanesenie-zhidkih-oboev+&amp;cd=6&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="7">
 					<doccount>1</doccount>
 					<doc>
 						<url>http://sgm.by/remont/articles/nanesenie-zhidkih-oboev-v-minske-otdelka-i-poklejka</url>
-						<title><![CDATA[ Отделка жидкими обоями в Минске нанесение поклейка ]]></title>
+						<title><![CDATA[Отделка жидкими обоями в Минске нанесение поклейка - Sgm.by]]></title>
 						<passages>
-							<passage><![CDATA[ Услуги по отделке стен <hlword> жидкими обоями </hlword> в <hlword> Минске нанесение </hlword> поклейка. Заказать, цены и стоимость недорого. ]]></passage>
+							<passage><![CDATA[ Услуги по отделке стен жидкими обоями в Минске нанесение поклейка. Заказать, цены и стоимость недорого. ]]></passage>
 						</passages>
-						<stars>9,8/10</stars>
-						<extendedpassage>Рейтинг: 9,8/10
-                                
-                                 · ‎
-                                
-                                  165 голосов</extendedpassage>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:ky-Ys416ND8J:sgm.by/remont/articles/nanesenie-zhidkih-oboev-v-minske-otdelka-i-poklejka+&amp;cd=7&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="8">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://uslugi.yandex.ru/157-minsk/category/remont-i-stroitelstvo/oboi-i-malyarnyie-rabotyi/nanesenie-zhidkih-oboev--1676</url>
-						<title><![CDATA[ Нанесение жидких обоев в Минске - Поклейка обоев и ... ]]></title>
+						<url>https://getprofi.by/minsk/masters/nanesenie-zhidkih-oboev</url>
+						<title><![CDATA[Нанесение жидких обоев на стену в Минске, цена за м2 | GETPROFI - GETPROFI.BY]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Нанесение жидких обоев </hlword> в <hlword> Минске </hlword> . 84 маляра — выбирайте лучших специалистов и организации по ценам, рейтингам и отзывам на Яндекс. Услугах. ]]></passage>
+							<passage><![CDATA[ Сколько стоит нанесение жидких обоев на стену в Минске? Цены и отзывы от ➤более 100 частных мастеров и компаний из Минска в каталоге сервиса ➦Getprofi.by. Размести заказ и узнай стоимость! ]]></passage>
 						</passages>
+						<extendedpassage>Оценка
+                              
+                              
+                              
+                              
+                                
+                                  
+                                    4,5
+                                  
+                                  
+                                    
+                                    
+                                  
+                                  
+                                    (263)  Цена
+                              
+                              
+                              
+                              
+                                От 2,00 Br до 15,00 Br  Наличие
+                              
+                              
+                              
+                              
+                                В наличии</extendedpassage>
 					</doc>
 				</group>
 				<group id="9">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://domodel.by/categories/nanesenie-zhidkih-oboev</url>
-						<title><![CDATA[ Нанесение жидких обоев в Минске - сравнить цены и ... ]]></title>
+						<title><![CDATA[Нанесение жидких обоев в Минске - сравнить цены и заказать: 10,52 - 13,15 руб. - Domodel.by]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Нанесение жидких обоев </hlword> в в <hlword> Минске </hlword> . Качественная отделка стен профессионалами. Соблюдение сроков. Только квалифицированные спецалисты на ... ]]></passage>
+							<passage><![CDATA[ Нанесение жидких обоев в в Минске. Качественная отделка стен профессионалами. Соблюдение сроков . Только квалифицированные спецалисты на сайте domodel.by. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:kRlt7XYLAkkJ:https://domodel.by/categories/nanesenie-zhidkih-oboev+&amp;cd=9&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="10">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://getprofi.by/minsk/masters/nanesenie-zhidkih-oboev</url>
-						<title><![CDATA[ Нанесение жидких обоев на стену в Минске, цена за м2 ... ]]></title>
+						<url>https://flagma.by/nanesenie-zhidkih-oboev-so6354213-1.html</url>
+						<title><![CDATA[Нанесение жидких обоев в Беларуси — Сравнить цены и купить на Flagma.by]]></title>
 						<passages>
-							<passage><![CDATA[ Сколько стоит <hlword> нанесение жидких обоев </hlword> на стену в <hlword> Минске </hlword> ? Цены и отзывы от ➤более 100 частных мастеров и компаний из <hlword> Минска </hlword> в каталоге сервиса  ... ]]></passage>
+							<passage><![CDATA[ Жидкие обои. Цена. 3 руб/м.кв. Подомацкий К.А., ИП, Минск ... ]]></passage>
 						</passages>
-						<stars>4,5</stars>
-						<extendedpassage>Рейтинг: 4,5
-                                
-                                 · ‎
-                                
-                                  263 голоса
-                                
-                                 · ‎
-                                
-                                  От 2,00 BYN до 15,00 BYN
-                                
-                                 · ‎
-                                
-                                  В наличии</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:Rr4k6Pszh6YJ:https://getprofi.by/minsk/masters/nanesenie-zhidkih-oboev+&amp;cd=10&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 			</grouping>

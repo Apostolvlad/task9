@@ -2,21 +2,24 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T100650">
+	<response date="20210401T213139">
 		<found priority="all">100</found>
 		<addresults>
 			<relatedQuestions>
 				<question>
-					<title>Ремонт телевизоров Сони минск</title>
+					<title>Ремонт фотоаппаратов Sony Минск</title>
+				</question>
+				<question>
+					<title>Ремонт телевизоров Сони Минск</title>
 				</question>
 				<question>
 					<title>Ремонт наушников Sony Минск</title>
 				</question>
 				<question>
-					<title>Авторизованный сервисный центр Сони минск</title>
+					<title>Ремонт экшн камер Sony</title>
 				</question>
 				<question>
-					<title>Ремонт экшн камер Sony</title>
+					<title>Авторизованный сервисный центр Сони минск</title>
 				</question>
 				<question>
 					<title>Официальный сервисный центр сони минск</title>
@@ -28,59 +31,26 @@
 					<title>Ремонт видеокамер Sony в Минске</title>
 				</question>
 				<question>
-					<title>Ремонт телефонов Sony Минск</title>
-				</question>
-				<question>
 					<title>Ремонт телефонов Сони</title>
 				</question>
 				<question>
-					<title>Сервисный центр телевизоров Sony</title>
+					<title>Сервисный центр SONY минск кирова 9</title>
 				</question>
 				<question>
-					<title>Сервисный центр SONY минск кирова 9</title>
+					<title>Сервисный центр телевизоров Sony</title>
 				</question>
 				<question>
 					<title>Сервисный центр сони Витебск</title>
 				</question>
 			</relatedQuestions>
 		</addresults>
-		<localresultsplace>
-			<item>
-				<title>Сервисный центр Sony</title>
-				<place_id>3035263643162730828</place_id>
-				<url/>
-				<rating/>
-			</item>
-			<item>
-				<title>Fotonika.by: ремонт фотоаппаратов и сопутствующей фототехники</title>
-				<place_id>2612376085559837147</place_id>
-				<url/>
-				<rating/>
-			</item>
-			<item>
-				<title>Ремонт телевизоров, СВЧ, фенов, фотоаппаратов в Минске</title>
-				<place_id>2870416296280843118</place_id>
-				<url/>
-				<rating/>
-			</item>
-		</localresultsplace>
-		<topads>
-			<query>
-				<url>http://rodi.by/remont-fotoapparatov/</url>
-				<title>Ремонт фотоаппаратов в Минске - Опыт работы 25 лет - Недорого - rodi.by</title>
-				<snippet/>
-			</query>
-			<query>
-				<url>https://tv-remont.by/</url>
-				<title>Мастерская Гильдия Мастеров - Заказывайте сейчас</title>
-				<snippet/>
-			</query>
+		<bottomads>
 			<query>
 				<url>https://fix-lab.by/</url>
-				<title>Круглосуточно - Надежно - fix-lab.by</title>
+				<title>Круглосуточно - Оперативно</title>
 				<snippet/>
 			</query>
-		</topads>
+		</bottomads>
 		<results>
 			<grouping>
 				<page first="1" last="10">0</page>
@@ -137,18 +107,18 @@
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://sony-service.by/</url>
-						<title><![CDATA[Сервисный Центр Sony в Минске • Ремонт телевизоров Sony, ноутбуков, смартфонов, мониторов, саундбаров Sony, видеокамер и планшетов. Оригинальные запчасти Sony]]></title>
+						<url>https://sony-service.by/product/uncategorized/ремонт-фотоаппаратов/</url>
+						<title><![CDATA[Ремонт Фотоаппаратов • Сервисный Центр Sony в Минске]]></title>
 						<passages>
-							<passage><![CDATA[ Ремонт телевизоров Sony, ноутбуков, мониторов, смартфонов, саундбаров Sony в Минске. Купить телевизор Sony, ноутбук, саундбар, смартфон, монитор, планшет в Беларуси. ]]></passage>
+							<passage><![CDATA[ Ремонт Фотоаппаратов в Минске. ... Сервисный Центр Sony в Минске. Ремонт телевизоров Sony, ноутбуков, смартфонов, мониторов, саундбаров Sony, видеокамер и планшетов. Оригинальные запчасти Sony. ]]></passage>
 						</passages>
 					</doc>
 				</group>
 				<group id="7">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://sony-service.by/product/uncategorized/ремонт-фотоаппаратов/</url>
-						<title><![CDATA[Ремонт Фотоаппаратов • Сервисный Центр Sony в Минске]]></title>
+						<url>https://sony-service.by/</url>
+						<title><![CDATA[Сервисный Центр Sony в Минске • Ремонт телевизоров Sony, ноутбуков, смартфонов, мониторов, саундбаров Sony, видеокамер и планшетов. Оригинальные запчасти Sony]]></title>
 						<passages>
 							<passage/>
 						</passages>
@@ -178,10 +148,10 @@
 				<group id="10">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.sony.ru/electronics/support/articles/00093575</url>
-						<title><![CDATA[Сервисные центры Sony: обслуживание и ремонт | Sony RU]]></title>
+						<url>https://fotomagazin.by/garantiya</url>
+						<title><![CDATA[Где отремонтировать цифровой фотоаппарат сервисный центр в Минске канон canon никон nikon сони sony олимпус olympus самсунг samsung - Fotomagazin.by]]></title>
 						<passages>
-							<passage><![CDATA[ Список АСЦ в формате PDF. сервис, сервисы, ремонт, ремонт телевизоров сони, ремонт сони, ремонт приставок сони, ремонт фотоаппаратов сони, ремонт плееров сони, ремонт xperia, ремонт walkman, ... ]]></passage>
+							<passage><![CDATA[ Сроки бесплатного гарантийного ремонта фототехники: Canon - 2 года; Fujifilm - 1 год; GoPro - 1 год; Kodak - 1 год; Nikon - 1 год + 1 год обслуживание; Olymus - 2 года; Panasonic - 2 года; Pentax - 2 года ... ]]></passage>
 						</passages>
 					</doc>
 				</group>

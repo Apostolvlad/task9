@@ -2,143 +2,140 @@
 <yandexsearch version="1.0">
 	
   
-	<response date="20210330T095745">
-		<found priority="all">222000</found>
-		<topads>
-			<query>
-				<url>http://www.podstavki.by/информационные/стенды</url>
-				<title>Заказать информационные стенды - С доставкой по Беларуси</title>
-				<snippet>Заказать информационные стенды - С доставкой по Беларуси</snippet>
-			</query>
-			<query>
-				<url>http://www.letters.by/стенд-выставка</url>
-				<title>Выставочные стенды на заказ - Долговечность - letters.by</title>
-				<snippet>Выставочные стенды на заказ - Долговечность - letters.by</snippet>
-			</query>
-		</topads>
-		<bottomads>
-			<query>
-				<url>https://www.zroblena.by/</url>
-				<title>Стенд под ключ за 3 дня - Рекламный стенд любой сложност</title>
-				<snippet>Стенд под ключ за 3 дня - Рекламный стенд любой сложност</snippet>
-			</query>
-			<query>
-				<url>http://www.sibikom.by/</url>
-				<title>оформление информ стенда - Стенд с постоянной...</title>
-				<snippet>оформление информ стенда - Стенд с постоянной...</snippet>
-			</query>
-			<query>
-				<url>https://www.event-expo.by/аренда_для_вас/минск</url>
-				<title>Дизайн Стенда Для Выставки - Аренда Шатров Тентов Стульев</title>
-				<snippet>Дизайн Стенда Для Выставки - Аренда Шатров Тентов Стульев</snippet>
-			</query>
-		</bottomads>
+	<response date="20210401T212545">
+		<found priority="all">100</found>
+		<addresults>
+			<relatedQuestions>
+				<question>
+					<title>Аренда выставочных стендов</title>
+				</question>
+				<question>
+					<title>Выставочный стенд дизайн</title>
+				</question>
+				<question>
+					<title>Выставочный стенд минск</title>
+				</question>
+				<question>
+					<title>Производство выставочных стендов</title>
+				</question>
+				<question>
+					<title>Застройка выставочных стендов</title>
+				</question>
+				<question>
+					<title>Выставочные стенды</title>
+				</question>
+				<question>
+					<title>Изготовление выставочного оборудования</title>
+				</question>
+				<question>
+					<title>Выставочное оборудование минск</title>
+				</question>
+				<question>
+					<title>ИнфоАртСервис</title>
+				</question>
+			</relatedQuestions>
+		</addresults>
 		<results>
 			<grouping>
-				<page first="1" last="9">0</page>
+				<page first="1" last="10">0</page>
 				<group id="1">
 					<doccount>1</doccount>
 					<doc>
 						<url>http://stend-up.by/</url>
-						<title><![CDATA[ Стенды выставочные – Дизайн и изготовление стендов ... ]]></title>
+						<title><![CDATA[Стенды выставочные – Дизайн и изготовление стендов, Минск, РБ]]></title>
 						<passages>
-							<passage><![CDATA[ Изготовление <hlword> выставочных стендов </hlword> и торгового оборудования от компании «Инфоартсервис» в <hlword> Минске </hlword> и Беларуси. Дизайн и <hlword> оформление </hlword> стендов. ]]></passage>
+							<passage><![CDATA[ Изготовление выставочных стендов и торгового оборудования от компании «Инфоартсервис» в Минске и Беларуси. Дизайн и оформление стендов. ]]></passage>
 						</passages>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:QWclqvCYeuAJ:stend-up.by/+&amp;cd=7&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="2">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://igvitta.by/uslugi/oformlenie-vystavok</url>
-						<title><![CDATA[ Оформление выставок, выставочных стендов в Минске ... ]]></title>
+						<url>https://grandio.by/g1132430-izgotovlenie-oformlenie-vystavochnyh</url>
+						<title><![CDATA[Изготовление выставочных стендов и оформление выставок - заказать в Минске - Грандио Бай]]></title>
 						<passages>
-							<passage><![CDATA[ Профессиональное производство <hlword> выставочных стендов </hlword> ▻ <hlword> Оформление </hlword> выставок, экспозиций ✓ Полная комплектация. Подготовим павильоны к ... ]]></passage>
+							<passage><![CDATA[ Дизайн и изготовление выставочных стендов в компании Грандио Бай. Заказать оформление выставок и мероприятий, выставочное оборудование. Доставка по Минску и Беларуси. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:2JtlpRRXkZEJ:https://igvitta.by/uslugi/oformlenie-vystavok+&amp;cd=8&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="3">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://grandio.by/g1132430-izgotovlenie-oformlenie-vystavochnyh</url>
-						<title><![CDATA[ Изготовление выставочных стендов и оформление ... ]]></title>
+						<url>https://igvitta.by/uslugi/oformlenie-vystavok</url>
+						<title><![CDATA[Оформление выставок, выставочных стендов в Минске | Заказать изготовление стенда для выставки - ИГВИТТА]]></title>
 						<passages>
-							<passage><![CDATA[ Дизайн и изготовление <hlword> выставочных стендов </hlword> в компании Грандио Бай. Заказать <hlword> оформление </hlword> выставок и мероприятий, выставочное оборудование. ]]></passage>
+							<passage><![CDATA[ Профессиональное производство выставочных стендов ▻ Оформление выставок, экспозиций ✓ Полная комплектация. Подготовим павильоны к выставке. Заказывайте. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:lyRsJK3w-NIJ:https://grandio.by/g1132430-izgotovlenie-oformlenie-vystavochnyh+&amp;cd=9&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="4">
 					<doccount>1</doccount>
 					<doc>
 						<url>https://comint.by/expo-stendy/</url>
-						<title><![CDATA[ Выставочные стенды, строительство стендов для ... - Коминт ]]></title>
+						<title><![CDATA[Выставочные стенды, строительство стендов для выставок в Минске - Коминт]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Выставочные стенды </hlword> : <hlword> оформление </hlword> и строительство. Стенды для выставок, изготовление ... стенды выставочные <hlword> выставочные стенды минск </hlword> . ]]></passage>
+							<passage><![CDATA[ Выставочные стенды: оформление и строительство. Стенды для выставок, изготовление рекламных раздаточных материалов. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:DXq19_KkAkEJ:https://comint.by/expo-stendy/+&amp;cd=10&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="5">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://foxystudio.by/services/oklejka/vystavok</url>
-						<title><![CDATA[ Дизайн оформления выставочных павильонов, оклейка ... ]]></title>
+						<url>https://vvd.by/reklamnoe-oformlenie/oformlenie-vystavki/</url>
+						<title><![CDATA[Рекламное оформление выставки и выставочных стендов - заказать в Минске по доступным ценам - Вивид Групп]]></title>
 						<passages>
-							<passage><![CDATA[ Дизайн <hlword> оформления </hlword> и оклейка <hlword> выставочных стендов </hlword> можно заказать на сайте компании Фокси Студио. У нас: ✓доступные цены; ✓высокое качество  ... ]]></passage>
+							<passage><![CDATA[ Когда возникает необходимость изготовить выставочный стенд, важно продумать целый ряд элементов, из которых он состоит. Оформление выставочного павильона включает: постройку стендов; ... ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:4JKmry5mkHUJ:https://foxystudio.by/services/oklejka/vystavok+&amp;cd=11&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="6">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://vvd.by/reklamnoe-oformlenie/oformlenie-vystavki/</url>
-						<title><![CDATA[ Рекламное оформление выставки и выставочных стендов ... ]]></title>
+						<url>https://www.belinterexpo.by/dizajn-i-stroitelstvo-stendov-dlya-vystavok/</url>
+						<title><![CDATA[Заказать стенды для выставок в Беларуси, разработка дизайна и оформление выставочного пространства | БЕЛИНТЕРЭКСПО]]></title>
 						<passages>
-							<passage><![CDATA[ Что включает в себя <hlword> оформление </hlword> выставок. Когда возникает необходимость изготовить <hlword> выставочный стенд </hlword> , важно продумать целый ряд элементов, из ... ]]></passage>
+							<passage><![CDATA[ ... рекламных конструкций. ✓ Строительство и дизайн выставочных стендов, оформление залов. ✓ Возможность приобрести лайтбоксы, ролл-апы, объемные буквы, фотозоны и многое другое в Минске. ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:nCyw_x5OLG0J:https://vvd.by/reklamnoe-oformlenie/oformlenie-vystavki/+&amp;cd=12&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="7">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://www.belinterexpo.by/dizajn-i-stroitelstvo-stendov-dlya-vystavok/</url>
-						<title><![CDATA[ Дизайн и строительство выставочных стендов ]]></title>
+						<url>https://pechatnik.by/pos-materialyi/stendyi/vyistavochnyie/</url>
+						<title><![CDATA[Изготовление выставочных стендов на заказ в Минске, оформление, дизайн, оклейка! - Печатник]]></title>
 						<passages>
-							<passage><![CDATA[ Строительство и дизайн <hlword> выставочных стендов </hlword> , <hlword> оформление </hlword> залов. ... лайтбоксы, ролл-апы, объемные буквы, фотозоны и многое другое в <hlword> Минске </hlword> . ]]></passage>
+							<passage><![CDATA[ Выставочные стенды из дерева, фанеры, металла, стекла под заказ. Разборные, переносные. Качественное оформление и оклейка стендов! ]]></passage>
 						</passages>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:uyROyV5vbcwJ:https://www.belinterexpo.by/dizajn-i-stroitelstvo-stendov-dlya-vystavok/+&amp;cd=13&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="8">
 					<doccount>1</doccount>
 					<doc>
-						<url>http://amadis.by/node/131</url>
-						<title><![CDATA[ Выставочные стенды (Минск) • Изготовление выставочных ... ]]></title>
+						<url>https://cityart.by/nashi-uslugi/oformlenie-vystavok.html</url>
+						<title><![CDATA[Оформление выставок в Минске – 'ТГ Сити Арт - Наружная реклама]]></title>
 						<passages>
-							<passage><![CDATA[ Грамотный подход к <hlword> оформлению выставочных стендов </hlword> будет способствовать узнаваемости компании и появлению доверия к бренду. ]]></passage>
+							<passage><![CDATA[ В каждом проекте учитываются пожелания заказчика в отношении функциональности будущего стенда, его дизайна, стоимости. Примеры наших работ. IMG 20190125 202131. ]]></passage>
 						</passages>
-						<cachelink>http://webcache.googleusercontent.com/search?q=cache:Ozx8U4GWvdYJ:amadis.by/node/131+&amp;cd=14&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
 					</doc>
 				</group>
 				<group id="9">
 					<doccount>1</doccount>
 					<doc>
-						<url>https://pechatnik.by/pos-materialyi/stendyi/vyistavochnyie/</url>
-						<title><![CDATA[ Изготовление выставочных стендов на заказ в Минске ... ]]></title>
+						<url>https://advis.by/service/vyistavochnyie-stendyi</url>
+						<title><![CDATA[Выставочные стенды в Минске - Изготовление стендов на выставки - Рекламное агентство Advis]]></title>
 						<passages>
-							<passage><![CDATA[ <hlword> Выставочные стенды </hlword> из дерева, фанеры, металла, стекла под заказ. Разборные, переносные. Качественное <hlword> оформление </hlword> и оклейка стендов! ]]></passage>
+							<passage><![CDATA[ Такой рекламный стенд купить можно в нашей компании, позвонив по указанным телефонам. Индивидуальный дизайн выставочного стенда. Предполагает создание уникальной концепции, с учетом всех ... ]]></passage>
 						</passages>
-						<stars>5</stars>
-						<extendedpassage>Рейтинг: 5
-                                
-                                 · ‎
-                                
-                                  1 голос</extendedpassage>
-						<cachelink>https://webcache.googleusercontent.com/search?q=cache:fUn-_qUmXWsJ:https://pechatnik.by/pos-materialyi/stendyi/vyistavochnyie/+&amp;cd=15&amp;hl=ru&amp;ct=clnk&amp;gl=ru</cachelink>
+					</doc>
+				</group>
+				<group id="10">
+					<doccount>1</doccount>
+					<doc>
+						<url>http://amadis.by/node/131</url>
+						<title><![CDATA[Выставочные стенды (Минск) • Изготовление выставочных стендов. - Amadis]]></title>
+						<passages>
+							<passage><![CDATA[ Грамотный подход к оформлению выставочных стендов будет способствовать узнаваемости компании и ... стендов в Минске и готовы предложить множество вариантов выставочного оформления для самых ... ]]></passage>
+						</passages>
 					</doc>
 				</group>
 			</grouping>
