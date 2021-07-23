@@ -1,3 +1,4 @@
+import re
 import service_table
 import api_xmlriver
 import time
@@ -32,13 +33,17 @@ def process_table():
     for filename in os.listdir('data'):
         if table_row_count_update > i_row:
             result, url = api_xmlriver.process2(f'data\\{filename}')
+            select_item = result['items'][0]
+            select_url = ''
             for item in result['items']:
-                if item['url'].find('redsale.by') == -1: continue
-                table_row = [item['url'], filename.replace('.xml', '').replace("'", '"')]
-                i_row += 1
-                table_row.append(url)  
-                table_row.extend(item.get('oneline_sitelinks', ()))
-                table_data.append(table_row)  
+                if not 'redsale.by' in item['url']: continue
+                select_item = item
+                select_url = item['url']
+            table_row = [select_url, filename.replace('.xml', '').replace("'", '"')]
+            i_row += 1
+            table_row.append(url)  
+            table_row.extend(select_item.get('oneline_sitelinks', ()))
+            table_data.append(table_row)  
         else:
             i_row = 0
             update_table()
